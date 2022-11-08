@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Home
-description: A course covering the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects.
+description: A course covering the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. ROB 498-002 and ROB 599-009 at the University of Michigan.
 nav_order: 1
 permalink: /
 ---
 
 # Deep Learning for Robot Perception
 
-ROB 498 & 599, Winter 2023 at The University of Michigan
+ROB 498-002 & 599-009, Winter 2023 at The University of Michigan
 {: .fs-6 .fw-300 }
 
 This website describes a course still in development to be offered in the Winter 2023 semester.
