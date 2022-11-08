@@ -1,0 +1,32 @@
+---
+layout: page
+title: Home
+description: A summary of the course instructors, topic and schedule.
+nav_order: 1
+permalink: /
+---
+
+# Deep Learning for Robot Perception
+
+ROB 498 & 599, Winter 2023 at The University of Michigan
+{: .fs-6 .fw-300 }
+
+This website describes a course still in development to be offered in the Winter 2023 semester.
+{: .text-grey-dk-200 .bg-yellow-300 .fs-4 .fw-500}
+
+This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
+
+This course is being offered through a Distributed Teaching Collaborative between faculty at [the University of Michigan](https://robotics.umich.edu/){:target="_blank"} ([Anthony Opipari](https://topipari.com){:target="_blank"}, [Chad Jenkins](https://ocj.name/){:target="_blank"}) and [the University of Minnesota](https://cse.umn.edu/mnri){:target="_blank"} ([Karthik Desingh](https://karthikdesingh.com/){:target="_blank"}).
+
+
+This course builds on and is indebted to these existing courses (as a “star” and and a "fork" in the open source sense:
+- [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html){:target="_blank"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){:target="_blank"}
+- [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){:target="_blank"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){:target="_blank"} and [Andrej Karpathy](https://karpathy.ai/){:target="_blank"}
+
+
+## Instructors
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
