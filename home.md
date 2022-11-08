@@ -19,7 +19,7 @@ This course covers the necessary background of neural-network-based deep learnin
 This course is being offered through a Distributed Teaching Collaborative between faculty at [the University of Michigan](https://robotics.umich.edu/){:target="_blank"} ([Anthony Opipari](https://topipari.com){:target="_blank"}, [Chad Jenkins](https://ocj.name/){:target="_blank"}) and [the University of Minnesota](https://cse.umn.edu/mnri){:target="_blank"} ([Karthik Desingh](https://karthikdesingh.com/){:target="_blank"}).
 
 
-This course builds on and is indebted to these existing courses (as a “star” and and a "fork" in the open source sense:
+This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense:
 - [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html){:target="_blank"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){:target="_blank"}
 - [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){:target="_blank"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){:target="_blank"} and [Andrej Karpathy](https://karpathy.ai/){:target="_blank"}
 
