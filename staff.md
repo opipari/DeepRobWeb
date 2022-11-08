@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
+description: A directory of the teaching staff for Deep Learning for Robot Perception at the University of Michigan.
 ---
 
 # Staff

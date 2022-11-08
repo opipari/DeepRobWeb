@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: A summary of the course instructors, topic and schedule.
+description: A course covering the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects.
 nav_order: 1
 permalink: /
 ---

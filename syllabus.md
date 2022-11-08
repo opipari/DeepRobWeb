@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: >-
-    Course policies and information.
+description: Course policies and information pertaining to Deep Learning for Robot Perception at the University of Michigan.
 nav_order: 2
 ---
 
