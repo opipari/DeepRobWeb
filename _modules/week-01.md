@@ -3,9 +3,9 @@ title: Week 1
 ---
 
 Jan 5
-: **Lecture**{: .label .label-green }[Course Introduction](#)
-  <!-- : [1.1](#) -->
+: **Lec 1**{: .label .label-purple }[Course Introduction](#)
+: **Project 0 out**{: .label .label-yellow }
 
 Jan 6
-: **Discussion**{: .label .label-purple }[Intro to Python](#)
+: **Dis 1**{: .label .label-blue }[Intro to Python](#)
   <!-- : [Solution](#) -->

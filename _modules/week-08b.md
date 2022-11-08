@@ -3,10 +3,10 @@ title: Spring Break
 ---
 
 Feb 28
-: **Break**{: .label .label-grey }
+: **Break**{: .label .bg-grey-dk-000 }
 
 Feb 23
-: **Break**{: .label .label-grey }
+: **Break**{: .label .bg-grey-dk-000 }
 
 Feb 24
-: **Break**{: .label .label-Grey }
+: **Break**{: .label .bg-grey-dk-000 }

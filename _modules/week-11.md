@@ -3,12 +3,12 @@ title: Week 11
 ---
 
 Mar 21
-: **Lecture**{: .label .label-green }[Generative Models II](#)
+: **Lec 20**{: .label .label-purple }[SDF, Implicit surfaces](#)
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Mar 23
-: **Lecture**{: .label .label-green }[Visualizing and Inspecting Models](#)
+: **Lec 21**{: .label .label-purple }[Neural Radiance Fields](#)
   <!-- : [Solution](#) -->
 
 Mar 24
-: **Discussion**{: .label .label-purple }[Paper discussion: Object Perception](#)
+: **Dis 11**{: .label .label-blue }[Paper discussion: Object Perception](#)

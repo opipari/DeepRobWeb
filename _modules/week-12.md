@@ -3,12 +3,12 @@ title: Week 12
 ---
 
 Mar 28
-: **Lecture**{: .label .label-green }[Self Supervised Learning](#)
-  <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+: **Lec 22**{: .label .label-purple }[Articulated Object Representation and Estimation](#)
+: **Final Project Checkpoint**{: .label .label-red }
 
 Mar 30
-: **Lecture**{: .label .label-green }[3D Vision](#)
+: **Lec 23**{: .label .label-purple }[Deformable Object Representation and Estimation](#)
   <!-- : [Solution](#) -->
 
 Mar 31
-: **Discussion**{: .label .label-purple }[Paper discussion: Object Perception](#)
+: **Dis 12**{: .label .label-blue }[Paper discussion: Object Perception](#)

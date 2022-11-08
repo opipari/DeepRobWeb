@@ -3,12 +3,12 @@ title: Week 9
 ---
 
 Mar 7
-: **Lecture**{: .label .label-green }[Recurrent Networks](#)
+: **Lec 16**{: .label .label-purple }[Neural Attention Mechanisms](#)
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Mar 9
-: **Lecture**{: .label .label-green }[Neural Attention Mechanisms](#)
+: **Lec 17**{: .label .label-purple }[Transformer Architectures](#)
   <!-- : [Solution](#) -->
 
 Mar 10
-: **Discussion**{: .label .label-purple }[Paper discussion: 3D vision](#)
+: **Dis 9**{: .label .label-blue }[Paper discussion: 3D vision](#)

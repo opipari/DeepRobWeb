@@ -3,12 +3,12 @@ title: Week 5
 ---
 
 Jan 31
-: **Lecture**{: .label .label-green }[CNN Architectures I](#)
+: **Lec 8**{: .label .label-purple }[CNN Architectures I](#)
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Feb 2
-: **Lecture**{: .label .label-green }[Training Neural Networks I](#)
+: **Lec 9**{: .label .label-purple }[Training Neural Networks I](#)
   <!-- : [Solution](#) -->
 
 Feb 3
-: **Discussion**{: .label .label-purple }[CNN Modules in PyTorch](#)
+: **Dis 5**{: .label .label-blue }[CNN Modules in PyTorch](#)

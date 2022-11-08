@@ -3,12 +3,12 @@ title: Week 10
 ---
 
 Mar 14
-: **Lecture**{: .label .label-green }[Vision Transformers](#)
-  <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+: **Lec 18**{: .label .label-purple }[RGBD Architectures](#)
+: **Project 4 due**{: .label .label-red } **Final Project out**{: .label .label-yellow }
 
 Mar 16
-: **Lecture**{: .label .label-green }[Generative Models I](#)
+: **Lec 19**{: .label .label-purple }[Pointclouds, PointNet, and PointNet++](#)
   <!-- : [Solution](#) -->
 
 Mar 17
-: **Discussion**{: .label .label-purple }[Paper discussion: Object Perception](#)
+: **Dis 10**{: .label .label-blue }[Paper discussion: Object Perception](#)
