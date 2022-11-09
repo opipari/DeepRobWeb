@@ -31,7 +31,7 @@ aux_links_new_tab: true
 aux_links:
   Forum:
     - 'https://edstem.org/us/courses/31008/discussion/'
-  Office Hours Queue:
+  Office Hours:
     - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
   '<img src="/assets/logos/UMRobotics.png" style="max-height:100%;">':
     - 'https://robotics.umich.edu/'
