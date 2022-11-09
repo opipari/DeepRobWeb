@@ -27,11 +27,14 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links_new_tab: true
 aux_links:
-  # Kevin Lin:
-  #   - 'https://kevinl.info'
-  # Just the Class on GitHub:
-  #   - 'https://github.com/kevinlin1/just-the-class'
+  Forum:
+    - 'https://edstem.org/us/courses/31008/discussion/'
+  Office Hours Queue:
+    - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
+  '<img src="/assets/logos/UMRobotics.png" style="max-height:100%;">':
+    - 'https://robotics.umich.edu/'
 footer_content:
 
 # Collections for website data
