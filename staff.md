@@ -9,20 +9,16 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="staffer-table">
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-</div>
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Instructional Aide' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## Instructional Aides
 
-<div class="staffer-table">
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-</div>
 {% endif %}
