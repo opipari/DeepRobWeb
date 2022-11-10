@@ -21,6 +21,9 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://opipari.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+ga_tracking: G-FX9SVF3WSQ
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 color_scheme: light
