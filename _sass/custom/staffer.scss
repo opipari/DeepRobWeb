@@ -1,9 +1,12 @@
 .staff-row {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
   column-count: 2;
+  display: flex;
 }
 
 .staff-column {
-  display:inline-block;
+  width: 100%;
 }
 
 .staffer {
