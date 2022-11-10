@@ -1,8 +1,19 @@
 .staff-row {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
-  display: flex;
+  
+
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+  display: inline;
+
+  @include mq(lg) {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    display: flex;
+  }
+
+  
 }
 
 .staff-column {
