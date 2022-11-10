@@ -24,12 +24,28 @@ This course builds on and is indebted to these existing courses (as a “star”
 - [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){:target="_blank"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){:target="_blank"} and [Andrej Karpathy](https://karpathy.ai/){:target="_blank"}
 
 
+<div class="staff-row" >
+<div markdown="1" class="staff-column">
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+</div>
+<div markdown="1" class="staff-column">
+
+## Collaborating Instructors
+
+{% assign instructors = site.staffers | where: 'role', 'Collaborating Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+</div>
+</div>
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Instructional Aide' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

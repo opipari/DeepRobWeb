@@ -1,7 +1,9 @@
-.staffer-table {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 1.5rem;
+.staff-row {
+  column-count: 2;
+}
+
+.staff-column {
+  display:inline-block;
 }
 
 .staffer {
