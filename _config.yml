@@ -38,7 +38,6 @@ aux_links:
     - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
   '<img src="/assets/logos/UMRobotics.png" class="nav-img">':
     - 'https://robotics.umich.edu/'
-footer_content:
 
 # Collections for website data
 collections:
