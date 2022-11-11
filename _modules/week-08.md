@@ -9,7 +9,7 @@ Feb 21
 Feb 23
 : **Lec 15**{: .label .label-purple }[Recurrent Networks](#)
   <!-- : [Solution](#) -->
-: **Project 3 due**{: .label .label-red } **Project 4 out**{: .label .label-yellow }
+: [**Project 3 due**{: .label .label-red }](/projects/#project-3){: .project-link} [**Project 4 out**{: .label .label-yellow }](/projects/#project-4){: .project-link}
 
 Feb 24
 : **Dis 8**{: .label .label-blue }[Detection & Segmentation Demo](#)

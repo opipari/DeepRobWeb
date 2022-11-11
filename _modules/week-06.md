@@ -8,7 +8,7 @@ Feb 7
 
 Feb 9
 : **Lec 11**{: .label .label-purple }[CNN Architectures II](#)
-: **Project 2 due**{: .label .label-red } **Project 3 out**{: .label .label-yellow }
+: [**Project 2 due**{: .label .label-red }](/projects/#project-2){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
 
 Feb 10
 : **Dis 6**{: .label .label-blue }[Training CNNs in PyTorch](#)

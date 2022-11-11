@@ -8,7 +8,7 @@ Jan 10
 
 Jan 12
 : **Lec 3**{: .label .label-purple }[Linear Classifiers](#)
-: **Project 0 due**{: .label .label-red } **Project 1 out**{: .label .label-yellow }
+: [**Project 0 due**{: .label .label-red }](/projects/#project-0){: .project-link} [**Project 1 out**{: .label .label-yellow }](/projects/#project-1){: .project-link}
 
 Jan 13
 : **Dis 2**{: .label .label-blue }[Intro to PyTorch](#)
