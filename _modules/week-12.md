@@ -11,4 +11,4 @@ Mar 30
   <!-- : [Solution](#) -->
 
 Mar 31
-: **Dis 12**{: .label .label-blue }[Paper discussion: Object Perception](#)
+: **Dis 12**{: .label .label-blue }[Creating and managing datasets, Papers With Code](#)

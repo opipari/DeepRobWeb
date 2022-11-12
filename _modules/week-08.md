@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 8; 3D Perception
 ---
 
 Feb 21

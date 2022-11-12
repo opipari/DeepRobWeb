@@ -11,4 +11,4 @@ Apr 13
   <!-- : [Solution](#) -->
 
 Apr 14
-: **Dis 14**{: .label .label-blue }[TBD](#)
+: **Dis 14**{: .label .label-blue }[Paper discussion: Remaining Challenges and Limitations](#)

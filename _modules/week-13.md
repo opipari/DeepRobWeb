@@ -11,4 +11,4 @@ Apr 6
   <!-- : [Solution](#) -->
 
 Apr 7
-: **Dis 13**{: .label .label-blue }[TBD](#)
+: **Dis 13**{: .label .label-blue }[Paper discussion: Learning for Manipulation](#)
