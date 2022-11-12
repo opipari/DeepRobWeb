@@ -1,9 +1,9 @@
 ---
-title: Week 11
+title: Week 11; Scene-Level Representations
 ---
 
 Mar 21
-: **Lec 20**{: .label .label-purple }[SDF, Implicit surfaces](#)
+: **Lec 20**{: .label .label-purple }[Semantic Scene Graphs](#)
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Mar 23
@@ -11,4 +11,4 @@ Mar 23
   <!-- : [Solution](#) -->
 
 Mar 24
-: **Dis 11**{: .label .label-blue }[Paper discussion: Object Perception](#)
+: **Dis 11**{: .label .label-blue }[Paper discussion: NeRFs](#)

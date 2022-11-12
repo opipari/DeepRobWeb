@@ -7,8 +7,8 @@ Feb 7
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Feb 9
-: **Lec 11**{: .label .label-purple }[CNN Architectures II](#)
+: **Lec 11**{: .label .label-purple }[Deep Learning Software](#)
 : [**Project 2 due**{: .label .label-red }](/projects/#project-2){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
 
 Feb 10
-: **Dis 6**{: .label .label-blue }[Training CNNs in PyTorch](#)
+: **Dis 6**{: .label .label-blue }[Tensorflow, Keras, Darknet, etc.](#)
