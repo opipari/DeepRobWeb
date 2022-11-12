@@ -7,8 +7,8 @@ Apr 4
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Apr 6
-: **Lec 25**{: .label .label-purple }[Dynamic Scenes](#)
+: **Lec 25**{: .label .label-purple }[Transformer Architectures](#)
   <!-- : [Solution](#) -->
 
 Apr 7
-: **Dis 13**{: .label .label-blue }[Paper discussion: Learning for Manipulation](#)
+: **Dis 13**{: .label .label-blue }[Paper discussion: Deep Learning for Manipulation](#)

@@ -7,7 +7,7 @@ Mar 28
 : [**Final Project Checkpoint**{: .label .label-red }](/projects/#final-project){: .project-link}
 
 Mar 30
-: **Lec 23**{: .label .label-purple }[Self Supervised Learning](#)
+: **Lec 23**{: .label .label-purple }[Self-Supervised Learning](#)
   <!-- : [Solution](#) -->
 
 Mar 31

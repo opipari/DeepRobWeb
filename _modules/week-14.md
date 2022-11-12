@@ -7,7 +7,7 @@ Apr 11
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Apr 13
-: **Lec 27**{: .label .label-purple }[Interfacing Language](#)
+: **Lec 27**{: .label .label-purple }[Dynamic Scenes](#)
   <!-- : [Solution](#) -->
 
 Apr 14
