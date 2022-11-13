@@ -10,7 +10,7 @@ Jan 19
 : **Lec 5**{: .label .label-purple }[Neural Networks](#)
   <!-- : [Solution](#) -->
 
-Jan 13
+Jan 20
 : **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#)
 
 <!-- 
