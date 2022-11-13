@@ -56,9 +56,17 @@ The second half of the course will switch to seminar style covering following ad
    - Familiarity with concepts from machine learning (e.g. EECS 445) will be helpful.
 
 
-<!-- ## Lectures
+## Lectures
 
-## Discussion Sections -->
+Lectures will take place in-person with remote accessibility (synchronous and asynchronous). 
+
+In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**.
+
+## Discussion Sections
+
+Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
+
+In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**.
 
 ## Grading Policy
 
