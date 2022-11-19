@@ -3,8 +3,9 @@ layout: page
 title: Projects
 description: >-
     Course project outline.
-nav_order: 3
-has_children: true
+nav_order: 4
+has_children: false
+has_toc: false
 ---
 
 # Course Projects
