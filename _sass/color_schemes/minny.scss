@@ -2,5 +2,10 @@ $border-color: #e7af06;
 
 $sidebar-color: #ffde7a;
 $feedback-color: darken($sidebar-color, 10%);
-$link-color: #c10028;
+$link-color: #900021;
 $nav-child-link-color: darken($link-color, 15%);
+
+
+$nav-width: 216px !default;
+$nav-width-md: 216px !default;
+$content-width: 848 !default;

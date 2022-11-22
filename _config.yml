@@ -18,15 +18,16 @@ tagline: Deep Learning for Robot Perception
 description: This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects
 author: Anthony Opipari
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://opipari.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://deeprob.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "/assets/logos/favicons/UMich_favicon_light.png"
 
 ga_tracking: G-FX9SVF3WSQ
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
-color_scheme: light
+color_scheme: mich
 search_enabled: true
 heading_anchors: true
 permalink: pretty

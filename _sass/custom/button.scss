@@ -1,0 +1,8 @@
+
+.btn-minny {
+	@include btn-color(#900021, #ffde7a);
+}
+
+.btn-mich {
+	@include btn-color(#ffcb05, #00274c);
+}
