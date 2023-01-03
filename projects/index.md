@@ -22,23 +22,23 @@ has_toc: false
 
 ## Project 0
 
-Python refresher
+Introduction to Python and PyTorch
 
 ## Project 1
 
-Introduction to pytorch, K-nearest neighbors classification
+Classification using K-Nearest Neighbors and Linear Models
 
 ## Project 2
 
-Linear layers, multi-layer perceptron
+Classification using Fully Connected and Convolutional Neural Networks
 
 ## Project 3
 
-Fully connected neural networks, convolutional neural networks
+Detection using Convolutional Neural Networks
 
 ## Project 4
 
-State estimation with deep learning (autograd, autoencoder, pose codebook)
+State Estimation with Deep Learning
 
 ## Final Project
 

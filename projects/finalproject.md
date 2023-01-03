@@ -2,7 +2,7 @@
 layout: page
 title: Final Project
 parent: Projects
-nav_order: 5
+nav_order: 6
 ---
  -->
 <!-- Published paper reproduction and extension
