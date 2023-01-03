@@ -39,6 +39,8 @@ aux_links:
     - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
   Autograder:
     - 'https://autograder.io/web/course/199'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/480760'
   '<img src="/assets/logos/UMRobotics.png" class="nav-img">':
     - 'https://robotics.umich.edu/'
   
