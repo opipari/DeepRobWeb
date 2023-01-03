@@ -11,5 +11,5 @@ Jan 12
 : [**Project 0 due**{: .label .label-red }](/projects/#project-0){: .project-link} [**Project 1 out**{: .label .label-yellow }](/projects/#project-1){: .project-link}
 
 Jan 13
-: **Dis 2**{: .label .label-blue }[Intro to PyTorch](#)
-  : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#)
+: **Dis 2**{: .label .label-blue }[Intro to PROPS Dataset](#)
+<!--   : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#) -->
