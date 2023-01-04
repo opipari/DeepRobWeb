@@ -13,3 +13,4 @@ Feb 23
 
 Feb 24
 : **Dis 8**{: .label .label-blue }[Paper discussion: 3D Perception](#)
+: [**Final Project Proposal**{: .label .label-red }](/projects/#final-project){: .project-link}

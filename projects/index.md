@@ -4,20 +4,20 @@ title: Projects
 description: >-
     Course project outline.
 nav_order: 4
-has_children: false
+has_children: true
 has_toc: false
 ---
 
 # Course Projects
 {:.no_toc}
 
-## Table of contents
+<!-- ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
----
+--- -->
 
 
 ## Project 0
