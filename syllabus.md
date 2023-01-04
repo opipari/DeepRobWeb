@@ -35,11 +35,11 @@ The first half of the course will cover deep learning fundamentals in computer v
 - Stochastic gradient descent
 - Fully-connected networks
 - Convolutional networks
-- Pose estimation
 
 The second half of the course will switch to seminar style covering following advanced topics in robot perception and manipulation via discussing publications.
 
 - 3D vision in robotics
+- Pose estimation
 - Object perception for robot manipulation
 - Neural radiance fields for perception
 - Robot grasp pose detection
