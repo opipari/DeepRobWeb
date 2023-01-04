@@ -4,5 +4,5 @@ role: Instructional Aide
 email: cormaczh@umich.edu
 website: https://jiyuezh.github.io
 photo: jiyue.jpg
-office-hours: TBD
+office-hours: Thr 1-3:00pm
 ---
