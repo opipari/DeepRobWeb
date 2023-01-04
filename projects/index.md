@@ -42,5 +42,5 @@ State Estimation with Deep Learning
 
 ## Final Project
 
-Published paper reproduction, extension and presentation
+Published paper presentation, reproduction, extension and report
 
