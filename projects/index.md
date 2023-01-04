@@ -30,7 +30,7 @@ Classification using K-Nearest Neighbors and Linear Models
 
 ## Project 2
 
-Classification using Fully Connected and Convolutional Neural Networks
+Classification using Fully-connected and Convolutional Neural Networks
 
 ## Project 3
 
