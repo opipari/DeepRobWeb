@@ -20,7 +20,7 @@ This project is due on <b>Thursday, January 12th at 11:59pm EST</b>.
 2. Unzip the starter code
 3. Upload the 
 
-The [zip file]({{ site.baseurl }}{% link /assets/projects/P0.zip %})
+
 ## Grading
 
 This project will be graded by the Autograder.
