@@ -109,7 +109,7 @@ Course grades will be determined according to the following criteria:
 
 The free flow of discussion and ideas is encouraged. <b>However, all work submitted must be your own.</b>
 
-All code submitted must comply with the College of Engineering Honor Code.
+All code submitted must comply with the [College of Engineering Honor Code](https://bulletin.engin.umich.edu/rules/){:target="_blank"}.
 
 No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
 
