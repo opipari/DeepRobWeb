@@ -60,23 +60,30 @@ The second half of the course will switch to seminar style covering following ad
 
 Lectures will take place in-person with remote accessibility (synchronous and asynchronous). 
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**.
+In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){:target="_blank"}
 
 ## Discussion Sections
 
 Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
 
-In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**.
+In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){:target="_blank"}.
 
 ## Grading Policy
 
- - Quizzes:  16x1%=16%  
+Course grades will be determined according to the following criteria:
+
  - Project 0:     12%
  - Project 1:     12%
  - Project 2:     12%
  - Project 3:     12%
  - Project 4:     12%
- - Final Project: 24%
+ - Final Project:
+   - Paper Presentation: 6%
+   - Paper Reproduction: 6%
+   - Algorithmic Extension: 6%
+   - Written Report: 6%
+
+ - 16 Pre-Lecture Quizzes: 16% (1% each)
 
 <!-- ## Project List
 

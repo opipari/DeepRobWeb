@@ -20,9 +20,9 @@ has_toc: false
 --- -->
 
 
-## Project 0
+## [Project 0](/projects/project0/)
 
-Introduction to Python and PyTorch
+Introduction to Python, PyTorch and Google Colab
 
 ## Project 1
 
