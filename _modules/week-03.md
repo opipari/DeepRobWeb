@@ -3,15 +3,15 @@ title: Week 3
 ---
 
 Jan 17
-: **Lec 4**{: .label .label-purple }[Regularization + Optimization](#)
+: **Lec 4**{: .label .label-purple }Regularization + Optimization
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 Jan 19
-: **Lec 5**{: .label .label-purple }[Neural Networks](#)
+: **Lec 5**{: .label .label-purple }Neural Networks
   <!-- : [Solution](#) -->
 
 Jan 20
-: **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#)
+: **Dis 3**{: .label .label-blue }Neural Networks in PyTorch
 
 <!-- 
 Oct 8

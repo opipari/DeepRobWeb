@@ -55,6 +55,10 @@ The second half of the course will switch to seminar style covering following ad
    - Familiarity with random variables and probability distributions from probability theory.
    - Familiarity with concepts from machine learning (e.g. EECS 445) will be helpful.
 
+## Textbook
+
+There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){:target="_blank"}.
+
 
 ## Lectures
 
@@ -67,6 +71,22 @@ In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM ES
 Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
 
 In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){:target="_blank"}.
+
+## Programming Projects
+
+You will complete 5 programming [projects](/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
+
+## Final Project
+
+Instead of a final exam at the end of the semester, you will complete a final project working in groups of 1 to 3 students.
+
+The final project will entail four core deliverables: (1) an in-class paper presentation, (2) reproducing the published results of an existing deep learning paper, (3) extending the chosen paper's methods and (4) documenting your reproduction and extension in a written report.
+
+The objective of the final project is for you to gain experience with state of the art approaches in deep learning and a sense of how research in the area is conducted.
+
+## Quizzes
+
+Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/480760){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
 
 ## Grading Policy
 
@@ -85,18 +105,16 @@ Course grades will be determined according to the following criteria:
 
  - 16 Pre-Lecture Quizzes: 16% (1% each)
 
-<!-- ## Project List
+## Collaboration Policy
 
-- Project 0 (Week 1): Python refresher and warmup
-- Project 1 (Weeks 2-3): Intro to pytorch, KNN classifier
-- Project 2 (Weeks 4-5): Linear layers, two-layer classifier
-- Project 3 (Weeks 6-7): Fully connected neural networks, convolutional neural networks
-- Project 4 (Weeks 8-10): Autograd, autoencoder, pose estimation
-- Final project (Weeks 11-13): Research paper reproduction, opetions include:
-  - [INeRF](https://arxiv.org/abs/2012.05877)
-  - [DPF: Differentiable Particle Filter](https://arxiv.org/abs/1805.11122)
-  - [GDP: Grasp Pose Detection](https://arxiv.org/abs/1706.09911)
-  - [Implicit Fields for manipulation](https://imrss2022.github.io)
-- Final project (Weeks 14-15): Research paper extension and report
+The free flow of discussion and ideas is encouraged. <b>However, all work submitted must be your own.</b>
 
- -->
+All code submitted must comply with the College of Engineering Honor Code.
+
+No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
+
+## Discussion Forum
+
+The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){:target="_blank"}.
+
+<b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
