@@ -9,5 +9,4 @@ Jan 5
   : [📖 GBC Ch. 1](https://www.deeplearningbook.org/contents/intro.html){:target="_blank"}
 
 Jan 6
-: **Dis 1**{: .label .label-blue }Intro to Python, Pytorch and Colab
-  <!-- : [Solution](#) -->
+: **Dis 1**{: .label .label-blue }[Intro to Python, Pytorch and Colab](/assets/slides/deeprob_discussion_01.pdf){:target="_blank"}
