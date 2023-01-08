@@ -144,7 +144,7 @@ Semantic Datasets:
 
 Object Model Datasets:
 
-- [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Yadav et al., 2015
+- [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
 
 
 ## Self-Supervised Learning
