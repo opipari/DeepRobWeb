@@ -167,10 +167,14 @@ Semantic Datasets:
 
 ## Articulated and Deformable Objects
 
+- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
+
 - [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
 
 
-- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 ## Dynamic Scenes
+
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
+
 
