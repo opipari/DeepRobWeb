@@ -87,7 +87,6 @@ Beyond single view:
 
 - [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2021/papers/Karkus_Differentiable_SLAM-Net_Learning_Particle_SLAM_for_Visual_Navigation_CVPR_2021_paper.pdf){:target="_blank"}, Karkus et al., 2021
 
-- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 
 ## Semantic Scene Graphs and Explicit Representations
@@ -114,8 +113,6 @@ Beyond single view:
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/){:target="_blank"}, Dellaert, 2020
 
 - [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
-
-- [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
 
 
 ## Datasets
@@ -161,6 +158,10 @@ Semantic Datasets:
 
 ## Articulated and Deformable Objects
 
+- [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
+
+
+- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 ## Dynamic Scenes
 
