@@ -142,7 +142,7 @@ Semantic Datasets:
 
 - [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){:target="_blank"}, Yadav et al., 2022 
 
-Object Datasets:
+Object Model Datasets:
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Yadav et al., 2015
 
