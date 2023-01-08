@@ -47,13 +47,13 @@ Beyond single view:
 
 ## Object Pose, Geometry, SDF, Implicit surfaces
 
-- [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"} 2019
+- [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"}, Park et al., 2019
 
-- [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126){:target="_blank"} 2020
+- [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126){:target="_blank"}, Genova et al., 2020
 
-- [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"} 2019
+- [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
 
-- [Implicit geometric regularization for learning shapes](https://arxiv.org/abs/2002.10099){:target="_blank"} 2020
+- [Implicit geometric regularization for learning shapes](https://arxiv.org/abs/2002.10099){:target="_blank"}, Gropp et al., 2020
 
 
 ## Dense object descriptors, Category-level representations
