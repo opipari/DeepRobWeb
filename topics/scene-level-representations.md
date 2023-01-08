@@ -30,7 +30,7 @@ nav_order: 4
 
 - [Convolutional occupancy networks](https://arxiv.org/abs/2003.04618){:target="_blank"}, Peng et al., 2020
 
-- [NeRF Explosion 2020](https://dellaert.github.io/NeRF/){:target="_blank"}, Dellaert et al., 2020
+- [NeRF Explosion 2020](https://dellaert.github.io/NeRF/){:target="_blank"}, Dellaert, 2020
 
 - [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
 
