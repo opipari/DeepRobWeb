@@ -10,3 +10,4 @@ Jan 5
 
 Jan 6
 : **Dis 1**{: .label .label-blue }[Intro to Python, Pytorch and Colab](/assets/slides/deeprob_discussion_01.pdf){:target="_blank"}
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } Recording](https://drive.google.com/file/d/1JgsSdzBa8jlh1X5cEQqtXAzK_oHSebQo/view?usp=share_link){:target="_blank"}
