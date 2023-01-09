@@ -75,6 +75,8 @@ Beyond single view:
 
 - [Visual Descriptor Learning from Monocular Video](https://arxiv.org/abs/2004.07007){:target="_blank"}, Deekshith et al., 2020
 
+- [SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings](https://arxiv.org/abs/2111.13489){:target="_blank"}, Haugaard et al., 2021
+
 - [Fully Self-Supervised Class Awareness in Dense Object Descriptors](https://proceedings.mlr.press/v164/hadjivelichkov22a.html){:target="_blank"}, Hadjivelichkov et al., 2022
 
 - [Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image](https://arxiv.org/abs/2109.06161){:target="_blank"}, Lin et al., 2022 
@@ -83,6 +85,8 @@ Beyond single view:
 ## Recurrent Networks and Object Tracking
 
 - [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://arxiv.org/abs/1905.09304){:target="_blank"}, Deng et al., 2019
+
+- [6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints](https://ieeexplore.ieee.org/abstract/document/9196679){:target="_blank"}, Wang et al., 2020
 
 
 
@@ -122,6 +126,8 @@ Beyond single view:
 - [Convolutional occupancy networks](https://arxiv.org/abs/2003.04618){:target="_blank"}, Peng et al., 2020
 
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/){:target="_blank"}, Dellaert, 2020
+
+- [ILabel: Interactive Neural Scene Labelling](https://arxiv.org/abs/2111.14637){:target="_blank"}, Zhi et al., 2021
 
 - [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
 
@@ -206,6 +212,8 @@ Simulators:
 
 
 Articulated and Deformable Objects:
+
+- [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
 
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
