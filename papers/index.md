@@ -56,6 +56,8 @@ Beyond single view:
 
 ## Object Pose, Geometry, SDF, Implicit surfaces
 
+- [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){:target="_blank"}, Li et al., 2018
+
 - [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"}, Park et al., 2019
 
 - [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
@@ -181,6 +183,7 @@ Simulators:
 
 - [GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter](https://ieeexplore.ieee.org/abstract/document/8967685){:target="_blank"}, Zhou et al., 2019
 
+- [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/9561877){:target="_blank"}, Sundermeyer et al., 2021
 
 
 
