@@ -177,14 +177,21 @@ Simulators:
 
 ## Transformer Architectures
 
-- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2022
+- [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
 
-- [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
+- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
 
 - [Transformers are Adaptable Task Planners](https://arxiv.org/abs/2207.02442){:target="_blank"}, Jain et al., 2022
 
+- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2022
+
+- [Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407){:target="_blank"}, Lynch et al., 2022
+
+- [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
+
 
 ## More Frontiers
+
 
 Articulated and Deformable Objects:
 
@@ -202,6 +209,5 @@ Transparent Objects:
 Dynamic Scenes:
 
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
-
 
 
