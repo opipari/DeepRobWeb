@@ -168,11 +168,20 @@ Simulators:
 
 - [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
+- [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
 
 ## Grasp Pose Detection
 
-- [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
+- [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
+
+- [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
+
+- [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312){:target="_blank"}, Mahler et al., 2017
+
+- [GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter](https://ieeexplore.ieee.org/abstract/document/8967685){:target="_blank"}, Zhou et al., 2019
+
+
 
 
 ## Transformer Architectures
