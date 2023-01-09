@@ -134,6 +134,8 @@ RGB-D Datasets:
 
 - [YCB-Video Dataset](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
 
+- [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/home/){:target="_blank"}, Hodaň et al., 2019
+
 - [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org){:target="_blank"}, Dai et al., 2019
 
 - [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440), Xu et al., 2022
@@ -145,6 +147,17 @@ Semantic Datasets:
 Object Model Datasets:
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
+
+
+Simulators:
+
+- [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/abstract/document/6386109){:target="_blank"}, Todorov et al., 2015
+
+- [Pybullet, a python module for physics simulation for games, robotics and machine learning](https://pybullet.org/wordpress/){:target="_blank"}, Coumans et al., 2015
+
+- [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){:target="_blank"}
+
+- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
 
 
 ## Self-Supervised Learning
