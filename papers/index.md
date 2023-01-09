@@ -33,6 +33,8 @@ RGB for pose estimation & Depth for pose refinement:
 Unified RGB-D for pose estimation:
 - [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){:target="_blank"}, Li et al., 2018
 
+- [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2020
+
 
 Beyond single view:
 
