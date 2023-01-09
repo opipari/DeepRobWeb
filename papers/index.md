@@ -138,7 +138,9 @@ RGB-D Datasets:
 
 - [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org){:target="_blank"}, Dai et al., 2019
 
-- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440), Xu et al., 2022
+- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
+
+- [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
 
 Semantic Datasets:
 
