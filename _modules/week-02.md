@@ -18,3 +18,5 @@ Jan 12
 Jan 13
 : **Dis 2**{: .label .label-blue }Intro to PROPS Dataset
 <!--   : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#) -->
+: &nbsp;
+  : [📖 ProgressLabeller](https://arxiv.org/abs/2203.00283){:target="_blank"}
