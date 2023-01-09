@@ -4,7 +4,7 @@ role: Instructor
 email: topipari@umich.edu
 website: https://topipari.com
 photo: anthony.jpg
-office-hours: Wed 1:30-3pm, Fri 9-10:30am
+office-hours: Wed 1:30-3pm, Fri 9-10:30am, 3320 FMCRB
 course-name: ROB 498 & 599
 course-link: https://deeprob.org
 course-style: btn-mich
