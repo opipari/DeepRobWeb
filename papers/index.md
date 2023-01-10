@@ -21,9 +21,7 @@ has_toc: true
 
 ## RGB-D Architectures
 
-<b>
-Core:
-</b>
+### Core List
 
 - [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
 
@@ -35,7 +33,7 @@ Core:
 - [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
 
 
-Extended List:
+### Extended List
 
 - [3D ShapeNets: A Deep Representation for Volumetric Shapes](https://arxiv.org/abs/1406.5670){:target="_blank"}, Wu et al., 2015
 
@@ -48,7 +46,10 @@ Extended List:
 
 - [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){:target="_blank"}, Mitash et al., 2018
 
+
 ## Pointcloud Processing 
+
+### Core List
 
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593){:target="_blank"}, Qi et al., 2017
 
@@ -60,6 +61,10 @@ Extended List:
 
 - [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf){:target="_blank"}, Wang et al., 2019
 
+
+### Extended List
+
+- [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf){:target="_blank"}, Pan et al., 2021
 
 ## Object Pose, Geometry, SDF, Implicit surfaces
 
