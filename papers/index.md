@@ -21,27 +21,32 @@ has_toc: true
 
 ## RGB-D Architectures
 
-Depth for object recognition:
+<b>
+Core:
+</b>
 
-- [3D ShapeNets: A Deep Representation for Volumetric Shapes](https://arxiv.org/abs/1406.5670){:target="_blank"}, Wu et al., 2015
-
-- [VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](https://graphics.stanford.edu/courses/cs233-21-spring/ReferencedPapers/voxnet_07353481.pdf){:target="_blank"}, Maturana et al., 2015
-
-RGB for pose estimation & Depth for pose refinement:
 - [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
 
-Unified RGB-D for pose estimation:
 - [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){:target="_blank"}, Li et al., 2018
 
 - [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2020
 
 
-Beyond single view:
+- [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
+
+
+Extended List:
+
+- [3D ShapeNets: A Deep Representation for Volumetric Shapes](https://arxiv.org/abs/1406.5670){:target="_blank"}, Wu et al., 2015
+
+- [VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](https://graphics.stanford.edu/courses/cs233-21-spring/ReferencedPapers/voxnet_07353481.pdf){:target="_blank"}, Maturana et al., 2015
+
 
 - [Multi-view Convolutional Neural Networks for 3D Shape Recognition](https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf){:target="_blank"}, Su et al., 2015
 
 - [Volumetric and Multi-View CNNs for Object Classification on 3D Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Qi_Volumetric_and_Multi-View_CVPR_2016_paper.pdf){:target="_blank"}, Qi et al., 2016
 
+- [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){:target="_blank"}, Mitash et al., 2018
 
 ## Pointcloud Processing 
 

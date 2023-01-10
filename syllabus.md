@@ -98,7 +98,8 @@ Course grades will be determined according to the following criteria:
  - Project 3:     12%
  - Project 4:     12%
  - Final Project:
-   - Paper Presentation: 6%
+   - Paper Review: 3%
+   - Paper Presentation: 3%
    - Paper Reproduction: 6%
    - Algorithmic Extension: 6%
    - Written Report: 6%
