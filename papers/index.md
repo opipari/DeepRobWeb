@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Papers
-description: >-
-    Papers for consideration.
+description: Collection of deep learning research papers with coverage in perception and associated robotic tasks.
 nav_order: 5
 has_children: false
 has_toc: true
