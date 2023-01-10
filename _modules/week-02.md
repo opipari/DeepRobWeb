@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Jan 10
-: **Lec 2**{: .label .label-purple }Image Classification
+: **Lec 2**{: .label .label-purple }[Image Classification](/assets/slides/deeprob_02_image_classification.pdf){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 : &nbsp;
   : [📖 231n Image Classification](https://cs231n.github.io/classification/){:target="_blank"}
