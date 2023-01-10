@@ -18,7 +18,7 @@ has_toc: true
 
 ---
 
-## RGB-D Architectures
+# RGB-D Architectures
 
 ### Core List
 
@@ -46,7 +46,7 @@ has_toc: true
 - [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){:target="_blank"}, Mitash et al., 2018
 
 
-## Pointcloud Processing 
+# Pointcloud Processing 
 
 ### Core List
 
@@ -66,7 +66,7 @@ has_toc: true
 - [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf){:target="_blank"}, Pan et al., 2021
 
 
-## Object Pose, Geometry, SDF, Implicit surfaces
+# Object Pose, Geometry, SDF, Implicit surfaces
 
 ### Core List
 
@@ -88,7 +88,7 @@ has_toc: true
 
 
 
-## Dense object descriptors, Category-level representations
+# Dense object descriptors, Category-level representations
 
 ### Core List
 
@@ -110,7 +110,7 @@ has_toc: true
 - [Fully Self-Supervised Class Awareness in Dense Object Descriptors](https://proceedings.mlr.press/v164/hadjivelichkov22a.html){:target="_blank"}, Hadjivelichkov et al., 2022
 
 
-## Recurrent Networks and Object Tracking
+# Recurrent Networks and Object Tracking
 
 ### Core List
 
@@ -124,7 +124,7 @@ has_toc: true
 - [Long Short-Term Memory](https://ieeexplore.ieee.org/abstract/document/6795963){:target="_blank"}, Hochreiter et al., 1997
 
 
-## Visual Odometry and Localization
+# Visual Odometry and Localization
 
 ### Core List
 
@@ -150,7 +150,7 @@ has_toc: true
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 
-## Semantic Scene Graphs and Explicit Representations
+# Semantic Scene Graphs and Explicit Representations
 
 ### Core List
 
@@ -174,7 +174,7 @@ has_toc: true
 - [Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization](https://arxiv.org/abs/2201.13360){:target="_blank"}, Hughes et al., 2022
 
 
-## Neural Radiance Fields and Implicit Representations
+# Neural Radiance Fields and Implicit Representations
 
 ### Core List
 
@@ -205,7 +205,7 @@ has_toc: true
 
 
 
-## Datasets
+# Datasets
 
 RGB-D Datasets:
 
@@ -243,7 +243,7 @@ Simulators:
 - [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
 
 
-## Self-Supervised Learning
+# Self-Supervised Learning
 
 ### Core List
 
@@ -254,7 +254,7 @@ Simulators:
 - [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
 
-## Grasp Pose Detection
+# Grasp Pose Detection
 
 ### Core List
 
@@ -274,7 +274,7 @@ Simulators:
 - [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
 
 
-## Transformer Architectures
+# Transformer Architectures
 
 ### Core List
 
@@ -296,17 +296,17 @@ Simulators:
 
 
 
-## More Frontiers
+# More Frontiers
 
 
-Articulated and Deformable Objects:
+### Articulated and Deformable Objects
 
 - [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
 
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 
-Transparent Objects:
+### Transparent Objects
 
 - [LIT: Light-field Inference of Transparency for Refractive Object Localization](https://arxiv.org/abs/1910.00721){:target="_blank"}, Zhou et al., 2019
 
@@ -314,7 +314,8 @@ Transparent Objects:
 
 - [TransNet: Category-Level Transparent Object Pose Estimation](https://arxiv.org/abs/2208.10002){:target="_blank"}, Zhang et al., 2022
 
-Dynamic Scenes:
+
+### Dynamic Scenes
 
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
 
