@@ -199,6 +199,8 @@ has_toc: true
 
 - [Convolutional occupancy networks](https://arxiv.org/abs/2003.04618){:target="_blank"}, Peng et al., 2020
 
+- [INeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/abs/2012.05877){:target="_blank"}, Yen-Chen et al., 2021
+
 - [ILabel: Interactive Neural Scene Labelling](https://arxiv.org/abs/2111.14637){:target="_blank"}, Zhi et al., 2021
 
 - [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering](https://arxiv.org/abs/2112.05504), Xiangli et al., 2021
