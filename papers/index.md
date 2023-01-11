@@ -182,6 +182,8 @@ has_toc: true
 
 - [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503){:target="_blank"}, Guo et al., 2020
 
+- [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124){:target="_blank"}, Simeonov et al., 2021
+
 - [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
 
 - [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
@@ -222,6 +224,9 @@ RGB-D Datasets:
 - [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
 
 - [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
+
+- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
+
 
 Semantic Datasets:
 
@@ -272,6 +277,8 @@ Simulators:
 ### Extended List
 
 - [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
+
+- [Grasp Learning: Models, Methods, and Performance](https://arxiv.org/abs/2211.04895){:target="_blank"}, Platt, 2022
 
 
 # Transformer Architectures
