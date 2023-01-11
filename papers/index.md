@@ -118,10 +118,14 @@ has_toc: true
 
 - [6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints](https://ieeexplore.ieee.org/abstract/document/9196679){:target="_blank"}, Wang et al., 2020
 
+- [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115){:target="_blank"}, Cheng and Schwing, 2022
+
 
 ### Extended List
 
 - [Long Short-Term Memory](https://ieeexplore.ieee.org/abstract/document/6795963){:target="_blank"}, Hochreiter et al., 1997
+
+- [TrackFormer: Multi-Object Tracking with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf){:target="_blank"}, Meinhardt et al., 2022
 
 
 # Visual Odometry and Localization
