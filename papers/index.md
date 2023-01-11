@@ -319,6 +319,8 @@ Simulators:
 
 - [LIT: Light-field Inference of Transparency for Refractive Object Localization](https://arxiv.org/abs/1910.00721){:target="_blank"}, Zhou et al., 2019
 
+- [Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects](https://arxiv.org/abs/2110.14217){:target="_blank"}, Ichnowski et al., 2021
+
 - [ClearPose: Large-scale Transparent Object Dataset and Benchmark](https://arxiv.org/abs/2203.03890){:target="_blank"}, Chen et al., 2022
 
 - [TransNet: Category-Level Transparent Object Pose Estimation](https://arxiv.org/abs/2208.10002){:target="_blank"}, Zhang et al., 2022
