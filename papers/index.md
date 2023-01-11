@@ -72,8 +72,6 @@ has_toc: true
 
 - [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){:target="_blank"}, Sui et al., 2017
 
-- [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){:target="_blank"}, Li et al., 2018
-
 - [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"}, Park et al., 2019
 
 - [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
@@ -113,6 +111,8 @@ has_toc: true
 # Recurrent Networks and Object Tracking
 
 ### Core List
+
+- [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){:target="_blank"}, Li et al., 2018
 
 - [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://arxiv.org/abs/1905.09304){:target="_blank"}, Deng et al., 2019
 
