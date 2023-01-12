@@ -153,6 +153,8 @@ has_toc: true
 
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
+- [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){:target="_blank"}, Rosinol et al., 2022
+
 
 # Semantic Scene Graphs and Explicit Representations
 
