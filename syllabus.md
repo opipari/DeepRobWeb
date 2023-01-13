@@ -86,7 +86,7 @@ The objective of the final project is for you to gain experience with state of t
 
 ## Quizzes
 
-Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/480760){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
+Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/480760){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM EST and must be submitted by 3:00PM EST. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
 
 ## Grading Policy
 
