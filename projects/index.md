@@ -24,7 +24,7 @@ has_toc: false
 
 Introduction to Python, PyTorch and Google Colab
 
-## Project 1
+## [Project 1](/projects/project1/)
 
 Classification using K-Nearest Neighbors and Linear Models
 
