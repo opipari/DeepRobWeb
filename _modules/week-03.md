@@ -4,11 +4,20 @@ title: Week 3
 
 Jan 17
 : **Lec 4**{: .label .label-purple }Regularization + Optimization
-  <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+: &nbsp;
+  : [📖 231n Optimization](https://cs231n.github.io/optimization-1/){:target="_blank"}
+: &nbsp;
+  : [📖 GBC Sec 8.1-8.6](https://www.deeplearningbook.org/contents/optimization.html){:target="_blank"}
+
 
 Jan 19
 : **Lec 5**{: .label .label-purple }Neural Networks
-  <!-- : [Solution](#) -->
+: &nbsp;
+  : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){:target="_blank"}
+: &nbsp;
+  : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){:target="_blank"}
+: &nbsp;
+  : [📖 Nielsen Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
 
 Jan 20
 : **Dis 3**{: .label .label-blue }Neural Networks in PyTorch

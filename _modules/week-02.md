@@ -18,6 +18,6 @@ Jan 12
 
 Jan 13
 : **Dis 2**{: .label .label-blue }[Intro to PROPS Dataset](/assets/slides/deeprob_discussion_02.pdf){:target="_blank"}
-<!--   : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#) -->
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } Recording](https://drive.google.com/file/d/1xOeg1xiHbgc4Filkogn84_BEnQI5TKSK/view?usp=share_link){:target="_blank"}
 : &nbsp;
   : [📖 ProgressLabeller](https://arxiv.org/abs/2203.00283){:target="_blank"}
