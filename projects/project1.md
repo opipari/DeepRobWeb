@@ -40,16 +40,14 @@ The objective of this project is to gain experience building a machine learning 
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-    - <b>These instructions will be updated and an official announcement will be made via email and [EdStem](/syllabus/#discussion-forum) once the Project 1 Autograder is online.</b>
-
-    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the Project 1 Autograder. You may submit to the Autograder for feedback up to 2 times per day.
+    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 1 Autograder](https://autograder.io/web/project/1953){:target="_blank"}. You may submit to the Autograder for feedback up to 2 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `linear_classifier.ipynb` notebook will generate a `uniqueid_umid_P0.zip` file. The zip file should include `knn.ipynb`, `knn.py`, `linear_classifier.ipynb`, `linear_classifier.py`, `svm_best_model.pt`, and `softmax_best_model.pt` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the Autograder for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://autograder.io/web/project/1953){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -57,6 +55,5 @@ This project is due on <b>Thursday, January 26th at 11:59pm EST</b>. We suggest 
 
 ## Grading
 
-This project will be graded by the Autograder. The project is worth a total of 105 points. 
+This project will be graded by the [Autograder](https://autograder.io/web/project/1953){:target="_blank"}. The project is worth a total of 95 points. 
 
-### These instructions will be updated and an official announcement will be made via email and [EdStem](/syllabus/#discussion-forum) once the Project 1 Autograder is online.
