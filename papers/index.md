@@ -2,7 +2,7 @@
 layout: page
 title: Papers
 description: Collection of deep learning research papers with coverage in perception and associated robotic tasks.
-nav_order: 5
+nav_order: 6
 has_children: false
 has_toc: true
 ---
@@ -287,6 +287,39 @@ Simulators:
 - [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
 
 - [Grasp Learning: Models, Methods, and Performance](https://arxiv.org/abs/2211.04895){:target="_blank"}, Platt, 2022
+
+
+# Tactile Perception for Grasping and Manipulation
+
+### Core List
+
+- [More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch](https://arxiv.org/abs/1805.11085){:target="_blank"}, Calandra et al., 2018 
+
+- [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://arxiv.org/abs/2012.05205){:target="_blank"}, • Bauza et al., 2020
+- [Visuotactile Affordances for Cloth Manipulation with Local Control](https://openreview.net/pdf?id=s6NEzqZKaP-){:target="_blank"}, Sunil et al., 2022
+
+- [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://arxiv.org/abs/2109.09884){:target="_blank"}, Suresh et al., 2022
+
+
+### Extended List
+
+- [The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?](https://arxiv.org/pdf/1710.05512.pdf){:target="_blank"}, Calandra et al., 2017
+
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://dspace.mit.edu/handle/1721.1/114627){:target="_blank"}, Yuan et al., 2017
+
+- [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://arxiv.org/abs/1904.02252){:target="_blank"}, Alspach et al., 2019
+
+- [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136877){:target="_blank"}, Li et al., 2020
+
+- [TACTO: A Fast, Flexible, and Open-source Simulator for High-Resolution Vision-based Tactile Sensors](https://arxiv.org/pdf/2012.08456.pdf){:target="_blank"}, Wang et al., 2020
+
+- [Active Extrinsic Contact Sensing: Application to General Peg-in-Hole Insertion](https://arxiv.org/abs/2110.03555){:target="_blank"}, Kim et al., 2021
+
+- [Active Visuo-Haptic Object Shape Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720238){:target="_blank"}, Rustler et al., 2022
+
+- [Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces](https://arxiv.org/pdf/2209.13042.pdf){:target="_blank"}, Kerr and Huang et al., 2022
+
+- [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf){:target="_blank"}, Li et al., 2022
 
 
 # Transformer Architectures
