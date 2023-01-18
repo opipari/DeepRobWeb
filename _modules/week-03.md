@@ -4,6 +4,7 @@ title: Week 3
 
 Jan 17
 : [**Lec 4**](/assets/slides/deeprob_04_regularization_optimization.pdf){: target="_blank" .label .label-purple }[Regularization + Optimization](/assets/slides/deeprob_04_regularization_optimization.pdf){: target="_blank" }
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } Recording](https://youtu.be/7nxcUwO-aOs){:target="_blank"}
 : &nbsp;
   : [📖 231n Optimization](https://cs231n.github.io/optimization-1/){:target="_blank"}
 : &nbsp;
