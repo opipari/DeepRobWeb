@@ -14,6 +14,7 @@ Jan 17
 
 
 
+
 Jan 19
 : [**Lec 5**](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" .label .label-purple }[Neural Networks](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" }
 : &nbsp;
