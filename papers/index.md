@@ -271,11 +271,11 @@ Simulators:
 
 ### Core List
 
+- [Deep Learning for Detecting Robotic Grasps](https://arxiv.org/abs/1301.3592){:target="_blank"}, Lenz et al., 2013
+
 - [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
 
 - [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312){:target="_blank"}, Mahler et al., 2017
-
-- [GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter](https://ieeexplore.ieee.org/abstract/document/8967685){:target="_blank"}, Zhou et al., 2019
 
 - [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/9561877){:target="_blank"}, Sundermeyer et al., 2021
 
@@ -285,6 +285,8 @@ Simulators:
 ### Extended List
 
 - [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
+
+- [GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter](https://ieeexplore.ieee.org/abstract/document/8967685){:target="_blank"}, Zhou et al., 2019
 
 - [Grasp Learning: Models, Methods, and Performance](https://arxiv.org/abs/2211.04895){:target="_blank"}, Platt, 2022
 
