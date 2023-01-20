@@ -264,7 +264,6 @@ Simulators:
 
 - [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
-- [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
 
 # Grasp Pose Detection
