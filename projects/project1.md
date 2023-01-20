@@ -44,7 +44,7 @@ The objective of this project is to gain experience building a machine learning 
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
-    - The last cell of the `linear_classifier.ipynb` notebook will generate a `uniqueid_umid_P0.zip` file. The zip file should include `knn.ipynb`, `knn.py`, `linear_classifier.ipynb`, `linear_classifier.py`, `svm_best_model.pt`, and `softmax_best_model.pt` for this assignment.
+    - The last cell of the `linear_classifier.ipynb` notebook will generate a `uniqueid_umid_P1.zip` file. The zip file should include `knn.ipynb`, `knn.py`, `linear_classifier.ipynb`, `linear_classifier.py`, `svm_best_model.pt`, and `softmax_best_model.pt` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
     - Upload your files to the [Autograder](https://autograder.io/web/project/1953){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
