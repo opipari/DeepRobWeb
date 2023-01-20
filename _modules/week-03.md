@@ -26,7 +26,7 @@ Jan 19
   : [📖 Nielsen Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
 
 Jan 20
-: **Dis 3**{: .label .label-blue }How to Read Deep Learning Research Papers
+: [**Dis 3**](/assets/slides/deeprob_discussion_03.pdf){: target="_blank" .label .label-blue }[How to Read Deep Learning Research Papers](/assets/slides/deeprob_discussion_03.pdf){:target="_blank"}
 : &nbsp;
   : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}
 : &nbsp;
