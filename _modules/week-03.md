@@ -5,7 +5,7 @@ title: Week 3
 Jan 17
 : [**Lec 4**](/assets/slides/deeprob_04_regularization_optimization.pdf){: target="_blank" .label .label-purple }[Regularization + Optimization](/assets/slides/deeprob_04_regularization_optimization.pdf){: target="_blank" }
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/7nxcUwO-aOs){:target="_blank"}
-: [**Quiz 1**{: .label .label-green }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
+: [**Quiz 1**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
   : [📖 231n Optimization](https://cs231n.github.io/optimization-1/){:target="_blank"}
 : &nbsp;
   : [📖 GBC Sec 8.1-8.6](https://www.deeplearningbook.org/contents/optimization.html){:target="_blank"}
