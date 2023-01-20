@@ -4,11 +4,13 @@ title: Week 5
 
 Jan 31
 : **Lec 8**{: .label .label-purple }CNN Architectures
-  <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+: [**Quiz 4**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
+
 
 Feb 2
 : **Lec 9**{: .label .label-purple }Training Neural Networks I
-  <!-- : [Solution](#) -->
+: [**Quiz 5**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
+
 
 Feb 3
 : **Dis 5**{: .label .label-blue }Training CNNs in PyTorch
