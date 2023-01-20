@@ -17,6 +17,7 @@ Jan 17
 
 Jan 19
 : [**Lec 5**](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" .label .label-purple }[Neural Networks](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" }
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/Lllnlsec6DY){:target="_blank"}
 : &nbsp;
   : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){:target="_blank"}
 : &nbsp;
