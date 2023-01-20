@@ -26,7 +26,10 @@ Jan 19
   : [📖 Nielsen Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
 
 Jan 20
-: **Dis 3**{: .label .label-blue }Neural Networks in PyTorch
+: **Dis 3**{: .label .label-blue }How to read deep learning research papers
+: &nbsp;
+  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}
+
 
 <!-- 
 Oct 8
