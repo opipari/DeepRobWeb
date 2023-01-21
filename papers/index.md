@@ -349,6 +349,19 @@ Simulators:
 
 # More Frontiers
 
+### Interpretting Deep Learning Models
+
+- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034){:target="_blank"}, Simonyan et al., 2013
+
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391){:target="_blank"}, Selvaraju et al., 2016
+
+
+### Fairness and Ethics
+
+- [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline){:target="_blank"}, Buolamwini and Gebru, 2018
+
+- [Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing](https://dl.acm.org/doi/abs/10.1145/3375627.3375820){:target="_blank"}, Raji et al., 2020
+
 
 ### Articulated and Deformable Objects
 
@@ -371,5 +384,6 @@ Simulators:
 ### Dynamic Scenes
 
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
+
 
 
