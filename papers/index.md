@@ -221,21 +221,21 @@ has_toc: true
 
 ### Core List
 
+- [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}, Levine et al., 2016
+
 - [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
 
 - [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
 
 - [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
 
-- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
+
 
 ### Extended List
 
 Collecting data with robots:
 
-- [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}
-
-- [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){:target="_blank"}
+- [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){:target="_blank"}, Zeng et al., 2019
 
 RGB-D Datasets:
 
@@ -251,6 +251,8 @@ RGB-D Datasets:
 
 - [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
 
+- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
+
 
 Semantic Datasets:
 
@@ -264,6 +266,7 @@ Object Model Datasets:
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
 
 - [PartNet-Mobility Dataset](https://sapien.ucsd.edu/browse){:target="_blank"}
+
 
 Simulators:
 
