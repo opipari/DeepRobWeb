@@ -355,6 +355,10 @@ Simulators:
 
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391){:target="_blank"}, Selvaraju et al., 2016
 
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/){:target="_blank"}, Olah et al., 2018
+
+- [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/){:target="_blank"}, Goh et al., 2021
+
 
 ### Fairness and Ethics
 
