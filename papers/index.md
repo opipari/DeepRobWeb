@@ -270,7 +270,7 @@ Simulators:
 
 ### Core List
 
-- [Deep Learning for Detecting Robotic Grasps](https://arxiv.org/abs/1301.3592){:target="_blank"}, Lenz et al., 2013
+- [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){:target="_blank"}, Redmon et al., 2015
 
 - [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
 
@@ -282,6 +282,8 @@ Simulators:
 
 
 ### Extended List
+
+- [Deep Learning for Detecting Robotic Grasps](https://arxiv.org/abs/1301.3592){:target="_blank"}, Lenz et al., 2013
 
 - [High precision grasp pose detection in dense clutter](https://ieeexplore.ieee.org/abstract/document/7759114){:target="_blank"}, Gualtieri et al., 2016
 

@@ -14,7 +14,6 @@ Jan 17
 
 
 
-
 Jan 19
 : [**Lec 5**](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" .label .label-purple }[Neural Networks](/assets/slides/deeprob_05_neural_networks.pdf){: target="_blank" }
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/Lllnlsec6DY){:target="_blank"}
@@ -24,6 +23,8 @@ Jan 19
   : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){:target="_blank"}
 : &nbsp;
   : [📖 Nielsen, Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
+
+
 
 Jan 20
 : [**Dis 3**](/assets/slides/deeprob_discussion_03.pdf){: target="_blank" .label .label-blue }[How to Read Deep Learning Research Papers](/assets/slides/deeprob_discussion_03.pdf){:target="_blank"}
@@ -36,12 +37,3 @@ Jan 20
   : [📖 Mildenhall et al., NeRF](https://arxiv.org/abs/2003.08934){:target="_blank"}
 
 
-<!-- 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
- -->

@@ -8,6 +8,10 @@ Jan 5
 : [**Project 0 out**{: .label .label-yellow }](/projects/project0/){: .project-link}
   : [📖 GBC Ch. 1](https://www.deeplearningbook.org/contents/intro.html){:target="_blank"}
 
+
+
 Jan 6
 : [**Dis 1**](/assets/slides/deeprob_discussion_01.pdf){: target="_blank" .label .label-blue }[Intro to Python, Pytorch and Colab](/assets/slides/deeprob_discussion_01.pdf){:target="_blank"}
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/06-DczsEPUI){:target="_blank"}
+
+

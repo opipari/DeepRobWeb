@@ -9,6 +9,7 @@ Jan 10
   : [📖 231n Image Classification](https://cs231n.github.io/classification/){:target="_blank"}
 
 
+
 Jan 12
 : [**Lec 3**](/assets/slides/deeprob_03_linear_classifiers.pdf){: target="_blank" .label .label-purple }[Linear Classifiers](/assets/slides/deeprob_03_linear_classifiers.pdf){:target="_blank"}
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/YNLMQ2nmGB4){:target="_blank"}
@@ -16,8 +17,11 @@ Jan 12
   : [📖 231n Linear Classification](https://cs231n.github.io/linear-classify/){:target="_blank"}
 
 
+
 Jan 13
 : [**Dis 2**](/assets/slides/deeprob_discussion_02.pdf){: target="_blank" .label .label-blue }[Intro to PROPS Dataset](/assets/slides/deeprob_discussion_02.pdf){:target="_blank"}
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/xvQTDdCRjiU){:target="_blank"}
 : &nbsp;
   : [📖 Chen et al., ProgressLabeller](https://arxiv.org/abs/2203.00283){:target="_blank"}
+
+

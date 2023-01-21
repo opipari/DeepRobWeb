@@ -13,6 +13,7 @@ Jan 24
   : [📖 Olah, Backpropagation](http://colah.github.io/posts/2015-08-Backprop/){:target="_blank"}
 
 
+
 Jan 26
 : **Lec 7**{: .label .label-purple }Convolutional Neural Networks
   <!-- : [Solution](#) -->
@@ -22,5 +23,7 @@ Jan 26
 : &nbsp;
   : [📖 GBC Ch. 9](https://www.deeplearningbook.org/contents/convnets.html){:target="_blank"}
 
+
+
 Jan 27
-: **Dis 4**{: .label .label-blue }Optimization in PyTorch
+: **Dis 4**{: .label .label-blue }Final Project Topic Overview
