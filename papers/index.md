@@ -270,7 +270,7 @@ Simulators:
 
 ### Core List
 
-- [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){:target="_blank"}, Redmon et al., 2015
+- [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){:target="_blank"}, Redmon and Angelova, 2015
 
 - [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
 
