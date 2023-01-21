@@ -384,7 +384,13 @@ Simulators:
 
 - [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
 
+- [Parts-Based Articulated Object Localization in Clutter Using Belief Propagation](https://arxiv.org/abs/2008.02881){:target="_blank"}, Pavlasek et al., 2020
+
+- [Category-Level Articulated Object Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Category-Level_Articulated_Object_Pose_Estimation_CVPR_2020_paper.html){:target="_blank"}, Li et al., 2020
+
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
+
+- [Category-Independent Articulated Object Tracking with Factor Graphs](https://arxiv.org/abs/2205.03721){:target="_blank"}, Heppert et al., 2022
 
 
 ### Transparent Objects
