@@ -26,4 +26,4 @@ Jan 26
 
 
 Jan 27
-: **Dis 4**{: .label .label-blue }Final Project Topic Overview
+: **Dis 4**{: .label .label-blue }Final Project Topics Overview
