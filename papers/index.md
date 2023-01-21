@@ -231,6 +231,12 @@ has_toc: true
 
 ### Extended List
 
+Collecting data with robots:
+
+- [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}
+
+- [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){:target="_blank"}
+
 RGB-D Datasets:
 
 - [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){:target="_blank"}, Silberman et al., 2012
@@ -257,6 +263,7 @@ Object Model Datasets:
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
 
+- [PartNet-Mobility Dataset](https://sapien.ucsd.edu/browse){:target="_blank"}
 
 Simulators:
 
@@ -338,20 +345,30 @@ Simulators:
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf){:target="_blank"}, Li et al., 2022
 
 
-# Transformer Architectures
+# Pre-training for Robot Manipulation and Transformer Architectures
 
 ### Core List
 
+- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2021
+
 - [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
 
-- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
+- [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173){:target="_blank"}, Xiao et al., 2022
 
-- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2022
+- [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601){:target="_blank"}, Nair et al., 2022
+
+- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
 
 - [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
 
 
 ### Extended List
+
+- [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406){:target="_blank"}, Zeng et al., 2020
+
+- [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020){:target="_blank"}, Radford et al., 2021
+
+- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377){:target="_blank"}, He et al., 2021
 
 - [Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407){:target="_blank"}, Lynch et al., 2022
 
