@@ -11,7 +11,8 @@ Jan 17
   : [📖 GBC Sec 8.1-8.6](https://www.deeplearningbook.org/contents/optimization.html){:target="_blank"}
 : &nbsp;
   : [📖 Li et al., Visualizing Loss Landscaps](https://arxiv.org/abs/1712.09913){:target="_blank"}
-
+: &nbsp;
+  : [📖 Goh, Why Momentum Really Works](https://distill.pub/2017/momentum/){:target="_blank"}
 
 
 Jan 19
