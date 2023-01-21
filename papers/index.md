@@ -238,7 +238,10 @@ RGB-D Datasets:
 
 Semantic Datasets:
 
+- [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
+
 - [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){:target="_blank"}, Yadav et al., 2022 
+
 
 Object Model Datasets:
 
