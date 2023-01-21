@@ -22,10 +22,13 @@ Jan 26
   : [📖 cs231n ConvNets](https://cs231n.github.io/convolutional-networks/){:target="_blank"}
 : &nbsp;
   : [📖 GBC Ch. 9](https://www.deeplearningbook.org/contents/convnets.html){:target="_blank"}
+: &nbsp;
+  : [📖 Olah et al., Feature Visualization](https://distill.pub/2017/feature-visualization/){:target="_blank"}
+
 
 
 
 Jan 27
 : **Dis 4**{: .label .label-blue }Overview of Final Project Topics
 : &nbsp;
-  : [📖 Papers](/papers/)
+  : [📖 Selected Papers](/papers/#table-of-contents)
