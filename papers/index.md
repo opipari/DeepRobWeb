@@ -215,6 +215,47 @@ has_toc: true
 
 
 
+# Datasets
+
+RGB-D Datasets:
+
+- [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){:target="_blank"}, Silberman et al., 2012
+
+- [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_SUN_RGB-D_A_2015_CVPR_paper.pdf){:target="_blank"}, Song et al., 2015
+
+- [YCB-Video Dataset](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
+
+- [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/home/){:target="_blank"}, Hodaň et al., 2019
+
+- [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org){:target="_blank"}, Dai et al., 2019
+
+- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
+
+- [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
+
+- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
+
+
+Semantic Datasets:
+
+- [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){:target="_blank"}, Yadav et al., 2022 
+
+Object Model Datasets:
+
+- [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
+
+
+Simulators:
+
+- [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/abstract/document/6386109){:target="_blank"}, Todorov et al., 2015
+
+- [Pybullet, a python module for physics simulation for games, robotics and machine learning](https://pybullet.org/wordpress/){:target="_blank"}, Coumans et al., 2015
+
+- [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){:target="_blank"}
+
+- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
+
+
 # Self-Supervised Learning
 
 ### Core List
@@ -303,47 +344,6 @@ has_toc: true
 
 - [Transformers are Adaptable Task Planners](https://arxiv.org/abs/2207.02442){:target="_blank"}, Jain et al., 2022
 
-
-
-# Datasets
-
-RGB-D Datasets:
-
-- [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){:target="_blank"}, Silberman et al., 2012
-
-- [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_SUN_RGB-D_A_2015_CVPR_paper.pdf){:target="_blank"}, Song et al., 2015
-
-- [YCB-Video Dataset](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
-
-- [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/home/){:target="_blank"}, Hodaň et al., 2019
-
-- [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org){:target="_blank"}, Dai et al., 2019
-
-- [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){:target="_blank"}, Xu et al., 2022
-
-- [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
-
-- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
-
-
-Semantic Datasets:
-
-- [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){:target="_blank"}, Yadav et al., 2022 
-
-Object Model Datasets:
-
-- [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
-
-
-Simulators:
-
-- [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/abstract/document/6386109){:target="_blank"}, Todorov et al., 2015
-
-- [Pybullet, a python module for physics simulation for games, robotics and machine learning](https://pybullet.org/wordpress/){:target="_blank"}, Coumans et al., 2015
-
-- [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){:target="_blank"}
-
-- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
 
 
 
