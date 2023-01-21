@@ -386,7 +386,7 @@ Simulators:
 
 # More Frontiers
 
-### Interpretting Deep Learning Models
+### Interpreting Deep Learning Models
 
 - [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034){:target="_blank"}, Simonyan et al., 2013
 
