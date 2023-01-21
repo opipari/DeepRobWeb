@@ -31,4 +31,4 @@ Jan 26
 Jan 27
 : **Dis 4**{: .label .label-blue }Overview of Final Project Topics
 : &nbsp;
-  : [📖 Selected Papers](/papers/#table-of-contents)
+  : [📖 Selected Papers](/papers/)
