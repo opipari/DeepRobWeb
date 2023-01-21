@@ -217,6 +217,17 @@ has_toc: true
 
 # Datasets
 
+### Core List
+
+- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
+
+- [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
+
+- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
+
+
+### Extended List
+
 RGB-D Datasets:
 
 - [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){:target="_blank"}, Silberman et al., 2012
@@ -233,12 +244,10 @@ RGB-D Datasets:
 
 - [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
 
-- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
-
 
 Semantic Datasets:
 
-- [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
+- [Understanding Human Hands in Contact at Internet Scale](https://arxiv.org/abs/2006.06669){:target="_blank"}, Shan et al., 2020
 
 - [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){:target="_blank"}, Yadav et al., 2022 
 
@@ -256,7 +265,7 @@ Simulators:
 
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){:target="_blank"}
 
-- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
+
 
 
 # Self-Supervised Learning
