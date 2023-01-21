@@ -7,8 +7,12 @@ has_children: false
 has_toc: true
 ---
 
-# Research Papers
+# Deep Learning Research Papers for Robot Perception
 {:.no_toc}
+
+A collection of deep learning research papers with coverage in perception and associated robotic tasks. Within each research area outlined below, the course staff has identified a 'core' and 'extended' set of research papers. The 'core' set of papers will form the basis of our seminar-style lectures starting in [week 8](/calendar/#week-8-3d-perception). The 'extended' set provides additional coverage of even more exciting work being done within each area.
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
