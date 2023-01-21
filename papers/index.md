@@ -125,6 +125,8 @@ has_toc: true
 
 - [Long Short-Term Memory](https://ieeexplore.ieee.org/abstract/document/6795963){:target="_blank"}, Hochreiter et al., 1997
 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/){:target="_blank"}, Karpathy, 2015
+
 - [TrackFormer: Multi-Object Tracking with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf){:target="_blank"}, Meinhardt et al., 2022
 
 
