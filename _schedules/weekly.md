@@ -34,6 +34,7 @@ schedule:
         end: 4:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: lecture
   - name: Wednesday 01/25
     events:
       - name: Anthony's Office Hours
@@ -53,6 +54,7 @@ schedule:
         end: 4:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: lecture
   - name: Friday 01/27
     events:
       - name: Anthony's Office Hours
@@ -65,6 +67,7 @@ schedule:
         end: 5:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: discussion
 ---
 
       <!-- - name: Huijie's Office Hours
