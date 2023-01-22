@@ -88,20 +88,27 @@
     }
 
     .time,
-    .location {
+    .location,
+    .zoom {
       @extend .fs-2;
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $green-000;
     }
 
-    &.section {
+    &.discussion {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.huijie-s-office-hours {
       background-color: $blue-000;
+    }
+    &.anthony-s-office-hours {
+      background-color: #fab450;
+    }
+    &.jiyue-s-office-hours {
+      background-color: $red-000;
     }
   }
 }

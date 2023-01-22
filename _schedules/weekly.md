@@ -18,49 +18,56 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
 schedule:
-  - name: Monday
+  - name: Monday 01/23
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
-  - name: Wednesday
+      - name: Huijie's Office Hours
+        start: 2:30 PM
+        end: 4:30 PM
+        location: 2320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Tuesday 01/24
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
+      - name: <a href="/calendar/#lec-6" style="color:white;">Lecture 6</a>
+        start: 3:00 PM
+        end: 4:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Wednesday 01/25
     events:
-      - name: Lecture
-        start: 9:30 AM
+      - name: Anthony's Office Hours
+        start: 1:30 PM
+        end: 3:00 PM
+        location: 3320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Thursday 01/26
+    events:
+      - name: Jiyue's Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: 2320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+      - name: <a href="/calendar/#lec-7" style="color:white;">Lecture 7</a>
+        start: 3:00 PM
+        end: 4:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Friday 01/27
+    events:
+      - name: Anthony's Office Hours
+        start: 9:00 AM
         end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        location: 3320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+      - name: <a href="/calendar/#dis-4" style="color:white;">Discussion 4</a>
+        start: 4:30 PM
+        end: 5:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
 ---
+
+      <!-- - name: Huijie's Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: 2320 FMCRB, Zoom ID 936 5222 5304 -->

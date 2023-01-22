@@ -24,6 +24,9 @@
           {% if event.location %}
           <div class="location">{{ event.location }}</div>
           {% endif %}
+          {% if event.zoom %}
+          <div class="zoom">{{ event.zoom }}</div>
+          {% endif %}
         </li>
       {% endfor %}
       </ul>

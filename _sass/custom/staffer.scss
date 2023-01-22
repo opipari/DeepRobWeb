@@ -16,6 +16,13 @@
   
 }
 
+.staffer-info {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
 .staff-column {
   width: 100%;
 }
@@ -27,7 +34,7 @@
 
   .staffer-image {
     border-radius: 50%;
-    height: 100px;
+    height: 135px;
     margin-right: $sp-4;
   }
 

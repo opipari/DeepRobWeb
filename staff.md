@@ -4,12 +4,12 @@ title: Staff
 description: A directory of the teaching staff for Deep Learning for Robot Perception at the University of Michigan.
 ---
 
-# Staff
+# Deep Rob Course Staff
 
 <div class="staff-row" >
 <div markdown="1" class="staff-column">
 
-## Instructors
+# Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -19,7 +19,7 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 </div>
 <div markdown="1" class="staff-column">
 
-## Collaborating Instructor
+# Collaborating Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Collaborating Instructor' %}
 {% for staffer in instructors %}
@@ -32,7 +32,8 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 {% assign research_associates = site.staffers | where: 'role', 'Research Associate' %}
 {% assign num_research_associates = research_associates | size %}
 {% if num_research_associates != 0 %}
-## Research Associate
+
+# Research Associate
 
 {% for staffer in research_associates %}
 {{ staffer }}
@@ -42,9 +43,18 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 {% assign teaching_assistants = site.staffers | where: 'role', 'Instructional Aide' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Instructional Aide
+
+# Instructional Aide
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+---
+
+# Week 4 Schedule
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
