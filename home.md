@@ -73,6 +73,7 @@ This course builds on and is indebted to these existing courses (as a “star”
 ---
 
 # Week 4 Schedule
+{: #weekly-schedule }
 
 {% for schedule in site.schedules %}
 {{ schedule }}
