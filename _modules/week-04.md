@@ -30,4 +30,4 @@ Jan 26
 Jan 27
 : **Dis 4**{: #dis-4 .label .label-blue }Overview of Final Project Topics
 : &nbsp;
-  : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm)
+  : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){:target="_blank"}
