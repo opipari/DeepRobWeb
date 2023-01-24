@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Jan 24
-: **Lec 6**{: #lec-6 .label .label-purple }Backpropagation
+: [**Lec 6**](/assets/slides/deeprob_06_backpropagation.pdf){: #lec-6 target="_blank" .label .label-purple }[Backpropagation](/assets/slides/deeprob_06_backpropagation.pdf){: target="_blank" }
 : [**Quiz 2**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
 : &nbsp;
   : [📖 cs231n Backpropagation](https://cs231n.github.io/optimization-2/){:target="_blank"}
