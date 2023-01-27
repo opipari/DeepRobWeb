@@ -30,10 +30,12 @@ A collection of deep learning research papers with coverage in perception and as
 
 2. [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){:target="_blank"}, Li et al., 2018
 
-3. [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2020
+3. [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
 
 
-4. [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
+4. [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2021
+
+
 
 
 ### Extended List
