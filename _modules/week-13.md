@@ -9,9 +9,9 @@ Apr 4
 
 
 Apr 6
-: **Lec 25**{: #lec-25 .label .label-purple }Transformer Architectures
+: **Lec 25**{: #lec-25 .label .label-purple }Tactile Perception for Grasping and Manipulation
 : &nbsp;
-  : [📃 Related Papers](/papers/#transformer-architectures){:target="_blank"}
+  : [📃 Related Papers](/papers/#tactile-perception-for-grasping-and-manipulation){:target="_blank"}
 
 Apr 7
 : **Dis 13**{: #dis-13 .label .label-blue }Paper discussion: Deep Learning for Manipulation

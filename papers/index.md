@@ -26,14 +26,14 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
+1. [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199){:target="_blank"}, Xiang et al., 2018
 
-- [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){:target="_blank"}, Li et al., 2018
+2. [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){:target="_blank"}, Li et al., 2018
 
-- [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2020
+3. [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){:target="_blank"}, Li et al., 2020
 
 
-- [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
+4. [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){:target="_blank"}, He et al., 2020
 
 
 ### Extended List
@@ -54,15 +54,15 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593){:target="_blank"}, Qi et al., 2017
+1. [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593){:target="_blank"}, Qi et al., 2017
 
 
-- [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413){:target="_blank"}, Qi et al., 2017
+2. [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413){:target="_blank"}, Qi et al., 2017
 
 
-- [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf){:target="_blank"}, Xu et al., 2018
+3. [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf){:target="_blank"}, Xu et al., 2018
 
-- [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf){:target="_blank"}, Wang et al., 2019
+4. [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf){:target="_blank"}, Wang et al., 2019
 
 
 ### Extended List
@@ -74,11 +74,11 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){:target="_blank"}, Sui et al., 2017
+1. [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){:target="_blank"}, Sui et al., 2017
 
-- [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"}, Park et al., 2019
+2. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){:target="_blank"}, Park et al., 2019
 
-- [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
+3. [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
 
 
 
@@ -94,13 +94,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756){:target="_blank"}, Florence et al., 2018
+1. [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756){:target="_blank"}, Florence et al., 2018
 
-- [Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation](https://geometry.stanford.edu/projects/NOCS_CVPR2019/){:target="_blank"}, Wang et al., 2019
+2. [Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation](https://geometry.stanford.edu/projects/NOCS_CVPR2019/){:target="_blank"}, Wang et al., 2019
 
-- [kPAM: KeyPoint Affordances for Category-Level Robotic Manipulation](https://arxiv.org/abs/1903.06684){:target="_blank"}, Manuelli et al., 2019
+3. [kPAM: KeyPoint Affordances for Category-Level Robotic Manipulation](https://arxiv.org/abs/1903.06684){:target="_blank"}, Manuelli et al., 2019
 
-- [Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image](https://arxiv.org/abs/2109.06161){:target="_blank"}, Lin et al., 2022 
+4. [Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image](https://arxiv.org/abs/2109.06161){:target="_blank"}, Lin et al., 2022 
 
 
 ### Extended List
@@ -109,20 +109,20 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings](https://arxiv.org/abs/2111.13489){:target="_blank"}, Haugaard et al., 2021
 
-- [Fully Self-Supervised Class Awareness in Dense Object Descriptors](https://proceedings.mlr.press/v164/hadjivelichkov22a.html){:target="_blank"}, Hadjivelichkov et al., 2022
+
 
 
 # Recurrent Networks and Object Tracking
 
 ### Core List
 
-- [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){:target="_blank"}, Li et al., 2018
+1. [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){:target="_blank"}, Li et al., 2018
 
-- [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://arxiv.org/abs/1905.09304){:target="_blank"}, Deng et al., 2019
+2. [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://arxiv.org/abs/1905.09304){:target="_blank"}, Deng et al., 2019
 
-- [6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints](https://ieeexplore.ieee.org/abstract/document/9196679){:target="_blank"}, Wang et al., 2020
+3. [6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints](https://ieeexplore.ieee.org/abstract/document/9196679){:target="_blank"}, Wang et al., 2020
 
-- [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115){:target="_blank"}, Cheng and Schwing, 2022
+4. [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115){:target="_blank"}, Cheng and Schwing, 2022
 
 
 ### Extended List
@@ -138,13 +138,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [Backprop KF: Learning Discriminative Deterministic State Estimators](https://proceedings.neurips.cc/paper/2016/file/697e382cfd25b07a3e62275d3ee132b3-Paper.pdf){:target="_blank"}, Haarnoja et al., 2016
+1. [Backprop KF: Learning Discriminative Deterministic State Estimators](https://proceedings.neurips.cc/paper/2016/file/697e382cfd25b07a3e62275d3ee132b3-Paper.pdf){:target="_blank"}, Haarnoja et al., 2016
 
-- [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](http://www.roboticsproceedings.org/rss14/p01.pdf){:target="_blank"}, Jonschkowski et al., 2018
+2. [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](http://www.roboticsproceedings.org/rss14/p01.pdf){:target="_blank"}, Jonschkowski et al., 2018
 
-- [Multimodal Sensor Fusion with Differentiable Filters](https://arxiv.org/abs/2010.13021){:target="_blank"}, Lee et al., 2020
+3. [Multimodal Sensor Fusion with Differentiable Filters](https://arxiv.org/abs/2010.13021){:target="_blank"}, Lee et al., 2020
 
-- [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2021/papers/Karkus_Differentiable_SLAM-Net_Learning_Particle_SLAM_for_Visual_Navigation_CVPR_2021_paper.pdf){:target="_blank"}, Karkus et al., 2021
+4. [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2021/papers/Karkus_Differentiable_SLAM-Net_Learning_Particle_SLAM_for_Visual_Navigation_CVPR_2021_paper.pdf){:target="_blank"}, Karkus et al., 2021
 
 
 ### Extended List
@@ -166,13 +166,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [Image Retrieval using Scene Graphs](https://openaccess.thecvf.com/content_cvpr_2015/papers/Johnson_Image_Retrieval_Using_2015_CVPR_paper.pdf){:target="_blank"}, Johnson et al., 2015
+1. [Image Retrieval using Scene Graphs](https://openaccess.thecvf.com/content_cvpr_2015/papers/Johnson_Image_Retrieval_Using_2015_CVPR_paper.pdf){:target="_blank"}, Johnson et al., 2015
 
-- [Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/8460538){:target="_blank"}, Zeng et al., 2018
+2. [Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/8460538){:target="_blank"}, Zeng et al., 2018
 
-- [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200){:target="_blank"}, Raboh et al., 2020
+3. [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200){:target="_blank"}, Raboh et al., 2020
 
-- [Semantic Linking Maps for Active Visual Object Search](https://arxiv.org/abs/2006.10807){:target="_blank"}, Zeng et al., 2020
+4. [Semantic Linking Maps for Active Visual Object Search](https://arxiv.org/abs/2006.10807){:target="_blank"}, Zeng et al., 2020
 
 
 ### Extended List
@@ -190,15 +190,15 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934){:target="_blank"}, Mildenhall et al., 2020
+1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934){:target="_blank"}, Mildenhall et al., 2020
 
-- [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503){:target="_blank"}, Guo et al., 2020
+2. [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503){:target="_blank"}, Guo et al., 2020
 
-- [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124){:target="_blank"}, Simeonov et al., 2021
+3. [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124){:target="_blank"}, Simeonov et al., 2021
 
-- [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
+4. [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){:target="_blank"}, Yen-Chen et al., 2022
 
-- [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
+5. [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
 
 
 ### Extended List
@@ -225,13 +225,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Core List
 
-- [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}, Levine et al., 2016
+1. [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}, Levine et al., 2016
 
-- [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
+2. [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
 
-- [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
+3. [Grounding Predicates through Actions](https://arxiv.org/abs/2109.14718){:target="_blank"}, Migimatsu and Bohg, 2022 
 
-- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
+4. [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
 
 
 
@@ -287,9 +287,13 @@ Simulators:
 
 ### Core List
 
-- [VICRegL: Self-Supervised Learning of Local Visual Features](https://arxiv.org/abs/2210.01571){:target="_blank"}, Bardes et al., 2022
+1. [Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191){:target="_blank"}, Lee et al., 2019
 
-- [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
+2. [VICRegL: Self-Supervised Learning of Local Visual Features](https://arxiv.org/abs/2210.01571){:target="_blank"}, Bardes et al., 2022
+
+3. [Fully Self-Supervised Class Awareness in Dense Object Descriptors](https://proceedings.mlr.press/v164/hadjivelichkov22a.html){:target="_blank"}, Hadjivelichkov and Kanoulas, 2022
+
+4. [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){:target="_blank"}, Zhang et al., 2022
 
 
 
@@ -297,15 +301,15 @@ Simulators:
 
 ### Core List
 
-- [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){:target="_blank"}, Redmon and Angelova, 2015
+1. [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){:target="_blank"}, Redmon and Angelova, 2015
 
-- [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
+2. [Using Geometry to Detect Grasps in 3D Point Clouds](https://arxiv.org/abs/1501.03100){:target="_blank"}, ten Pas and Platt, 2015
 
-- [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312){:target="_blank"}, Mahler et al., 2017
+3. [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312){:target="_blank"}, Mahler et al., 2017
 
-- [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/9561877){:target="_blank"}, Sundermeyer et al., 2021
+4. [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/9561877){:target="_blank"}, Sundermeyer et al., 2021
 
-- [Sample Efficient Grasp Learning Using Equivariant Models](https://arxiv.org/abs/2202.09468){:target="_blank"}, Zhu et al., 2022
+5. [Sample Efficient Grasp Learning Using Equivariant Models](https://arxiv.org/abs/2202.09468){:target="_blank"}, Zhu et al., 2022
 
 
 ### Extended List
@@ -323,12 +327,13 @@ Simulators:
 
 ### Core List
 
-- [More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch](https://arxiv.org/abs/1805.11085){:target="_blank"}, Calandra et al., 2018 
+1. [More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch](https://arxiv.org/abs/1805.11085){:target="_blank"}, Calandra et al., 2018 
 
-- [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://arxiv.org/abs/2012.05205){:target="_blank"}, • Bauza et al., 2020
-- [Visuotactile Affordances for Cloth Manipulation with Local Control](https://openreview.net/pdf?id=s6NEzqZKaP-){:target="_blank"}, Sunil et al., 2022
+2. [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://arxiv.org/abs/2012.05205){:target="_blank"}, Bauza et al., 2020
 
-- [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://arxiv.org/abs/2109.09884){:target="_blank"}, Suresh et al., 2022
+3. [Visuotactile Affordances for Cloth Manipulation with Local Control](https://openreview.net/pdf?id=s6NEzqZKaP-){:target="_blank"}, Sunil et al., 2022
+
+4. [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://arxiv.org/abs/2109.09884){:target="_blank"}, Suresh et al., 2022
 
 
 ### Extended List
@@ -347,7 +352,7 @@ Simulators:
 
 - [Active Visuo-Haptic Object Shape Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720238){:target="_blank"}, Rustler et al., 2022
 
-- [Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces](https://arxiv.org/pdf/2209.13042.pdf){:target="_blank"}, Kerr and Huang et al., 2022
+- [Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces](https://arxiv.org/abs/2209.13042){:target="_blank"}, Kerr and Huang et al., 2022
 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf){:target="_blank"}, Li et al., 2022
 
@@ -356,17 +361,17 @@ Simulators:
 
 ### Core List
 
-- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2021
+1. [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2021
 
-- [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
+2. [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
 
-- [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173){:target="_blank"}, Xiao et al., 2022
+3. [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173){:target="_blank"}, Xiao et al., 2022
 
-- [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601){:target="_blank"}, Nair et al., 2022
+4. [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601){:target="_blank"}, Nair et al., 2022
 
-- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
+5. [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
 
-- [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
+6. [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
 
 
 ### Extended List
