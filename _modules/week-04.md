@@ -28,6 +28,6 @@ Jan 26
 
 
 Jan 27
-: **Dis 4**{: #dis-4 .label .label-blue }Overview of Final Project Topics
+: [**Dis 4**](/assets/slides/deeprob_discussion_04.pdf){: #dis-4 .label .label-blue target="_blank" }[Overview of Final Project Topics](/assets/slides/deeprob_discussion_04.pdf){:target="_blank"}
 : &nbsp;
   : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){:target="_blank"}
