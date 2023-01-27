@@ -12,4 +12,3 @@ Feb 9
 
 Feb 10
 : **Dis 6**{: #dis-6 .label .label-blue }Tensorflow, Keras, Darknet, etc.
-: [**Paper Selection Due**{: .label .label-red }](/projects/#final-project){: .project-link}
