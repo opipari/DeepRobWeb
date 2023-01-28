@@ -30,5 +30,5 @@ Jan 26
 Jan 27
 : [**Dis 4**](/assets/slides/deeprob_discussion_04.pdf){: #dis-4 .label .label-blue target="_blank" }[Overview of Final Project Topics](/assets/slides/deeprob_discussion_04.pdf){:target="_blank"}
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/xlydm11pIFg){:target="_blank"}
-: [**Paper Selection Survey Out**{: .label .label-yellow }](https://www.gradescope.com/courses/480760){: .project-link}
+: [**Paper Selection Survey Out**{: .label .label-yellow }](https://www.gradescope.com/courses/480760){: .project-link target="_blank"}
   : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){:target="_blank"}

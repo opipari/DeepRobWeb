@@ -14,4 +14,4 @@ Feb 2
 
 Feb 3
 : **Dis 5**{: #dis-5 .label .label-blue }Training CNNs in PyTorch
-: [**Paper Selection Survey Due**{: .label .label-red }](https://www.gradescope.com/courses/480760){: .project-link}
+: [**Paper Selection Survey Due**{: .label .label-red }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
