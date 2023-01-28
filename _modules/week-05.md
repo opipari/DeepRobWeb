@@ -5,11 +5,21 @@ title: Week 5
 Jan 31
 : **Lec 8**{: #lec-8 .label .label-purple }CNN Architectures
 : [**Quiz 4**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
-
+  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}
+: &nbsp;
+  : [📖 Simonyan and Zisserman, VGG](https://arxiv.org/abs/1409.1556){:target="_blank"}
+: &nbsp;
+  : [📖 Szegedy et al., GoogLeNet](https://arxiv.org/abs/1409.4842){:target="_blank"}
+: &nbsp;
+  : [📖 He et al., ResNet](https://arxiv.org/abs/1512.03385){:target="_blank"}
 
 Feb 2
 : **Lec 9**{: #lec-9 .label .label-purple }Training Neural Networks I
 : [**Quiz 5**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
+  : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){:target="_blank"}
+: &nbsp;
+  : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){:target="_blank"}
+
 
 
 Feb 3
