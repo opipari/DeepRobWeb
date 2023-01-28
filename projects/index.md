@@ -28,7 +28,7 @@ Introduction to Python, PyTorch and Google Colab
 
 Classification using K-Nearest Neighbors and Linear Models
 
-## Project 2
+## [Project 2](/projects/project2/)
 
 Classification using Fully-connected and Convolutional Neural Networks
 

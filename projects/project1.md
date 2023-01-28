@@ -8,14 +8,14 @@ nav_order: 2
 # Project 1
 
 ## Overview
-The objective of this project is to gain experience building a machine learning pipeline that can be used to train and evaluate image classification models. In this project you will implement of set of classification models then apply them to a dataset of images in the context of domestic service robots.
+The objective of this project is to gain experience building a machine learning pipeline that can be used to train and evaluate image classification models. In this project you will implement a set of classification models then apply them to a dataset of images in the context of domestic service robots.
 
 ### The goals for this project are as follows:
  - Implement a K-Nearest Neighbors classifier.
  - Implement a Multiclass Support Vector Machine classifier.
  - Implement a Softmax classifier.
  - Understand the differences and tradeoffs between each of these classifiers.
- - Understand the characteristics of instance-level classification using the [PROPS dataset](/dataset/#props-classification).
+ - Understand the characteristics of instance-level classification using the [PROPS Classification Dataset](/dataset/#props-classification).
  - Practice with cross validating your machine learning models.
 
 
