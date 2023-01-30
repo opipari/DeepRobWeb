@@ -59,3 +59,4 @@ This project is due on <b>Thursday, February 9th at 11:59pm EST</b>. We suggest 
  -->
 
 ### These instructions will be updated and an official announcement will be made via email and [EdStem](/syllabus/#discussion-forum) once the Project 2 Autograder is online.
+
