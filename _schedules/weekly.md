@@ -70,11 +70,6 @@ schedule:
         location: 1060 FMCRB
   - name: Friday 02/03
     events:
-      - name: Anthony's Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: 3320 FMCRB
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
       - name: <a href="/calendar/#dis-5" style="color:white;">Discussion 5</a>
         start: 4:30 PM
         end: 5:30 PM
