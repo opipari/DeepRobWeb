@@ -1,7 +1,7 @@
 ---
 title: Week 5
 ---
-
+ 
 Jan 31
 : [**Lec 8**](/assets/slides/deeprob_08_cnn_architectures.pdf){: #lec-8 .label .label-purple target="_blank" }[CNN Architectures](/assets/slides/deeprob_08_cnn_architectures.pdf){: target="_blank" }
 : [**Quiz 4**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
