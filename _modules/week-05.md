@@ -4,7 +4,6 @@ title: Week 5
 
 Jan 31
 : [**Lec 8**](/assets/slides/deeprob_08_cnn_architectures.pdf){: #lec-8 .label .label-purple target="_blank" }[CNN Architectures](/assets/slides/deeprob_08_cnn_architectures.pdf){: target="_blank" }
-  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/H9ufqY7yfoo){:target="_blank"}
 : [**Quiz 4**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
   : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}
 : &nbsp;
