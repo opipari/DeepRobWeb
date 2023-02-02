@@ -16,7 +16,7 @@ Jan 31
 
 Feb 2
 : **Lec 9**{: #lec-9 .label .label-purple }Training Neural Networks I
-: [**Quiz 5**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
+: &nbsp;
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){:target="_blank"}
 : &nbsp;
   : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){:target="_blank"}
