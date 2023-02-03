@@ -367,7 +367,7 @@ Simulators:
 
 2. [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
 
-3. [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173){:target="_blank"}, Xiao et al., 2022
+3. [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/abs/2210.03109){:target="_blank"}, Radosavovic et al., 2022
 
 4. [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601){:target="_blank"}, Nair et al., 2022
 
