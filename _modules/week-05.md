@@ -25,5 +25,5 @@ Feb 2
 
 
 Feb 3
-: **Dis 5**{: #dis-5 .label .label-blue }Training CNNs in PyTorch
+: [**Dis 5**](/assets/slides/deeprob_discussion_05.pdf){: #dis-5 .label .label-blue target="_blank" }[Overview of Final Project Topics II](/assets/slides/deeprob_discussion_05.pdf){:target="_blank"}
 : [**Paper Selection Survey Due**{: .label .label-red }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
