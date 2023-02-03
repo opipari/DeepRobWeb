@@ -16,6 +16,7 @@ Jan 31
 
 Feb 2
 : [**Lec 9**](/assets/slides/deeprob_09_training_neural_networks_1.pdf){: #lec-9 .label .label-purple target="_blank" }[Training Neural Networks I](/assets/slides/deeprob_09_training_neural_networks_1.pdf){: target="_blank" }
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/aBobLAvSy5s){:target="_blank"}
 : &nbsp;
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){:target="_blank"}
 : &nbsp;
