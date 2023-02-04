@@ -322,6 +322,8 @@ Simulators:
 
 - [GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter](https://ieeexplore.ieee.org/abstract/document/8967685){:target="_blank"}, Zhou et al., 2019
 
+- [MetaGraspNet_v0: A Large-Scale Benchmark Dataset for Vision-driven Robotic Grasping via Physics-based Metaverse Synthesis](https://arxiv.org/abs/2112.14663){:target="_blank"}, Chen et al., 2021
+
 - [Grasp Learning: Models, Methods, and Performance](https://arxiv.org/abs/2211.04895){:target="_blank"}, Platt, 2022
 
 
@@ -415,6 +417,8 @@ Simulators:
 
 - [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
 
+- [Autonomous Tool Construction Using Part Shape and Attachment Prediction](http://www.roboticsproceedings.org/rss15/p09.pdf){:target="_blank"}, Nair et al., 2019
+
 - [Parts-Based Articulated Object Localization in Clutter Using Belief Propagation](https://arxiv.org/abs/2008.02881){:target="_blank"}, Pavlasek et al., 2020
 
 - [Category-Level Articulated Object Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Category-Level_Articulated_Object_Pose_Estimation_CVPR_2020_paper.html){:target="_blank"}, Li et al., 2020
@@ -440,4 +444,12 @@ Simulators:
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
 
 
+
+### Specialized Sensors
+
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){:target="_blank"}, Yuan et al., 2017
+
+- [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){:target="_blank"}, Erickson et al., 2018
+
+- [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){:target="_blank"}, Zhao et al., 2018
 
