@@ -154,6 +154,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Extended List
 
+- [Factor Graphs and GTSAM](https://gtsam.org/tutorials/intro.html){:target="_blank"}, Dellaert et al., 2012
+
 - [Differentiable Algorithm Networks for Composable Robot Learning](https://arxiv.org/pdf/1905.11602.pdf){:target="_blank"}, Karkus et al., 2019
 
 - [Chasing Ghosts: Instruction Following as Bayesian State Tracking](https://proceedings.neurips.cc/paper/2019/file/82161242827b703e6acf9c726942a1e4-Paper.pdf){:target="_blank"}, Anderson et al., 2019
@@ -166,8 +168,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){:target="_blank"}, Rosinol et al., 2022
 
-- [Factor Graphs and GTSAM](https://gtsam.org/tutorials/intro.html){:target="_blank"}, Dellaert et al., 2012
-
+- [A Robot Web for Distributed Many-Device Localisation](https://arxiv.org/abs/2202.03314){:target="_blank"}, Murai et al., 2022
 
 # Semantic Scene Graphs and Explicit Representations
 
