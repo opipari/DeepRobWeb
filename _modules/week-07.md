@@ -11,4 +11,4 @@ Feb 16
 : [**Quiz 8**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" }
 
 Feb 17
-: **Dis 7**{: #dis-7 .label .label-blue }Detection & Segmentation Demo
+: **Dis 7**{: #dis-7 .label .label-blue }How to Review Research Papers

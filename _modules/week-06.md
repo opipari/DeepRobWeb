@@ -14,4 +14,4 @@ Feb 9
 : [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" } [**Project 2 due**{: .label .label-red }](/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
 
 Feb 10
-: **Dis 6**{: #dis-6 .label .label-blue }Tensorflow, Keras, Darknet, etc.
+: **Dis 6**{: #dis-6 .label .label-blue }How to Present Research Papers
