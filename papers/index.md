@@ -69,6 +69,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Extended List
 
+- [PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows](https://arxiv.org/abs/1906.12320){:target="_blank"}, Yang et al., 2019
+
 - [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf){:target="_blank"}, Pan et al., 2021
 
 
@@ -82,6 +84,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 3. [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){:target="_blank"}, Michalkiewicz et al., 2019
 
+4. [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception](https://arxiv.org/abs/2204.02296){:target="_blank"}, Oriz et al., 2022
 
 
 ### Extended List
@@ -162,6 +165,8 @@ A collection of deep learning research papers with coverage in perception and as
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 - [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){:target="_blank"}, Rosinol et al., 2022
+
+- [Factor Graphs and GTSAM](https://gtsam.org/tutorials/intro.html){:target="_blank"}, Dellaert et al., 2012
 
 
 # Semantic Scene Graphs and Explicit Representations
@@ -380,6 +385,14 @@ Simulators:
 
 ### Extended List
 
+- [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/){:target="_blank"}, Olah & Carter, 2016
+
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762){:target="_blank"}, Vaswani et al., 2017
+
+- [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/){:target="_blank"}, Dumoulin et al., 2018
+
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929){:target="_blank"}, Dosovitskiy et al., 2020
+
 - [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406){:target="_blank"}, Zeng et al., 2020
 
 - [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020){:target="_blank"}, Radford et al., 2021
@@ -402,6 +415,8 @@ Simulators:
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391){:target="_blank"}, Selvaraju et al., 2016
 
 - [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/){:target="_blank"}, Olah et al., 2018
+
+- [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/){:target="_blank"}, Dumoulin et al., 2018
 
 - [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/){:target="_blank"}, Goh et al., 2021
 
@@ -453,3 +468,14 @@ Simulators:
 
 - [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){:target="_blank"}, Zhao et al., 2018
 
+- [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){:target="_blank"}, Chen et al., 2019
+
+
+### Beyond 2D Convolution
+
+- [Graph Convolutions](https://distill.pub/2021/gnn-intro/){:target="_blank"}, Sanchez-Lengeling et al., 2021
+
+
+### Reinforcement Learning
+
+- [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/){:target="_blank"}, Hilton et al., 2020

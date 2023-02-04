@@ -22,7 +22,10 @@ Jan 26
 : &nbsp;
   : [📖 GBC Ch. 9](https://www.deeplearningbook.org/contents/convnets.html){:target="_blank"}
 : &nbsp;
+  : [📖 Araujo et al., Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/){:target="_blank"}
+: &nbsp;
   : [📖 Olah et al., Feature Visualization](https://distill.pub/2017/feature-visualization/){:target="_blank"}
+
 
 
 
