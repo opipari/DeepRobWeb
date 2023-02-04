@@ -34,7 +34,7 @@ schedule:
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-8" style="color:white;">Lecture 8</a>
+      - name: <a href="/calendar/#lec-10" style="color:white;">Lecture 10</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
@@ -58,7 +58,7 @@ schedule:
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-9" style="color:white;">Lecture 9</a>
+      - name: <a href="/calendar/#lec-11" style="color:white;">Lecture 11</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
@@ -70,7 +70,7 @@ schedule:
         location: 1060 FMCRB
   - name: Friday 02/10
     events:
-      - name: <a href="/calendar/#dis-5" style="color:white;">Discussion 5</a>
+      - name: <a href="/calendar/#dis-6" style="color:white;">Discussion 6</a>
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
