@@ -431,8 +431,6 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/){: target="_blank" rel="noopener noreferrer"}, Olah et al., 2018
 
-- [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/){: target="_blank" rel="noopener noreferrer"}, Dumoulin et al., 2018
-
 - [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/){: target="_blank" rel="noopener noreferrer"}, Goh et al., 2021
 
 
