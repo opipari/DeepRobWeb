@@ -256,11 +256,12 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Extended List
 
-Collecting data with robots:
+#### Collecting data with robots
 
 - [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2019
 
-RGB-D Datasets:
+
+#### RGB-D Datasets
 
 - [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){: target="_blank" rel="noopener noreferrer"}, Silberman et al., 2012
 
@@ -277,21 +278,21 @@ RGB-D Datasets:
 - [TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes](https://arxiv.org/abs/2203.09440){: target="_blank" rel="noopener noreferrer"}, Xu et al., 2022
 
 
-Semantic Datasets:
+#### Semantic Datasets
 
 - [Understanding Human Hands in Contact at Internet Scale](https://arxiv.org/abs/2006.06669){: target="_blank" rel="noopener noreferrer"}, Shan et al., 2020
 
 - [Habitat-Matterport 3D Semantics Dataset](https://arxiv.org/abs/2210.05633){: target="_blank" rel="noopener noreferrer"}, Yadav et al., 2022 
 
 
-Object Model Datasets:
+#### Object Model Datasets
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){: target="_blank" rel="noopener noreferrer"}, Chang et al., 2015
 
 - [PartNet-Mobility Dataset](https://sapien.ucsd.edu/browse){: target="_blank" rel="noopener noreferrer"}
 
 
-Simulators:
+#### Simulators
 
 - [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/abstract/document/6386109){: target="_blank" rel="noopener noreferrer"}, Todorov et al., 2015
 
