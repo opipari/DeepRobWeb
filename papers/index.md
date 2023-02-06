@@ -69,9 +69,14 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Extended List
 
+- [Just Go with the Flow: Self-Supervised Scene Flow Estimation](https://arxiv.org/abs/1912.00497){:target="_blank"}, Mittal et al., 2019
+
 - [PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows](https://arxiv.org/abs/1906.12320){:target="_blank"}, Yang et al., 2019
 
 - [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf){:target="_blank"}, Pan et al., 2021
+
+- [Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories](https://arxiv.org/abs/2204.04153){:target="_blank"}, Harley et al., 2022
+
 
 
 # Object Pose, Geometry, SDF, Implicit surfaces
