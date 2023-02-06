@@ -16,7 +16,6 @@ The objective of this project is to build skills needed to understand and lead r
 ### The goals for this project are as follows:
  - Practice reading deep learning papers in your areas of interest.
  - Analyze the published motivations, results and methodologies in deep learning papers from the perspective of an academic reviewer.
- - Increase .
  - Practice reproducing the results of published work. Build an understanding of what challenges are common when reproducing published results.
  - Propose an algorithmic extension to state of the art results, which could result in a workshop or conference submission.
 
