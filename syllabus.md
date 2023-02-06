@@ -23,8 +23,8 @@ Robots need to see and understand their world to be able to interact with object
 This course aims to cover the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision and enabling – for enabling robots to dexterously manipulate physical objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation.  This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
 
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
-- [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html){:target="_blank"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){:target="_blank"}
-- [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){:target="_blank"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){:target="_blank"} and [Andrej Karpathy](https://karpathy.ai/){:target="_blank"}
+- [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html){: target="_blank" rel="noopener noreferrer"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){: target="_blank" rel="noopener noreferrer"}
+- [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){: target="_blank" rel="noopener noreferrer"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){: target="_blank" rel="noopener noreferrer"} and [Andrej Karpathy](https://karpathy.ai/){: target="_blank" rel="noopener noreferrer"}
 
 
 ## Topics and Course Structure
@@ -50,27 +50,27 @@ The second half of the course will switch to seminar style covering following ad
    - Programming: ROB 320, EECS 281, or equivalent
    - Linear Algebra: ROB 101, MATH 214, MATH 217, or equivalent
  - Recommended prerequisites:
-   - Prior experience with the [Python programming language](https://www.python.org/) is recommended.
+   - Prior experience with the [Python programming language](https://www.python.org/){: target="_blank" rel="noopener noreferrer"} is recommended.
    - Familiarity with gradients and how to calculate them from vector calculus.
    - Familiarity with random variables and probability distributions from probability theory.
    - Familiarity with concepts from machine learning (e.g. EECS 445) will be helpful.
 
 ## Textbook
 
-There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){:target="_blank"}.
+There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){: target="_blank" rel="noopener noreferrer"}.
 
 
 ## Lectures
 
 Lectures will take place in-person with remote accessibility (synchronous and asynchronous). 
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){:target="_blank"}
+In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){: target="_blank" rel="noopener noreferrer"}
 
 ## Discussion Sections
 
 Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
 
-In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){:target="_blank"}.
+In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){: target="_blank" rel="noopener noreferrer"}.
 
 ## Programming Projects
 
@@ -86,7 +86,7 @@ The objective of the final project is for you to gain experience with state of t
 
 ## Quizzes
 
-Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/480760){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM EST and must be submitted by 3:00PM EST. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects. Use of lecture, project and other course materials is permitted while taking the quizzes. Use of external sources (i.e. from the internet) is not permitted during quizzes. 
+Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/480760){: target="_blank" rel="noopener noreferrer"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM EST and must be submitted by 3:00PM EST. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects. Use of lecture, project and other course materials is permitted while taking the quizzes. Use of external sources (i.e. from the internet) is not permitted during quizzes. 
 
 ## Grading Policy
 
@@ -110,12 +110,13 @@ Course grades will be determined according to the following criteria:
 
 The free flow of discussion and ideas is encouraged. <b>However, all work submitted must be your own.</b>
 
-All code submitted must comply with the [College of Engineering Honor Code](https://bulletin.engin.umich.edu/rules/){:target="_blank"}.
+All code submitted must comply with the [College of Engineering Honor Code](https://bulletin.engin.umich.edu/rules/){: target="_blank" rel="noopener noreferrer"}.
 
 No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
 
 ## Discussion Forum
 
-The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){:target="_blank"}.
+The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){: target="_blank" rel="noopener noreferrer"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){: target="_blank" rel="noopener noreferrer"}.
 
 <b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
+

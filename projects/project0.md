@@ -3,6 +3,7 @@ layout: page
 title: Project 0
 parent: Projects
 nav_order: 1
+description: Specification of project 0 for DeepRob at the University of Michigan.
 ---
  
 # Project 0

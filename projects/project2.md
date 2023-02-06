@@ -3,6 +3,7 @@ layout: page
 title: Project 2
 parent: Projects
 nav_order: 3
+description: Specification of project 2 for DeepRob at the University of Michigan.
 ---
  
 # Project 2
