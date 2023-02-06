@@ -472,7 +472,7 @@ Simulators:
 - [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){:target="_blank"}, Chen et al., 2019
 
 
-### Beyond 2D Convolution
+### Beyond 2D Convolutions
 
 - [Graph Convolutions](https://distill.pub/2021/gnn-intro/){:target="_blank"}, Sanchez-Lengeling et al., 2021
 
