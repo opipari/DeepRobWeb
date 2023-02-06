@@ -92,12 +92,12 @@ Throughout the semester, there will be a total of 16 quizzes administered throug
 
 Course grades will be determined according to the following criteria:
 
- - Project 0:     12%
- - Project 1:     12%
- - Project 2:     12%
+ - [Project 0](/projects/project0/):     12%
+ - [Project 1](/projects/project1/):     12%
+ - [Project 2](/projects/project2/):     12%
  - Project 3:     12%
  - Project 4:     12%
- - Final Project:
+ - [Final Project](/projects/finalproject/):
    - Paper Review: 3%
    - Paper Presentation: 3%
    - Paper Reproduction: 6%
