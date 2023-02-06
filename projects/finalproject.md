@@ -3,6 +3,7 @@ layout: page
 title: Final Project
 parent: Projects
 nav_order: 6
+description: Specification of the final project for DeepRob at the University of Michigan.
 ---
 
 
@@ -38,7 +39,7 @@ It is important to remember the distinction between [peer review](https://en.wik
 
 The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
 
-A great resource to find example research presentations are the recorded oral presentations from recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
+A great resource where you can find recorded research presentations are the oral presentations from recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
 
 Please use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.
 
