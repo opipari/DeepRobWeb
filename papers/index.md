@@ -93,6 +93,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Implicit geometric regularization for learning shapes](https://arxiv.org/abs/2002.10099){:target="_blank"}, Gropp et al., 2020
 
+- [TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation](https://arxiv.org/abs/2211.09325){:target="_blank"}, Pan et al., 2022
+
+- [Improving Object Pose Estimation by Fusion With a Multimodal Prior – Utilizing Uncertainty-Based CNN Pipelines for Robotics](https://ieeexplore.ieee.org/document/9670642){:target="_blank"}, Richter-Klug et al., 2022
 
 
 # Dense object descriptors, Category-level representations
@@ -170,6 +173,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [A Robot Web for Distributed Many-Device Localisation](https://arxiv.org/abs/2202.03314){:target="_blank"}, Murai et al., 2022
 
+
 # Semantic Scene Graphs and Explicit Representations
 
 ### Core List
@@ -184,6 +188,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+
+- [RoboSherlock: Unstructured information processing for robot perception](https://ieeexplore.ieee.org/abstract/document/7139395){:target="_blank"}, Beetz et al., 2015
 
 - [Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations](https://arxiv.org/abs/1602.07332){:target="_blank"}, Krishna et al., 2016
 
@@ -354,17 +360,19 @@ Simulators:
 
 - [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://arxiv.org/abs/1904.02252){:target="_blank"}, Alspach et al., 2019
 
-- [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136877){:target="_blank"}, Li et al., 2020
+- [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/document/9136877){:target="_blank"}, Li et al., 2020
 
 - [TACTO: A Fast, Flexible, and Open-source Simulator for High-Resolution Vision-based Tactile Sensors](https://arxiv.org/pdf/2012.08456.pdf){:target="_blank"}, Wang et al., 2020
 
 - [Active Extrinsic Contact Sensing: Application to General Peg-in-Hole Insertion](https://arxiv.org/abs/2110.03555){:target="_blank"}, Kim et al., 2021
 
-- [Active Visuo-Haptic Object Shape Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720238){:target="_blank"}, Rustler et al., 2022
+- [Active Visuo-Haptic Object Shape Completion](https://ieeexplore.ieee.org/document/9720238){:target="_blank"}, Rustler et al., 2022
 
 - [Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces](https://arxiv.org/abs/2209.13042){:target="_blank"}, Kerr and Huang et al., 2022
 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf){:target="_blank"}, Li et al., 2022
+
+- [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://arxiv.org/abs/2211.01500){:target="_blank"}, Zhou and Held, 2022
 
 
 # Pre-training for Robot Manipulation and Transformer Architectures
@@ -429,9 +437,7 @@ Simulators:
 - [Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing](https://dl.acm.org/doi/abs/10.1145/3375627.3375820){:target="_blank"}, Raji et al., 2020
 
 
-### Articulated and Deformable Objects
-
-- [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
+### Articulated Objects
 
 - [Autonomous Tool Construction Using Part Shape and Attachment Prediction](http://www.roboticsproceedings.org/rss15/p09.pdf){:target="_blank"}, Nair et al., 2019
 
@@ -442,6 +448,20 @@ Simulators:
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
 
 - [Category-Independent Articulated Object Tracking with Factor Graphs](https://arxiv.org/abs/2205.03721){:target="_blank"}, Heppert et al., 2022
+
+- [Kineverse: A Symbolic Articulation Model Framework for Model-Agnostic Mobile Manipulation](https://arxiv.org/abs/2012.05362){:target="_blank"}, Röfer et al., 2022
+
+
+### Deformable Objects
+
+- [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
+
+- [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://arxiv.org/abs/2111.05623){:target="_blank"}, Weng et al., 2021
+
+- [DextAIRity: Deformable Manipulation Can be a Breeze](https://arxiv.org/abs/2203.01197){:target="_blank"}, Xu et al., 2022
+
+- [Self-supervised Transparent Liquid Segmentation for Robotic Pouring](https://arxiv.org/abs/2203.01538){:target="_blank"}, Narasimhan et al., 2022
+
 
 
 ### Transparent Objects
