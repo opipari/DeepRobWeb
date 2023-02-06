@@ -23,8 +23,24 @@ The objective of this project is to build skills needed to understand and lead r
 ## Project Deliverables
 
 ### 1. Paper Review
+{: #paper-review }
+
+The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
+
+Academic peer review is the process by which research artifacts being considered for publication are evaluated by independent experts in the relevant field to determine the artifacts' suitability for publication. Typically, work considered for publication will be formatted as a written paper describing an experimental setup, the observed results and the researchers' motivations for carrying out the described experiments. Peer review of scholarly manuscripts plays a crucial role in academia and in advancing our body of knowledge. When you review a scholarly work, you are providing a service for the public, the field of researchers in your discipline, and the scholars whose work you are reviewing. You are serving the public and the field by providing an objective source of quality control and credibility to the work being considered for publication. At the same time, you're serving the scholars by providing input and perspective that can help cultivate new ideas and shape the work's relevance.
+
+It is important to remember the distinction between [peer review](https://en.wikipedia.org/wiki/Peer_review){: target="_blank" rel="noopener noreferrer"} and the [scientific method](https://en.wikipedia.org/wiki/Scientific_method){: target="_blank" rel="noopener noreferrer"}. Science uses the testing of falsifiable hypotheses by reproducable experimentation to establish new knowledge. Peer review uses independent experts to evaluate the standards, quality and reputability of claimed scientific results.
+
+
 
 ### 2. Paper Presentation
+{: #paper-presentation }
+
+The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
+
+A great resource to find example research presentations are the recorded oral presentations from recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
+
+Please use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.
 
 ### 3. Paper Reproduction
 

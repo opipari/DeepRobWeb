@@ -8,7 +8,7 @@ nav_order: 1
 # Project 0
 
 ## Overview
-The objective of the first project is to gain experience working with the [Python](https://www.python.org){:target="_blank"} scripting languange and the [PyTorch](https://pytorch.org){:target="_blank"} machine learning framework using the [Google Colab](https://colab.research.google.com/){:target="_blank"} development environment. In this project you will implement a collection of functions using core functionality of PyTorch Tensor objects.
+The objective of the first project is to gain experience working with the [Python](https://www.python.org){: target="_blank" rel="noopener noreferrer"} scripting languange and the [PyTorch](https://pytorch.org){: target="_blank" rel="noopener noreferrer"} machine learning framework using the [Google Colab](https://colab.research.google.com/){: target="_blank" rel="noopener noreferrer"} development environment. In this project you will implement a collection of functions using core functionality of PyTorch Tensor objects.
 
 
 ## Instructions
@@ -17,7 +17,7 @@ The objective of the first project is to gain experience working with the [Pytho
     - [Project 0 starter code: P0.zip](/assets/projects/P0.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
-    - Once unzipped, you should find a root directory titled 'P0'. The 'P0' directory contains all starter code and files needed to complete this project. Please upload the 'P0' directory to your [Google Drive](https://drive.google.com/){:target="_blank"}.
+    - Once unzipped, you should find a root directory titled 'P0'. The 'P0' directory contains all starter code and files needed to complete this project. Please upload the 'P0' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.
 
 3. <b>Open the `*.ipynb` and `*.py` files and implement features</b>
     - We recommend implementing the features in a Google Colab environment. The Colab development environment can be accessed by double-clicking on each `*.ipynb` and `*.py` file within your Drive. Instructions for each feature are included in the `pytorch101.ipynb` file.
@@ -30,14 +30,14 @@ The objective of the first project is to gain experience working with the [Pytho
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://autograder.io/web/project/1882){:target="_blank"}. You may submit to the Autograder for feedback up to 2 times per day.
+    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://autograder.io/web/project/1882){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 2 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `pytorch101.ipynb` notebook will generate a `uniqueid_umid_P0.zip` file. The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the [Autograder](https://autograder.io/web/project/1882){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://autograder.io/web/project/1882){: target="_blank" rel="noopener noreferrer"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -45,4 +45,4 @@ This project is due on <b>Thursday, January 12th at 11:59pm EST</b>. We suggest 
 
 ## Grading
 
-This project will be graded by the [Autograder](https://autograder.io/web/project/1882){:target="_blank"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 2 times per day.
+This project will be graded by the [Autograder](https://autograder.io/web/project/1882){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 2 times per day.

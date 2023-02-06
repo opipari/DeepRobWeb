@@ -24,7 +24,7 @@ The objective of this project is to gain experience building and training neural
     - Project 2 starter code sent via email.
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
-    - Once unzipped, you should find a root directory titled 'P2'. The 'P2' directory contains all starter code and files needed to complete this project. Please upload the 'P2' directory to your [Google Drive](https://drive.google.com/){:target="_blank"}.
+    - Once unzipped, you should find a root directory titled 'P2'. The 'P2' directory contains all starter code and files needed to complete this project. Please upload the 'P2' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.
 
 3. <b>Open the `*.ipynb` and `*.py` files and implement features</b>
     - We recommend implementing the features in a Google Colab environment. The Colab development environment can be accessed by double-clicking on each `*.ipynb` and `*.py` file within your Drive. Instructions for each feature are included in the `two_layer_net.ipynb` and `fully_connected_networks.ipynb` files.
@@ -39,14 +39,14 @@ The objective of this project is to gain experience building and training neural
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 2 Autograder](https://autograder.io/web/project/1976){:target="_blank"}. You may submit to the Autograder for feedback up to 5 times per day.
+	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 2 Autograder](https://autograder.io/web/project/1976){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 5 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `fully_connected_networks.ipynb` notebook will generate a `uniqueid_umid_P2.zip` file. The zip file should include `two_layer_net.ipynb`, `two_layer_net.py`, `fully_connected_networks.ipynb`, `fully_connected_networks.py`, `nn_best_model.pt`, `best_overfit_five_layer_net.pth`, and `best_two_layer_net.pth` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the [Autograder](https://autograder.io/web/project/1976){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://autograder.io/web/project/1976){: target="_blank" rel="noopener noreferrer"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -54,5 +54,5 @@ This project is due on <b>Thursday, February 9th at 11:59pm EST</b>. We suggest 
 
 ## Grading
 
-This project will be graded by the [Autograder](https://autograder.io/web/project/1976){:target="_blank"}. The project is worth a total of 110 points. You may submit to the Autograder for feedback up to 5 times per day.
+This project will be graded by the [Autograder](https://autograder.io/web/project/1976){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 110 points. You may submit to the Autograder for feedback up to 5 times per day.
 
