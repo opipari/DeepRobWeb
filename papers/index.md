@@ -502,7 +502,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Learning Decentralized Controllers for Robot Swarms with Graph Neural Networks](https://arxiv.org/abs/1903.10527){: target="_blank" rel="noopener noreferrer"}, Tolstaya et al., 2019
 
-- [Graph Convolutions](https://distill.pub/2021/gnn-intro/){: target="_blank" rel="noopener noreferrer"}, Sanchez-Lengeling et al., 2021
+- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/){: target="_blank" rel="noopener noreferrer"}, Sanchez-Lengeling et al., 2021
 
 
 ### Reinforcement Learning
