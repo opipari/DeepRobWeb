@@ -40,7 +40,7 @@ Detection using Convolutional Neural Networks
 
 State Estimation with Deep Learning
 
-## Final Project
+## [Final Project](/projects/finalproject/)
 
 Published paper review, presentation, reproduction, extension and report
 
