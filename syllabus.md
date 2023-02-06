@@ -78,7 +78,7 @@ You will complete 5 programming [projects](/projects/) over the course of the se
 
 ## Final Project
 
-Instead of a final exam at the end of the semester, you will complete a final project working in groups of 1 to 3 students.
+Instead of a final exam at the end of the semester, you will complete a [final project](/projects/finalproject/) working in groups of 1 to 3 students.
 
 The final project will entail five core deliverables: (1) a written paper review, (2) an in-class paper presentation, (3) reproducing the published results of an existing deep learning paper, (4) extending the chosen paper's methods and (5) documenting your reproduction and extension in a written report.
 
