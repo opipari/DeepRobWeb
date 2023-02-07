@@ -37,6 +37,8 @@ The objective of this project is to build skills needed to understand and lead r
  - The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
  - [What is peer review?](#what-is-peer-review)
  - [The structure of a review in robotics research](#review-structure)
+ - [Expected Review Format](#review-format)
+ - [Review Deadline](#review-deadline)
  - [Useful Resources](#review-resources)
 
 ### What is peer review?
@@ -55,21 +57,40 @@ A review narrative will generally be expected to address the following main poin
 
 In general, the tone of reviews should be positive about the work and constructive about the potential for contributions. The best reviews provide a clear rationale for how to move the paper forward. Especially useful is a list of items that need to be addressed for the paper to be acceptable for publication or to improve an already accepted paper.
 
-In general, please do not use "I," "you," "the authors," etc. in your reviews. Reviews should be depersonalized as much as possible. The review should focus on the work and not the individuals involved with the work (neither authors nor reviewers).
+In general, please do not use "I," "you," "the authors," etc. in your reviews. Reviews should be depersonalized as much as possible. The review should focuse on the work and not the individuals involved with the work (neither authors nor reviewers).
 
-<!-- #### Expected Review Format
+### Expected Review Format
 {: #review-format }
 
-#### Review Deadline -->
+<b>Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.</b> The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. <b>Students are expected to typeset their reviews using LaTeX in IEEE conference style.</b> A [LaTeX review template](/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+
+#### Paper Summary
+This section of the review should give a summary of the paper in 1-2 paragraphs (4-10 sentences). The purpose of the summary is to show that you, as a reviewer, understood the paper and to provide its best possible interpretation before going into critiques. This section is helpful to authors, in part, because it helps them understand what ideas a reader is most likely to remember from the paper. When summarizing a paper, you should:
+ - Summarize the main contributions of the paper in one sentence.
+ - Identify the core problem being addressed by the paper.
+ - Describe the key idea of the paper and how it connects to the core problem.
+ - Summarize the implementation and methods used to evaluate the paper's key ideas.
+ - Identify the paper's conclusion from its findings.
+
+#### Review Summary
+The second paragraph of your review should provide an overall assessment. The first sentence of this paragraph should provide the overall conclusion of the review. THis is followed by individual sentences that assess the paper with respect to its clarity, technical and experimental soundness, intellectual novelty, and relevance to the field. The high-level points of feedback to improve the paper should also be included.
+
+#### Specific Points of Feedback
+After the first two paragraphs, you should then provide a list that addresses specific points of feedback. This list can be as long as needed to address all of your points of feedback. Please be sure to be both critical and helpful. You should identify flaws and shortcomings in the work and provide suggestions for their improvement. These points can be of varying length, depending on the amount of description needed. For example, points about technical problems tend to be about a paragraph in length. In contrast, typographical and grammatical errors tend to be expressed briefly in one line.
+
+### Review Deadline
+<b>Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation. Students should submit their review as a PDF file.</b>
 
 ### Useful Resources
 {: #review-resources }
 
+  - [Writing Good Reviews](https://goodrobot.ai/academic%20advice/writing-good-reviews/){: target="_blank" rel="noopener noreferrer"}: Advice from Professor Siddhartha Srinivasa at the University of Washington.
+
+  - [OpenReview.net](https://openreview.net){: target="_blank" rel="noopener noreferrer"}: A useful resource for finding example reviews that were used to determine publication decisions. For example, you can find reviews used for the [Conference on Robot Learning (CoRL)](https://openreview.net/group?id=robot-learning.org/CoRL){: target="_blank" rel="noopener noreferrer"} and the [International Conference on Learning Representations (ICLR)](https://openreview.net/group?id=ICLR.cc){: target="_blank" rel="noopener noreferrer"} publicly available online.
+
   - [Information for ICRA Reviewers](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/information-for-reviewers){: target="_blank" rel="noopener noreferrer"}: An overview, timeline, and instructions for reviewers of the IEEE International Conference on Robotics and Automation (ICRA).
 
   - [Information for RA-L Reviewers](https://www.ieee-ras.org/publications/ra-l/ra-l-information-for-reviewers){: target="_blank" rel="noopener noreferrer"}: An overview and instructions for reviewers of the IEEE Robotics and Automation Letters (RA-L) journal.
-
-  - [OpenReview.net](https://openreview.net){: target="_blank" rel="noopener noreferrer"}: A useful resource for finding example reviews that were used to determine publication decisions. For example, you can find reviews used for the [Conference on Robot Learning (CoRL)](https://openreview.net/group?id=robot-learning.org/CoRL){: target="_blank" rel="noopener noreferrer"} and the [International Conference on Learning Representations (ICLR)](https://openreview.net/group?id=ICLR.cc){: target="_blank" rel="noopener noreferrer"} publicly available online.
 
 
 ---
@@ -78,26 +99,36 @@ In general, please do not use "I," "you," "the authors," etc. in your reviews. R
 {: #paper-presentation }
 
  - The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
+ - [The importance of presenting research results](#importance-of-presenting-research)
+ - [The structure of a presentation in robotics research](#presentation-structure)
+ - [Expected Presentation Format](#presentation-format)
+ - [Presentation Deadline](#presentation-deadline)
  - [Useful Resources](#presentation-resources)
 
-<!-- #### The importance of presenting research results
+### The importance of presenting research results
 {: #importance-of-presenting-research }
+Coming soon.
 
-#### The structure of a robotics research presentation
+### The structure of a robotics research presentation
 {: #presentation-structure }
+Coming soon.
 
-
-#### Expected Presentation Format
+### Expected Presentation Format
 {: #presentation-format }
 
-Please use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.
+<b>Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.</b> The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work.
 
-#### Presentation Deadline -->
+<b>Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.</b>
+
+### Presentation Deadline
+<b>Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to their scheduled paper presentation.</b> Students should submit a copy of their slides as a PDF file [via email to the course instructor](mailto:topipari@umich.edu).
 
 ### Useful Resources
 {: #presentation-resources }
 
  - A great resource where you can find recorded research presentations are the recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
+
+ - [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html){: target="_blank" rel="noopener noreferrer"}: Advice from Professor Mark D. Hill at the University of Wisconsin.
 
 ---
 
