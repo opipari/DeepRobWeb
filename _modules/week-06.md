@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Feb 7
-: **Lec 10**{: #lec-10 .label .label-purple }Training Neural Networks II
+: [**Lec 10**](/assets/slides/deeprob_10_training_neural_networks_2.pdf){: #lec-10 .label .label-purple target="_blank" rel="noopener noreferrer" }[Training Neural Networks II](/assets/slides/deeprob_10_training_neural_networks_2.pdf){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 5**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"}
   : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
