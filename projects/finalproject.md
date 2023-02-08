@@ -56,6 +56,7 @@ The goal for this deliverable is to practice the skills needed to serve as an ac
  - [Useful Resources](#review-resources)
 
 ### What is peer review?
+{: #what-is-peer-review }
 
 Academic peer review is the process by which research artifacts being considered for publication are evaluated by independent experts in the relevant field to determine the artifacts' suitability for publication. Typically, work considered for publication will be formatted as a written paper describing an experimental setup, the observed results and the researchers' motivations for carrying out the described experiments. Peer review of scholarly manuscripts plays a crucial role in academia and in advancing our body of knowledge. When you review a scholarly work, you are providing a service for the public, the field of researchers in your discipline, and the scholars whose work you are reviewing. You are serving the public and the field by providing an objective source of quality control and credibility to the work being considered for publication. At the same time, you're serving the scholars by providing input and perspective that can help cultivate new ideas and shape the work's relevance.
 
@@ -78,7 +79,10 @@ In general, please do not use "I," "you," "the authors," etc. in your reviews. R
 
 **Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.** The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX review template](/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
 
+
 #### Paper Summary
+{: #review-paper-summary }
+
 This section of the review should give a summary of the paper in 1-2 paragraphs (4-10 sentences). The purpose of the summary is to show that you, as a reviewer, understood the paper and to provide its best possible interpretation before going into critiques. This section is helpful to authors, in part, because it helps them understand what ideas a reader is most likely to remember from the paper. When summarizing a paper, you should:
  - Summarize the main contributions of the paper in one sentence.
  - Identify the core problem being addressed by the paper.
@@ -87,12 +91,18 @@ This section of the review should give a summary of the paper in 1-2 paragraphs 
  - Identify the paper's conclusion from its findings.
 
 #### Review Summary
+{: #review-review-summary }
+
 The second paragraph of your review should provide an overall assessment. The first sentence of this paragraph should provide the overall conclusion of the review. THis is followed by individual sentences that assess the paper with respect to its clarity, technical and experimental soundness, intellectual novelty, and relevance to the field. The high-level points of feedback to improve the paper should also be included.
 
 #### Specific Points of Feedback
+{: #review-points-of-feedback }
+
 After the first two paragraphs, you should then provide a list that addresses specific points of feedback. This list can be as long as needed to address all of your points of feedback. Please be sure to be both critical and helpful. You should identify flaws and shortcomings in the work and provide suggestions for their improvement. These points can be of varying length, depending on the amount of description needed. For example, points about technical problems tend to be about a paragraph in length. In contrast, typographical and grammatical errors tend to be expressed briefly in one line.
 
 ### Review Deadline
+{: #review-deadline }
+
 **Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation. Students should submit their review as a PDF file.**
 
 ### Useful Resources
@@ -120,7 +130,7 @@ The goals for this deliverable are to practice preparing and delivering a concis
  - [Useful Resources](#presentation-resources)
 
 ### The importance of presenting research results
-{: #importance-of-presenting-research }
+{: #presentation-importance }
 Coming soon.
 
 ### The structure of a robotics research presentation
@@ -128,21 +138,28 @@ Coming soon.
 Quality research presentations will capture an audience's attention, motivate them to take an interest in the challenge at hand, demonstrate what knowledge has been generated to solve the challenge, and encourage the audience to extend the presented ideas towards new challenges. For maximum affect, research presentations should be correct, clear, concise, and broadly understandable. Given the challenge of achieving all this, we suggest developing your presentations using the following section structure:
 
 #### 1 Hot Start
+{: #presentation-hot-start }
 The first task of a presenter is to command the attention and interest of their audience. Use a hot start to pique the audience's interest in your talk. There will always be distrations that a presenter must compete with to keep the audience's focus, even after a successful hot start.
 
 #### 2 Value Proposition
+{: #presentation-value-proposition }
 A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this problem\>, we'll be able to realize \<these benefits\>."
 
 #### 3 Approach
+{: #presentation-approach }
 A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors has made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
 
 #### 4 Resolution
+{: #presentation-resolution }
 Given a proposed approach, the presenter should demonstrate how the their insights can be applied to the challenge in question to arrive at a solution. This section should show how the value proposition has been more fully realized towards the desired benefits.
 
 #### 5 Call to Action
+{: #presentation-call-to-action }
 At this point in the presentation, a natural question from audience members will be, "how can we build on the insights from this work to better realize the desired benefits?" Hence, this section is the presenter's opportunity to answer the question before it is even asked.
 
 #### An Example
+{: #presentation-example }
+
 As an example of a robotics research presentation, consider Anthony's presentation from the [ICRA 2022 Robotic Perception and Mapping workshop](https://sites.google.com/view/ropm/home){: target="_blank" rel="noopener noreferrer"}. The slides from [this presentation can be viewed online](https://topipari.com/assets/slides/RoPM/){: target="_blank" rel="noopener noreferrer"} and a recording of [the corresponding talk](https://youtu.be/Uxv7Y_8cxV4){: target="_blank" rel="noopener noreferrer"} is included below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxv7Y_8cxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -153,6 +170,8 @@ As an example of a robotics research presentation, consider Anthony's presentati
 **Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.**
 
 ### Presentation Deadline
+{: #presentation-deadline }
+
 **Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to their scheduled paper presentation.** Students should submit a copy of their slides as a PDF file [via email to the course instructor](mailto:topipari@umich.edu).
 
 ### Useful Resources
