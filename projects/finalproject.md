@@ -16,12 +16,13 @@ The objective of this project is to build skills needed to understand and lead r
 
 ### The goals for this project are as follows:
  - Practice reading deep learning papers in your areas of interest.
- - Analyze the published motivations, results and methodologies in deep learning papers from the perspective of an academic reviewer.
+ - Analyze the published motivations, results, and methodologies in deep learning papers from the perspective of an academic reviewer.
+ - Present your analysis of an existing deep learning paper during the seminar portion of the course (starting [week 8](/calendar/#week-8-3d-perception)).
  - Practice reproducing the results of published work. Build an understanding of what challenges are common when reproducing published results.
  - Propose an algorithmic extension to state of the art results, which could result in a workshop or conference submission.
+ - Document the results of your work in a scholarly format so that they can be shared with peers and move the field forward.
 
-
-## Project Deliverables
+### Project Deliverables
 
  1. [Paper Review](#paper-review)
  2. [Paper Presentation](#paper-presentation)
@@ -29,12 +30,25 @@ The objective of this project is to build skills needed to understand and lead r
  4. [Algorithmic Extension](#algorithmic-extension)
  5. [Written Report](#written-report)
 
+
+### Grading
+
+Overall, the final project is worth 24% of the course grade. The breakdwon by each deliverable is shown below:
+
+   1. Paper Review: 3%
+   2. Paper Presentation: 3%
+   3. Paper Reproduction: 6%
+   4. Algorithmic Extension: 6%
+   5. Written Report: 6%
+
+
+
 ---
 
 ## 1. Paper Review
 {: #paper-review }
 
- - The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
+The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
  - [What is peer review?](#what-is-peer-review)
  - [The structure of a review in robotics research](#review-structure)
  - [Expected Review Format](#review-format)
@@ -51,7 +65,7 @@ It is important to remember the distinction between [peer review](https://en.wik
 ### The structure of a review in robotics research
 {: #review-structure }
 
-Quality reviews will be formatted in two distinct sections: a review scoring and a review narrative. The review scoring section is an assessment of the manuscript based on its suitability for publication in the venue to which it was submitted (e.g. conference, journal, workshop, etc.). Notably as part of the scoring, the reviewer may be expected to score their own confidence in their review based on perceived expertise with respect to the paper under consideration. The review narrative is written feedback that is provided to authors to use for strengthening their work. <b>Students in DeepRob will only be expected to submit a review narrative as part of the final project (not a review scoring).</b>
+Quality reviews will be formatted in two distinct sections: a review scoring and a review narrative. The review scoring section is an assessment of the manuscript based on its suitability for publication in the venue to which it was submitted (e.g. conference, journal, workshop, etc.). Notably as part of the scoring, the reviewer may be expected to score their own confidence in their review based on perceived expertise with respect to the paper under consideration. The review narrative is written feedback that is provided to authors to use for strengthening their work. **Students in DeepRob will only be expected to submit a review narrative as part of the final project (not a review scoring).**
 
 A review narrative will generally be expected to address the following main points: a paper summary, a review summary, and a set of individual points of feedback. [See below](#review-format) for the expectated format in DeepRob.
 
@@ -62,7 +76,7 @@ In general, please do not use "I," "you," "the authors," etc. in your reviews. R
 ### Expected Review Format
 {: #review-format }
 
-<b>Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.</b> The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. <b>Students are expected to typeset their reviews using LaTeX in IEEE conference style.</b> A [LaTeX review template](/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+**Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.** The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX review template](/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
 
 #### Paper Summary
 This section of the review should give a summary of the paper in 1-2 paragraphs (4-10 sentences). The purpose of the summary is to show that you, as a reviewer, understood the paper and to provide its best possible interpretation before going into critiques. This section is helpful to authors, in part, because it helps them understand what ideas a reader is most likely to remember from the paper. When summarizing a paper, you should:
@@ -79,7 +93,7 @@ The second paragraph of your review should provide an overall assessment. The fi
 After the first two paragraphs, you should then provide a list that addresses specific points of feedback. This list can be as long as needed to address all of your points of feedback. Please be sure to be both critical and helpful. You should identify flaws and shortcomings in the work and provide suggestions for their improvement. These points can be of varying length, depending on the amount of description needed. For example, points about technical problems tend to be about a paragraph in length. In contrast, typographical and grammatical errors tend to be expressed briefly in one line.
 
 ### Review Deadline
-<b>Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation. Students should submit their review as a PDF file.</b>
+**Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation. Students should submit their review as a PDF file.**
 
 ### Useful Resources
 {: #review-resources }
@@ -98,7 +112,7 @@ After the first two paragraphs, you should then provide a list that addresses sp
 ## 2. Paper Presentation
 {: #paper-presentation }
 
- - The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
+The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
  - [The importance of presenting research results](#importance-of-presenting-research)
  - [The structure of a presentation in robotics research](#presentation-structure)
  - [Expected Presentation Format](#presentation-format)
@@ -111,20 +125,40 @@ Coming soon.
 
 ### The structure of a robotics research presentation
 {: #presentation-structure }
-Coming soon.
+Quality research presentations will capture an audience's attention, motivate them to take an interest in the challenge at hand, demonstrate what knowledge has been generated to solve the challenge, and encourage the audience to extend the presented ideas towards new challenges. For maximum affect, research presentations should be correct, clear, concise, and broadly understandable. Given the challenge of achieving all this, we suggest developing your presentations using the following section structure:
+
+#### Hot Start
+The first task of a presenter is to command the attention and interest of their audience. Use a hot start to pique the audience's interest in your talk. There will always be distrations that a presenter must compete with to keep the audience's focus, even after a successful hot start.
+
+#### Value Proposition
+A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this problem\>, we'll be able to realize \<these benefits\>."
+
+#### Approach
+A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors has made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
+
+#### Resolution
+Given a proposed approach, the presenter should demonstrate how the their insights can be applied to the challenge in question to arrive at a solution. This section should show how the value proposition has been more fully realized towards the desired benefits.
+
+#### Call to Action
+At this point in the presentation, a natural question from audience members will be, "how can we build on the insights from this work to better realize the desired benefits?" Hence, this section is the presenter's opportunity to answer the question before it is even asked.
+
+#### An Example
+As an example of a robotics research presentation, consider Anthony's presentation from the [ICRA 2022 Robotic Perception and Mapping workshop](https://sites.google.com/view/ropm/home){: target="_blank" rel="noopener noreferrer"}. The slides from [this presentation can be viewed online](https://topipari.com/assets/slides/RoPM/){: target="_blank" rel="noopener noreferrer"} and a recording of [the corresponding talk](https://youtu.be/Uxv7Y_8cxV4){: target="_blank" rel="noopener noreferrer"} is included below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uxv7Y_8cxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Expected Presentation Format
 {: #presentation-format }
 
-<b>Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.</b> The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work.
-
-<b>Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.</b>
+**Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.**
 
 ### Presentation Deadline
-<b>Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to their scheduled paper presentation.</b> Students should submit a copy of their slides as a PDF file [via email to the course instructor](mailto:topipari@umich.edu).
+**Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to their scheduled paper presentation.** Students should submit a copy of their slides as a PDF file [via email to the course instructor](mailto:topipari@umich.edu).
 
 ### Useful Resources
 {: #presentation-resources }
+
+ - [How to Give a Great Research Talk](https://youtu.be/ot_McoYlwUo){: target="_blank" rel="noopener noreferrer"}: Advice from Dr. Simon Peyton Jones, Engineering Fellow at Epic Games.
 
  - A great resource where you can find recorded research presentations are the recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
 
@@ -145,15 +179,17 @@ Coming soon.
 ## 5. Written Report
 {: #written-report}
 
+The goal for this deliverable is to share the findings of your research in the form of a written paper with peers in the field.
+ - [Useful Resources](#report-resources)
 
----
+### Useful Resources
+{: #report-resources }
 
-### Grading
+ - [How to Write a Great Research Paper](https://youtu.be/WP-FkUaOcOM){: target="_blank" rel="noopener noreferrer"}: Advice from Dr. Simon Peyton Jones, Engineering Fellow at Epic Games.
 
-Overall, the final project is worth 24% of the course grade. The breakdwon by each deliverable is shown below:
-   1. Paper Review: 3%
-   2. Paper Presentation: 3%
-   3. Paper Reproduction: 6%
-   4. Algorithmic Extension: 6%
-   5. Written Report: 6%
+ - [Save the cat!](https://savethecat.com/products/books/save-the-cat-the-last-book-on-screenwriting-youll-ever-need){: target="_blank" rel="noopener noreferrer"}: The last book on screenwriting you’ll ever need.
+
+ - [How to create a better research poster in less time](https://youtu.be/1RwJbhkCA58){: target="_blank" rel="noopener noreferrer"}: Advice on how to create effective research posters for once your paper has been accepted to a conference. Crucially, your posters should capture the viewers' attention and convey your key findings clearly. Also take a look at [part II](https://youtu.be/SYk29tnxASs){: target="_blank" rel="noopener noreferrer"}!
+
+
 
