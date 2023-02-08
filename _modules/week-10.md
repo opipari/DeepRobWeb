@@ -21,4 +21,4 @@ Mar 16
 
 
 Mar 17
-: **Dis 10**{: #dis-10 .label .label-blue }Paper discussion: Deep Filters
+: **Dis 10**{: #dis-10 .label .label-blue }Prologue: Scene-Level Representations

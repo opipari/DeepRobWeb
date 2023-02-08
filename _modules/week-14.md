@@ -15,4 +15,4 @@ Apr 13
 
 
 Apr 14
-: **Dis 14**{: #dis-14 .label .label-blue }Paper discussion: Remaining Challenges and Limitations
+: **Dis 14**{: #dis-14 .label .label-blue }Remaining Challenges and Limitations

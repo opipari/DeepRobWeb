@@ -13,4 +13,4 @@ Mar 23
   : [📃 Related Papers](/papers/#neural-radiance-fields-and-implicit-representations){: target="_blank" rel="noopener noreferrer"}
 
 Mar 24
-: **Dis 11**{: #dis-11 .label .label-blue }Paper discussion: NeRFs
+: **Dis 11**{: #dis-11 .label .label-blue }Prologue: Data

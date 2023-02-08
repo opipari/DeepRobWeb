@@ -14,4 +14,4 @@ Apr 6
   : [📃 Related Papers](/papers/#tactile-perception-for-grasping-and-manipulation){: target="_blank" rel="noopener noreferrer"}
 
 Apr 7
-: **Dis 13**{: #dis-13 .label .label-blue }Paper discussion: Deep Learning for Manipulation
+: **Dis 13**{: #dis-13 .label .label-blue }Prologue: Transformer Architectures

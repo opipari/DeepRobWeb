@@ -13,4 +13,4 @@ Mar 30
   : [📃 Related Papers](/papers/#self-supervised-learning){: target="_blank" rel="noopener noreferrer"}
 
 Mar 31
-: **Dis 12**{: #dis-12 .label .label-blue }Creating and managing datasets, Papers With Code
+: **Dis 12**{: #dis-12 .label .label-blue }Prologue: Perception for Manipulation

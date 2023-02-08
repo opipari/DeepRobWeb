@@ -15,5 +15,5 @@ Feb 23
 
 
 Feb 24
-: **Dis 8**{: #dis-8 .label .label-blue }Paper discussion: 3D Perception
+: **Dis 8**{: #dis-8 .label .label-blue }Prologue: Rigid Body Objects
 : [**Final Project Proposal Due**{: .label .label-red }](/projects/#final-project){: .project-link}
