@@ -143,11 +143,11 @@ The first task of a presenter is to command the attention and interest of their 
 
 #### 2 Value Proposition
 {: #presentation-value-proposition }
-A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this problem\>, we'll be able to realize \<these benefits\>."
+A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this challenge\>, we'll be able to realize \<these benefits\>."
 
 #### 3 Approach
 {: #presentation-approach }
-A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors has made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
+A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors have made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
 
 #### 4 Resolution
 {: #presentation-resolution }
