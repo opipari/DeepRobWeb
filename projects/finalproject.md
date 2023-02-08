@@ -177,7 +177,7 @@ As an example of a robotics research presentation, consider Anthony's presentati
 ### Useful Resources
 {: #presentation-resources }
 
- - [How to Give a Great Research Talk](https://youtu.be/ot_McoYlwUo){: target="_blank" rel="noopener noreferrer"}: Advice from Dr. Simon Peyton Jones, Engineering Fellow at Epic Games.
+ - [How to Give a Great Research Talk](https://youtu.be/ot_McoYlwUo){: target="_blank" rel="noopener noreferrer"}: Advice from Simon Peyton Jones, Engineering Fellow at Epic Games.
 
  - A great resource where you can find recorded research presentations are the recent robotics conferences. For example, the recorded oral presentations from [ICRA 2022](https://events.infovaya.com/event?id=88){: target="_blank" rel="noopener noreferrer"} and [CoRL 2022](https://corl2022.org/videos-oralsessions/){: target="_blank" rel="noopener noreferrer"} can be found online.
 
@@ -204,7 +204,7 @@ The goal for this deliverable is to share the findings of your research in the f
 ### Useful Resources
 {: #report-resources }
 
- - [How to Write a Great Research Paper](https://youtu.be/WP-FkUaOcOM){: target="_blank" rel="noopener noreferrer"}: Advice from Dr. Simon Peyton Jones, Engineering Fellow at Epic Games.
+ - [How to Write a Great Research Paper](https://youtu.be/WP-FkUaOcOM){: target="_blank" rel="noopener noreferrer"}: Advice from Simon Peyton Jones, Engineering Fellow at Epic Games.
 
  - [Save the cat!](https://savethecat.com/products/books/save-the-cat-the-last-book-on-screenwriting-youll-ever-need){: target="_blank" rel="noopener noreferrer"}: The last book on screenwriting you’ll ever need.
 
