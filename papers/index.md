@@ -300,6 +300,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){: target="_blank" rel="noopener noreferrer"}
 
+- [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/abs/2011.07215){: target="_blank" rel="noopener noreferrer"}, Lin et al., 2020
+
 
 
 
