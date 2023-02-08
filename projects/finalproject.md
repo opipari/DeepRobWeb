@@ -127,19 +127,19 @@ Coming soon.
 {: #presentation-structure }
 Quality research presentations will capture an audience's attention, motivate them to take an interest in the challenge at hand, demonstrate what knowledge has been generated to solve the challenge, and encourage the audience to extend the presented ideas towards new challenges. For maximum affect, research presentations should be correct, clear, concise, and broadly understandable. Given the challenge of achieving all this, we suggest developing your presentations using the following section structure:
 
-#### Hot Start
+#### 1 Hot Start
 The first task of a presenter is to command the attention and interest of their audience. Use a hot start to pique the audience's interest in your talk. There will always be distrations that a presenter must compete with to keep the audience's focus, even after a successful hot start.
 
-#### Value Proposition
+#### 2 Value Proposition
 A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this problem\>, we'll be able to realize \<these benefits\>."
 
-#### Approach
+#### 3 Approach
 A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors has made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
 
-#### Resolution
+#### 4 Resolution
 Given a proposed approach, the presenter should demonstrate how the their insights can be applied to the challenge in question to arrive at a solution. This section should show how the value proposition has been more fully realized towards the desired benefits.
 
-#### Call to Action
+#### 5 Call to Action
 At this point in the presentation, a natural question from audience members will be, "how can we build on the insights from this work to better realize the desired benefits?" Hence, this section is the presenter's opportunity to answer the question before it is even asked.
 
 #### An Example
