@@ -45,7 +45,7 @@ Overall, the final project is worth 24% of the course grade. The breakdwon by ea
 
 ---
 
-## 1. Paper Review
+## 1 Paper Review
 {: #paper-review }
 
 The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
@@ -109,7 +109,7 @@ After the first two paragraphs, you should then provide a list that addresses sp
 
 ---
 
-## 2. Paper Presentation
+## 2 Paper Presentation
 {: #paper-presentation }
 
 The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
@@ -166,17 +166,17 @@ As an example of a robotics research presentation, consider Anthony's presentati
 
 ---
 
-## 3. Paper Reproduction
+## 3 Paper Reproduction
 {: #paper-reproduction }
 
 ---
 
-## 4. Algorithmic Extension
+## 4 Algorithmic Extension
 {: #algorithmic-extension }
 
 ---
 
-## 5. Written Report
+## 5 Written Report
 {: #written-report}
 
 The goal for this deliverable is to share the findings of your research in the form of a written paper with peers in the field.
