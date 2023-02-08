@@ -14,4 +14,4 @@ Mar 9
   : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations){: target="_blank" rel="noopener noreferrer"}
 
 Mar 10
-: **Dis 9**{: #dis-9 .label .label-blue }Prologue: Object Perception
+: **Dis 9**{: #dis-9 .label .label-blue }Prologue: Object Tracking
