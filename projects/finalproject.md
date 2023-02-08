@@ -93,7 +93,7 @@ This section of the review should give a summary of the paper in 1-2 paragraphs 
 #### Review Summary
 {: #review-review-summary }
 
-The second paragraph of your review should provide an overall assessment. The first sentence of this paragraph should provide the overall conclusion of the review. THis is followed by individual sentences that assess the paper with respect to its clarity, technical and experimental soundness, intellectual novelty, and relevance to the field. The high-level points of feedback to improve the paper should also be included.
+The second paragraph of your review should provide an overall assessment. The first sentence of this paragraph should provide the overall conclusion of the review. This is followed by individual sentences that assess the paper with respect to its clarity, technical and experimental soundness, intellectual novelty, and relevance to the field. The high-level points of feedback to improve the paper should also be included.
 
 #### Specific Points of Feedback
 {: #review-points-of-feedback }
