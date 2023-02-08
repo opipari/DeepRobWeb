@@ -123,7 +123,7 @@ After the first two paragraphs, you should then provide a list that addresses sp
 {: #paper-presentation }
 
 The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
- - [The importance of presenting research results](#importance-of-presenting-research)
+ - [The importance of presenting research results](#presentation-importance)
  - [The structure of a presentation in robotics research](#presentation-structure)
  - [Expected Presentation Format](#presentation-format)
  - [Presentation Deadline](#presentation-deadline)
