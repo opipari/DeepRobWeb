@@ -45,7 +45,7 @@ Overall, the final project is worth 24% of the course grade. The breakdwon by ea
 
 ---
 
-## 1 Paper Review
+## 1&nbsp;&nbsp;&nbsp;Paper Review
 {: #paper-review }
 
 The goal for this deliverable is to practice the skills needed to serve as an academic peer reviewer. 
@@ -119,7 +119,7 @@ After the first two paragraphs, you should then provide a list that addresses sp
 
 ---
 
-## 2 Paper Presentation
+## 2&nbsp;&nbsp;&nbsp;Paper Presentation
 {: #paper-presentation }
 
 The goals for this deliverable are to practice preparing and delivering a concise research presentation and to build an appreciation for the importance of clarity when presenting research.
@@ -137,23 +137,23 @@ Coming soon.
 {: #presentation-structure }
 Quality research presentations will capture an audience's attention, motivate them to take an interest in the challenge at hand, demonstrate what knowledge has been generated to solve the challenge, and encourage the audience to extend the presented ideas towards new challenges. For maximum affect, research presentations should be correct, clear, concise, and broadly understandable. Given the challenge of achieving all this, we suggest developing your presentations using the following section structure:
 
-#### 1 Hot Start
+#### 1&nbsp;&nbsp;&nbsp;Hot Start
 {: #presentation-hot-start }
 The first task of a presenter is to command the attention and interest of their audience. Use a hot start to pique the audience's interest in your talk. There will always be distrations that a presenter must compete with to keep the audience's focus, even after a successful hot start.
 
-#### 2 Value Proposition
+#### 2&nbsp;&nbsp;&nbsp;Value Proposition
 {: #presentation-value-proposition }
 A clear value proposition will motivate the audience to keep paying attention beyond the hot start. This section of the presentation establishes what benefits can be realized by solving an existing challenge or technical problem. The proposition can be framed in language such as, "if we can solve \<this challenge\>, we'll be able to realize \<these benefits\>."
 
-#### 3 Approach
+#### 3&nbsp;&nbsp;&nbsp;Approach
 {: #presentation-approach }
 A motivated audience will then want to know how the challenge being presented can be solved. This section of the talk should provide background on what factors have made the challenge difficult in the past and the key insights the presenters have discovered to alleviate these factors.
 
-#### 4 Resolution
+#### 4&nbsp;&nbsp;&nbsp;Resolution
 {: #presentation-resolution }
 Given a proposed approach, the presenter should demonstrate how the their insights can be applied to the challenge in question to arrive at a solution. This section should show how the value proposition has been more fully realized towards the desired benefits.
 
-#### 5 Call to Action
+#### 5&nbsp;&nbsp;&nbsp;Call to Action
 {: #presentation-call-to-action }
 At this point in the presentation, a natural question from audience members will be, "how can we build on the insights from this work to better realize the desired benefits?" Hence, this section is the presenter's opportunity to answer the question before it is even asked.
 
@@ -185,17 +185,17 @@ As an example of a robotics research presentation, consider Anthony's presentati
 
 ---
 
-## 3 Paper Reproduction
+## 3&nbsp;&nbsp;&nbsp;Paper Reproduction
 {: #paper-reproduction }
 
 ---
 
-## 4 Algorithmic Extension
+## 4&nbsp;&nbsp;&nbsp;Algorithmic Extension
 {: #algorithmic-extension }
 
 ---
 
-## 5 Written Report
+## 5&nbsp;&nbsp;&nbsp;Written Report
 {: #written-report}
 
 The goal for this deliverable is to share the findings of your research in the form of a written paper with peers in the field.
