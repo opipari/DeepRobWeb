@@ -129,7 +129,7 @@ The goals for this deliverable are to practice preparing and delivering a concis
  - [Presentation Deadline](#presentation-deadline)
  - [Useful Resources](#presentation-resources)
 
-### The importance of presenting research results
+### The importance of presenting research
 {: #presentation-importance }
 Coming soon.
 
