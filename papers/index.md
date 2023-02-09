@@ -536,6 +536,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Self-supervised Transparent Liquid Segmentation for Robotic Pouring](https://arxiv.org/abs/2203.01538){: target="_blank" rel="noopener noreferrer"}, Narasimhan et al., 2022
 
+- [Visio-tactile Implicit Representations of Deformable Objects](https://arxiv.org/abs/2202.00868){: target="_blank" rel="noopener noreferrer"}, Wi et al., 2022
 
 
 ### Transparent Objects
@@ -554,6 +555,8 @@ A collection of deep learning research papers with coverage in perception and as
 ### Dynamic Scenes
 
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){: target="_blank" rel="noopener noreferrer"}, Pumarola et al., 2020
+
+- [3D Neural Scene Representations for Visuomotor Control](https://arxiv.org/abs/2107.04004){: target="_blank" rel="noopener noreferrer"}, Li et al., 2021
 
 
 
