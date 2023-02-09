@@ -27,6 +27,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 8, Lec 14](/calendar/#lec-14)
 
 ### Core List
+{: .no_toc }
 
 1. [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199){: target="_blank" rel="noopener noreferrer"}, Xiang et al., 2018
 
@@ -40,6 +41,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [3D ShapeNets: A Deep Representation for Volumetric Shapes](https://arxiv.org/abs/1406.5670){: target="_blank" rel="noopener noreferrer"}, Wu et al., 2015
 
@@ -58,6 +60,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 8, Lec 15](/calendar/#lec-15)
 
 ### Core List
+{: .no_toc }
 
 1. [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593){: target="_blank" rel="noopener noreferrer"}, Qi et al., 2017
 
@@ -71,6 +74,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Just Go with the Flow: Self-Supervised Scene Flow Estimation](https://arxiv.org/abs/1912.00497){: target="_blank" rel="noopener noreferrer"}, Mittal et al., 2019
 
@@ -87,6 +91,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 9, Lec 16](/calendar/#lec-16)
 
 ### Core List
+{: .no_toc }
 
 1. [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){: target="_blank" rel="noopener noreferrer"}, Sui et al., 2017
 
@@ -98,6 +103,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126){: target="_blank" rel="noopener noreferrer"}, Genova et al., 2020
 
@@ -113,6 +119,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 9, Lec 17](/calendar/#lec-17)
 
 ### Core List
+{: .no_toc }
 
 1. [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756){: target="_blank" rel="noopener noreferrer"}, Florence et al., 2018
 
@@ -124,6 +131,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Visual Descriptor Learning from Monocular Video](https://arxiv.org/abs/2004.07007){: target="_blank" rel="noopener noreferrer"}, Deekshith et al., 2020
 
@@ -137,6 +145,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 10, Lec 18](/calendar/#lec-18)
 
 ### Core List
+{: .no_toc }
 
 1. [DeepIM: Deep Iterative Matching for 6D Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Li et al., 2018
 
@@ -148,6 +157,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Long Short-Term Memory](https://ieeexplore.ieee.org/abstract/document/6795963){: target="_blank" rel="noopener noreferrer"}, Hochreiter et al., 1997
 
@@ -161,6 +171,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 10, Lec 19](/calendar/#lec-19)
 
 ### Core List
+{: .no_toc }
 
 1. [Backprop KF: Learning Discriminative Deterministic State Estimators](https://proceedings.neurips.cc/paper/2016/file/697e382cfd25b07a3e62275d3ee132b3-Paper.pdf){: target="_blank" rel="noopener noreferrer"}, Haarnoja et al., 2016
 
@@ -172,6 +183,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Factor Graphs and GTSAM](https://gtsam.org/tutorials/intro.html){: target="_blank" rel="noopener noreferrer"}, Dellaert et al., 2012
 
@@ -193,6 +205,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 11, Lec 20](/calendar/#lec-20)
 
 ### Core List
+{: .no_toc }
 
 1. [Image Retrieval using Scene Graphs](https://openaccess.thecvf.com/content_cvpr_2015/papers/Johnson_Image_Retrieval_Using_2015_CVPR_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Johnson et al., 2015
 
@@ -204,6 +217,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [RoboSherlock: Unstructured information processing for robot perception](https://ieeexplore.ieee.org/abstract/document/7139395){: target="_blank" rel="noopener noreferrer"}, Beetz et al., 2015
 
@@ -222,6 +236,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 11, Lec 21](/calendar/#lec-21)
 
 ### Core List
+{: .no_toc }
 
 1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934){: target="_blank" rel="noopener noreferrer"}, Mildenhall et al., 2020
 
@@ -235,6 +250,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/){: target="_blank" rel="noopener noreferrer"}, Dellaert, 2020
 
@@ -263,6 +279,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 12, Lec 22](/calendar/#lec-22)
 
 ### Core List
+{: .no_toc }
 
 1. [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){: target="_blank" rel="noopener noreferrer"}, Levine et al., 2016
 
@@ -275,13 +292,16 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 #### Collecting data with robots
+{: .no_toc }
 
 - [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2019
 
 
 #### RGB-D Datasets
+{: .no_toc }
 
 - [(NYU Depth v2) Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf){: target="_blank" rel="noopener noreferrer"}, Silberman et al., 2012
 
@@ -299,6 +319,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 #### Semantic Datasets
+{: .no_toc }
 
 - [Understanding Human Hands in Contact at Internet Scale](https://arxiv.org/abs/2006.06669){: target="_blank" rel="noopener noreferrer"}, Shan et al., 2020
 
@@ -306,6 +327,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 #### Object Model Datasets
+{: .no_toc }
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){: target="_blank" rel="noopener noreferrer"}, Chang et al., 2015
 
@@ -313,6 +335,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 #### Simulators
+{: .no_toc }
 
 - [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/abstract/document/6386109){: target="_blank" rel="noopener noreferrer"}, Todorov et al., 2015
 
@@ -330,6 +353,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 12, Lec 23](/calendar/#lec-23)
 
 ### Core List
+{: .no_toc }
 
 1. [Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191){: target="_blank" rel="noopener noreferrer"}, Lee et al., 2019
 
@@ -346,6 +370,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 13, Lec 24](/calendar/#lec-24)
 
 ### Core List
+{: .no_toc }
 
 1. [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/abs/1412.3128){: target="_blank" rel="noopener noreferrer"}, Redmon and Angelova, 2015
 
@@ -359,6 +384,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Deep Learning for Detecting Robotic Grasps](https://arxiv.org/abs/1301.3592){: target="_blank" rel="noopener noreferrer"}, Lenz et al., 2013
 
@@ -376,6 +402,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 13, Lec 25](/calendar/#lec-25)
 
 ### Core List
+{: .no_toc }
 
 1. [More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch](https://arxiv.org/abs/1805.11085){: target="_blank" rel="noopener noreferrer"}, Calandra et al., 2018 
 
@@ -387,6 +414,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?](https://arxiv.org/pdf/1710.05512.pdf){: target="_blank" rel="noopener noreferrer"}, Calandra et al., 2017
 
@@ -414,6 +442,7 @@ A collection of deep learning research papers with coverage in perception and as
 [Scheduled Week 14, Lec 26](/calendar/#lec-26)
 
 ### Core List
+{: .no_toc }
 
 1. [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2021
 
@@ -429,6 +458,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 ### Extended List
+{: .no_toc }
 
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/){: target="_blank" rel="noopener noreferrer"}, Olah & Carter, 2016
 
