@@ -22,7 +22,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 ---
 
-# RGB-D Architectures
+# RGB-D Architectures 
+
+[Scheduled Week 8, Lec 14](/calendar/#lec-14)
 
 ### Core List
 
@@ -31,7 +33,6 @@ A collection of deep learning research papers with coverage in perception and as
 2. [A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/abs/1803.08103){: target="_blank" rel="noopener noreferrer"}, Li et al., 2018
 
 3. [PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf){: target="_blank" rel="noopener noreferrer"}, He et al., 2020
-
 
 4. [Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation](https://proceedings.mlr.press/v155/xiang21a/xiang21a.pdf){: target="_blank" rel="noopener noreferrer"}, Li et al., 2021
 
@@ -52,7 +53,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){: target="_blank" rel="noopener noreferrer"}, Mitash et al., 2018
 
 
-# Pointcloud Processing 
+# Pointcloud Processing
+
+[Scheduled Week 8, Lec 15](/calendar/#lec-15)
 
 ### Core List
 
@@ -81,6 +84,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Object Pose, Geometry, SDF, Implicit surfaces
 
+[Scheduled Week 9, Lec 16](/calendar/#lec-16)
+
 ### Core List
 
 1. [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){: target="_blank" rel="noopener noreferrer"}, Sui et al., 2017
@@ -103,7 +108,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [Improving Object Pose Estimation by Fusion With a Multimodal Prior – Utilizing Uncertainty-Based CNN Pipelines for Robotics](https://ieeexplore.ieee.org/document/9670642){: target="_blank" rel="noopener noreferrer"}, Richter-Klug et al., 2022
 
 
-# Dense object descriptors, Category-level representations
+# Dense object descriptors, Category-level representations 
+
+[Scheduled Week 9, Lec 17](/calendar/#lec-17)
 
 ### Core List
 
@@ -125,7 +132,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# Recurrent Networks and Object Tracking
+# Recurrent Networks and Object Tracking 
+
+[Scheduled Week 10, Lec 18](/calendar/#lec-18)
 
 ### Core List
 
@@ -147,7 +156,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [TrackFormer: Multi-Object Tracking with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Meinhardt et al., 2022
 
 
-# Visual Odometry and Localization
+# Visual Odometry and Localization 
+
+[Scheduled Week 10, Lec 19](/calendar/#lec-19)
 
 ### Core List
 
@@ -177,7 +188,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [A Robot Web for Distributed Many-Device Localisation](https://arxiv.org/abs/2202.03314){: target="_blank" rel="noopener noreferrer"}, Murai et al., 2022
 
 
-# Semantic Scene Graphs and Explicit Representations
+# Semantic Scene Graphs and Explicit Representations 
+
+[Scheduled Week 11, Lec 20](/calendar/#lec-20)
 
 ### Core List
 
@@ -188,6 +201,7 @@ A collection of deep learning research papers with coverage in perception and as
 3. [Semantic Linking Maps for Active Visual Object Search](https://arxiv.org/abs/2006.10807){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2020
 
 4. [Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization](https://arxiv.org/abs/2201.13360){: target="_blank" rel="noopener noreferrer"}, Hughes et al., 2022
+
 
 ### Extended List
 
@@ -203,7 +217,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# Neural Radiance Fields and Implicit Representations
+# Neural Radiance Fields and Implicit Representations 
+
+[Scheduled Week 11, Lec 21](/calendar/#lec-21)
 
 ### Core List
 
@@ -242,7 +258,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# Datasets
+# Datasets 
+
+[Scheduled Week 12, Lec 22](/calendar/#lec-22)
 
 ### Core List
 
@@ -307,7 +325,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# Self-Supervised Learning
+# Self-Supervised Learning 
+
+[Scheduled Week 12, Lec 23](/calendar/#lec-23)
 
 ### Core List
 
@@ -321,7 +341,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# Grasp Pose Detection
+# Grasp Pose Detection 
+
+[Scheduled Week 13, Lec 24](/calendar/#lec-24)
 
 ### Core List
 
@@ -349,7 +371,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [Grasp Learning: Models, Methods, and Performance](https://arxiv.org/abs/2211.04895){: target="_blank" rel="noopener noreferrer"}, Platt, 2022
 
 
-# Tactile Perception for Grasping and Manipulation
+# Tactile Perception for Grasping and Manipulation 
+
+[Scheduled Week 13, Lec 25](/calendar/#lec-25)
 
 ### Core List
 
@@ -385,7 +409,9 @@ A collection of deep learning research papers with coverage in perception and as
 - [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://arxiv.org/abs/2211.01500){: target="_blank" rel="noopener noreferrer"}, Zhou and Held, 2022
 
 
-# Pre-training for Robot Manipulation and Transformer Architectures
+# Pre-training for Robot Manipulation and Transformer Architectures 
+
+[Scheduled Week 14, Lec 26](/calendar/#lec-26)
 
 ### Core List
 
@@ -425,7 +451,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 
 
-# More Frontiers
+# More Frontiers 
+
+[Scheduled Week 14, Lec 27](/calendar/#lec-27)
 
 ### Interpreting Deep Learning Models
 
