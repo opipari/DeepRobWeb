@@ -542,6 +542,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [LIT: Light-field Inference of Transparency for Refractive Object Localization](https://arxiv.org/abs/1910.00721){: target="_blank" rel="noopener noreferrer"}, Zhou et al., 2019
 
+- [Multi-modal Transfer Learning for Grasping Transparent and Specular Objects](https://arxiv.org/abs/2006.00028){: target="_blank" rel="noopener noreferrer"}, Weng et al., 2020
+
 - [Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects](https://arxiv.org/abs/2110.14217){: target="_blank" rel="noopener noreferrer"}, Ichnowski et al., 2021
 
 - [ClearPose: Large-scale Transparent Object Dataset and Benchmark](https://arxiv.org/abs/2203.03890){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2022
