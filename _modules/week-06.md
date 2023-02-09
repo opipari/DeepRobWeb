@@ -12,8 +12,8 @@ Feb 7
 
 
 Feb 9
-: **Lec 11**{: #lec-11 .label .label-purple }Deep Learning Software
-: [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} [**Project 2 due**{: .label .label-red }](/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
+: [**Lec 11**](/assets/slides/deeprob_11_deep_learning_software.pdf){: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" }[Deep Learning Software](/assets/slides/deeprob_11_deep_learning_software.pdf){: target="_blank" rel="noopener noreferrer"}
+: [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"}
   : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
@@ -25,3 +25,4 @@ Feb 9
 
 Feb 10
 : **Dis 6**{: #dis-6 .label .label-blue }How to Present Research Papers
+: [**Project 2 due**{: .label .label-red }](/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}

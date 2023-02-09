@@ -51,7 +51,7 @@ The objective of this project is to gain experience building and training neural
 
 ## Deadline
 
-This project is due on <b>Thursday, February 9th at 11:59pm EST</b>. We suggest starting as soon as possible.
+This project is due on <b>Saturday, February 11th at 11:59pm EST</b>. We suggest starting as soon as possible.
 
 ## Grading
 
