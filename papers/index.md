@@ -568,6 +568,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
 
+- [Automatic color correction for 3D reconstruction of underwater scenes](https://ieeexplore.ieee.org/abstract/document/7989601){: target="_blank" rel="noopener noreferrer"}, Skinner et al., 2017
+
 - [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2017
 
 - [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){: target="_blank" rel="noopener noreferrer"}, Erickson et al., 2018
@@ -589,4 +591,15 @@ A collection of deep learning research papers with coverage in perception and as
 ### Reinforcement Learning
 
 - [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/){: target="_blank" rel="noopener noreferrer"}, Hilton et al., 2020
+
+
+### Generative Modeling
+
+- [WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images](https://arxiv.org/abs/1702.07392){: target="_blank" rel="noopener noreferrer"}, Li et al., 2017
+
+
+- [Differentiable Particle Filters through Conditional Normalizing Flow](https://arxiv.org/abs/2107.00488){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2021
+
+- [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991){: target="_blank" rel="noopener noreferrer"}, Janner et al., 2022
+
 
