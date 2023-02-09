@@ -189,6 +189,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [SuperPoint: Self-Supervised Interest Point Detection and Description](https://arxiv.org/abs/1712.07629){: target="_blank" rel="noopener noreferrer"}, DeTone et al., 2017
 
+- [Particle Filter Recurrent Neural Networks](https://arxiv.org/abs/1905.12885){: target="_blank" rel="noopener noreferrer"}, Ma et al., 2019
+
 - [Differentiable Algorithm Networks for Composable Robot Learning](https://arxiv.org/pdf/1905.11602.pdf){: target="_blank" rel="noopener noreferrer"}, Karkus et al., 2019
 
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763){: target="_blank" rel="noopener noreferrer"}, Sarlin et al., 2019
@@ -596,7 +598,6 @@ A collection of deep learning research papers with coverage in perception and as
 ### Generative Modeling
 
 - [WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images](https://arxiv.org/abs/1702.07392){: target="_blank" rel="noopener noreferrer"}, Li et al., 2017
-
 
 - [Differentiable Particle Filters through Conditional Normalizing Flow](https://arxiv.org/abs/2107.00488){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2021
 
