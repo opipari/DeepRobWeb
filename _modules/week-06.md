@@ -16,6 +16,8 @@ Feb 9
 : [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} [**Project 2 due**{: .label .label-red }](/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
   : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
+  : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 Abadi et al., TensorFlow](https://arxiv.org/abs/1603.04467){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Paszke et al., PyTorch](https://arxiv.org/abs/1912.01703){: target="_blank" rel="noopener noreferrer"}
