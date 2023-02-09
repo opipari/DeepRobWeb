@@ -503,6 +503,14 @@ A collection of deep learning research papers with coverage in perception and as
 - [Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing](https://dl.acm.org/doi/abs/10.1145/3375627.3375820){: target="_blank" rel="noopener noreferrer"}, Raji et al., 2020
 
 
+### Certifiable Perception
+
+- [Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization](https://arxiv.org/abs/2109.03349){: target="_blank" rel="noopener noreferrer"}, Yang and Carlone, 2021
+
+
+- [Certifiable 3D Object Pose Estimation: Foundations, Learning Models, and Self-Training](https://arxiv.org/abs/2206.11215){: target="_blank" rel="noopener noreferrer"}, Talak et al., 2022
+
+
 ### Articulated Objects
 
 - [Autonomous Tool Construction Using Part Shape and Attachment Prediction](http://www.roboticsproceedings.org/rss15/p09.pdf){: target="_blank" rel="noopener noreferrer"}, Nair et al., 2019
