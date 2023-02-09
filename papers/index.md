@@ -187,7 +187,11 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Factor Graphs and GTSAM](https://gtsam.org/tutorials/intro.html){: target="_blank" rel="noopener noreferrer"}, Dellaert et al., 2012
 
+- [SuperPoint: Self-Supervised Interest Point Detection and Description](https://arxiv.org/abs/1712.07629){: target="_blank" rel="noopener noreferrer"}, DeTone et al., 2017
+
 - [Differentiable Algorithm Networks for Composable Robot Learning](https://arxiv.org/pdf/1905.11602.pdf){: target="_blank" rel="noopener noreferrer"}, Karkus et al., 2019
+
+- [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763){: target="_blank" rel="noopener noreferrer"}, Sarlin et al., 2019
 
 - [Chasing Ghosts: Instruction Following as Bayesian State Tracking](https://proceedings.neurips.cc/paper/2019/file/82161242827b703e6acf9c726942a1e4-Paper.pdf){: target="_blank" rel="noopener noreferrer"}, Anderson et al., 2019
 
