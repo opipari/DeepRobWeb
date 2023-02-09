@@ -185,10 +185,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 2. [Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes](https://ieeexplore.ieee.org/abstract/document/8460538){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2018
 
-3. [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200){: target="_blank" rel="noopener noreferrer"}, Raboh et al., 2020
+3. [Semantic Linking Maps for Active Visual Object Search](https://arxiv.org/abs/2006.10807){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2020
 
-4. [Semantic Linking Maps for Active Visual Object Search](https://arxiv.org/abs/2006.10807){: target="_blank" rel="noopener noreferrer"}, Zeng et al., 2020
-
+4. [Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization](https://arxiv.org/abs/2201.13360){: target="_blank" rel="noopener noreferrer"}, Hughes et al., 2022
 
 ### Extended List
 
@@ -200,7 +199,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera](https://openaccess.thecvf.com/content_ICCV_2019/html/Armeni_3D_Scene_Graph_A_Structure_for_Unified_Semantics_3D_Space_ICCV_2019_paper.html){: target="_blank" rel="noopener noreferrer"}, Armeni et al., 2020
 
-- [Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization](https://arxiv.org/abs/2201.13360){: target="_blank" rel="noopener noreferrer"}, Hughes et al., 2022
+- [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200){: target="_blank" rel="noopener noreferrer"}, Raboh et al., 2020
+
 
 
 # Neural Radiance Fields and Implicit Representations
@@ -498,6 +498,8 @@ A collection of deep learning research papers with coverage in perception and as
 - [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Zhao et al., 2018
 
 - [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2019
+
+- [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221){: target="_blank" rel="noopener noreferrer"}, Qadri et al., 2022
 
 
 ### Beyond 2D Convolutions
