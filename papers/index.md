@@ -557,6 +557,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Specialized Sensors
 
+- [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
+
 - [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2017
 
 - [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){: target="_blank" rel="noopener noreferrer"}, Erickson et al., 2018
