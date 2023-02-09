@@ -174,8 +174,6 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){: target="_blank" rel="noopener noreferrer"}, Opipari et al., 2021
 
-- [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){: target="_blank" rel="noopener noreferrer"}, Rosinol et al., 2022
-
 - [A Robot Web for Distributed Many-Device Localisation](https://arxiv.org/abs/2202.03314){: target="_blank" rel="noopener noreferrer"}, Murai et al., 2022
 
 
@@ -211,9 +209,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934){: target="_blank" rel="noopener noreferrer"}, Mildenhall et al., 2020
 
-2. [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503){: target="_blank" rel="noopener noreferrer"}, Guo et al., 2020
+2. [iMAP: Implicit Mapping and Positioning in Real-Time](https://arxiv.org/abs/2103.12352){: target="_blank" rel="noopener noreferrer"}, Sucar et al., 2021
 
-3. [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124){: target="_blank" rel="noopener noreferrer"}, Simeonov et al., 2021
+3. [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){: target="_blank" rel="noopener noreferrer"}, Rosinol et al., 2022
 
 4. [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){: target="_blank" rel="noopener noreferrer"}, Yen-Chen et al., 2022
 
@@ -230,9 +228,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Convolutional occupancy networks](https://arxiv.org/abs/2003.04618){: target="_blank" rel="noopener noreferrer"}, Peng et al., 2020
 
+- [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503){: target="_blank" rel="noopener noreferrer"}, Guo et al., 2020
+
 - [INeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/abs/2012.05877){: target="_blank" rel="noopener noreferrer"}, Yen-Chen et al., 2021
 
 - [ILabel: Interactive Neural Scene Labelling](https://arxiv.org/abs/2111.14637){: target="_blank" rel="noopener noreferrer"}, Zhi et al., 2021
+
+- [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124){: target="_blank" rel="noopener noreferrer"}, Simeonov et al., 2021
 
 - [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering](https://arxiv.org/abs/2112.05504){: target="_blank" rel="noopener noreferrer"}, Xiangli et al., 2021
 
