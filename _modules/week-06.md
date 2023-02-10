@@ -13,6 +13,7 @@ Feb 7
 
 Feb 9
 : [**Lec 11**](/assets/slides/deeprob_11_deep_learning_software.pdf){: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" }[Deep Learning Software](/assets/slides/deeprob_11_deep_learning_software.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/M24mYrH8K40){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"}
   : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
