@@ -351,7 +351,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/abs/2011.07215){: target="_blank" rel="noopener noreferrer"}, Lin et al., 2020
 
-
+- [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills](https://arxiv.org/abs/2302.04659){: target="_blank" rel="noopener noreferrer"}, Gu et al., 2023
 
 
 # Self-Supervised Learning 
