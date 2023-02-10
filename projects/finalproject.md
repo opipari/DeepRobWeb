@@ -161,8 +161,12 @@ At this point in the presentation, a natural question from audience members will
 {: #presentation-example }
 
 As an example of a robotics research presentation, consider Anthony's presentation from the [ICRA 2022 Robotic Perception and Mapping workshop](https://sites.google.com/view/ropm/home){: target="_blank" rel="noopener noreferrer"}. The slides from [this presentation can be viewed online](https://topipari.com/assets/slides/RoPM/){: target="_blank" rel="noopener noreferrer"} and a recording of [the corresponding talk](https://youtu.be/Uxv7Y_8cxV4){: target="_blank" rel="noopener noreferrer"} is included below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uxv7Y_8cxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div class="video-wrap">
+  <div class="video-container">
+	<iframe src="https://www.youtube.com/embed/Uxv7Y_8cxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
 
 ### Expected Presentation Format
 {: #presentation-format }
