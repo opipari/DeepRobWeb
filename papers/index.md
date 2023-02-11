@@ -564,6 +564,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [3D Neural Scene Representations for Visuomotor Control](https://arxiv.org/abs/2107.04004){: target="_blank" rel="noopener noreferrer"}, Li et al., 2021
 
+- [HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632){: target="_blank" rel="noopener noreferrer"}, Cao and Johnson, 2023
 
 
 ### Specialized Sensors
