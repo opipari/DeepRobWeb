@@ -26,4 +26,5 @@ Feb 9
 
 Feb 10
 : [**Dis 6**](/assets/slides/deeprob_discussion_06.pdf){: #dis-6 .label .label-blue target="_blank" rel="noopener noreferrer" }[How to Present Research Papers](/assets/slides/deeprob_discussion_06.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/DFS8J0I7dbU){: target="_blank" rel="noopener noreferrer"}
 : [**Project 2 due**{: .label .label-red }](/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link}
