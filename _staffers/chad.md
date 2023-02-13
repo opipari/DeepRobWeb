@@ -3,7 +3,7 @@ name: Chad Jenkins
 role: Instructor
 email: ocj@umich.edu
 website: https://ocj.name/
-photo: chad.jpg
+photo: chad.webp
 <!-- office-hours: TBD -->
 course-name: ROB 498 & 599
 course-link: https://deeprob.org
