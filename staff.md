@@ -53,7 +53,7 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 
 ---
 
-# Week 6 Schedule
+# Week 7 Schedule
 {: #weekly-schedule }
 
 {% for schedule in site.schedules %}

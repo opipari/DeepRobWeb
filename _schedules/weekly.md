@@ -20,21 +20,21 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Monday 02/06
+  - name: Monday 02/13
     events:
       - name: Huijie's Office Hours
         start: 2:30 PM
         end: 3:30 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Tuesday 02/07
+  - name: Tuesday 02/14
     events:
       - name: Huijie's Office Hours
         start: 2:00 PM
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-10" style="color:white;">Lecture 10</a>
+      - name: <a href="/calendar/#lec-12" style="color:white;">Lecture 12</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
@@ -44,21 +44,21 @@ schedule:
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
-  - name: Wednesday 02/08
+  - name: Wednesday 02/15
     events:
       - name: Anthony's Office Hours
         start: 1:30 PM
         end: 3:00 PM
         location: Remote only this week
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Thursday 02/09
+  - name: Thursday 02/16
     events:
       - name: Jiyue's Office Hours
         start: 1:00 PM
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-11" style="color:white;">Lecture 11</a>
+      - name: <a href="/calendar/#lec-13" style="color:white;">Lecture 13</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
@@ -68,9 +68,9 @@ schedule:
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
-  - name: Friday 02/10
+  - name: Friday 02/17
     events:
-      - name: <a href="/calendar/#dis-6" style="color:white;">Discussion 6</a>
+      - name: <a href="/calendar/#dis-7" style="color:white;">Discussion 7</a>
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
