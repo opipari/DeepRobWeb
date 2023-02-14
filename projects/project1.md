@@ -16,7 +16,7 @@ The objective of this project is to gain experience building a machine learning 
  - Implement a Multiclass Support Vector Machine classifier.
  - Implement a Softmax classifier.
  - Understand the differences and tradeoffs between each of these classifiers.
- - Understand the characteristics of instance-level classification using the [PROPS Classification Dataset](/dataset/#props-classification).
+ - Understand the characteristics of instance-level classification using the [PROPS Classification Dataset](/datasets/props-classification/).
  - Practice with cross validating your machine learning models.
 
 

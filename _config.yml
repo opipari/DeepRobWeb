@@ -75,6 +75,10 @@ defaults:
     values:
       layout: announcement
 
+callouts:
+  highlight:
+    color: yellow
+
 compress_html:
   clippings: all
   comments: all

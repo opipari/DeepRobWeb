@@ -30,11 +30,11 @@ Classification using K-Nearest Neighbors and Linear Models
 
 ## [Project 2](/projects/project2/)
 
-Classification using Fully-connected and Convolutional Neural Networks
+Classification using Fully-connected Neural Networks
 
-## Project 3
+## [Project 3](/projects/project3/)
 
-Detection using Convolutional Neural Networks
+Classification and Detection using Convolutional Neural Networks
 
 ## Project 4
 
