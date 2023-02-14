@@ -9,7 +9,7 @@ description: Specification of project 3 for DeepRob at the University of Michiga
 # Project 3
 
 ## Overview
-The objective of this project is to gain experience building and training convolutional neural networks for classificaiton and detection. In this project you will implement a feed forward CNN for image classification and a simplified version of [Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"} for object detection.
+The objective of this project is to gain experience building and training convolutional neural networks for classificaiton and detection. In this project you will implement a feed forward CNN for image classification and a version of [Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"} for object detection.
 
 ### The goals for this project are as follows:
  - Implement the forward and backward pass for a convolutional neural network.
