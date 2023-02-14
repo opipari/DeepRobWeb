@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classification
-description: Overview of the robot perception datasets used throughout the DeepRob course.
+description: Overview of the robot perception datasets used for image classification projects the DeepRob course.
 parent: Datasets
 nav_order: 1
 ---

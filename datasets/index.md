@@ -9,7 +9,7 @@ has_toc: false
 
 # PROPS Datasets
 
-At the core of Deep Learning is a set of computational techniques to identify and exploit patterns in datasets. Robots will only benefit from these techniques if as roboticists we provide sufficiently large datasets that are representative of the environments and tasks we anticipate our robots acting in. The <b>P</b>rogress <b>R</b>obot <b>O</b>bject <b>P</b>erception <b>S</b>amples (<b>PROPS</b>) dataset has been created to support the development of deep learning models in a variety of robot perception contexts. 
+At the core of Deep Learning is a set of computational techniques to identify and exploit patterns in datasets. Robots will only benefit from these techniques if as roboticists we provide sufficiently large datasets that are representative of the environments and tasks we anticipate our robots acting in. The <b>P</b>rogress <b>R</b>obot <b>O</b>bject <b>P</b>erception <b>S</b>amples (<b>PROPS</b>) datasets have been created to support the development of deep learning models in a variety of robot perception contexts. 
 
 The PROPS datasets consist of downsampled versions of data collected from the [ProgressLabeller annotation tool (Chen et al., 2022)](https://arxiv.org/abs/2203.00283){: target="_blank" rel="noopener noreferrer"}. This dataset focuses on table-top scenes that are inspired by the environments a domestic service robot would be expected to encounter. Objects in these scenes are from the [YCB Object and Model Set (Calli et al., 2015)](https://ieeexplore.ieee.org/abstract/document/7251504){: target="_blank" rel="noopener noreferrer"}.
 
