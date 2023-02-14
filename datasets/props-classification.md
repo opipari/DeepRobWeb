@@ -20,4 +20,4 @@ We provide the [`PROPSClassificationDataset`](/assets/projects/PROPSClassificati
 
 Sample images of each category in the PROPS Classification dataset are included below:
 
-![](/assets/images/props_classification.webp){: .data-img }
+![Sample images from PROPS classification dataset](/assets/images/props_classification.webp){: .data-img }
