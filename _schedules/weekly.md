@@ -49,7 +49,7 @@ schedule:
       - name: Anthony's Office Hours
         start: 1:30 PM
         end: 3:00 PM
-        location: Remote only this week
+        location: Remote only
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
   - name: Thursday 02/16
     events:

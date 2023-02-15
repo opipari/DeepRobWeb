@@ -10,7 +10,7 @@ Feb 21
 
 Feb 23
 : **Lec 15**{: #lec-15 .label .label-purple }Pointclouds, PointNet, and PointNet++
-: 
+: &nbsp;
   : [📃 Related Papers](/papers/#pointcloud-processing)
 
 
