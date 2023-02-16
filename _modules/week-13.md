@@ -14,4 +14,4 @@ Apr 6
   : [📃 Related Papers](/papers/#tactile-perception-for-grasping-and-manipulation)
 
 Apr 7
-: **Dis 13**{: #dis-13 .label .label-blue }Prologue: Transformer Architectures
+: **Dis 13**{: #dis-13 .label .label-blue }Prelude to Transformer Architectures

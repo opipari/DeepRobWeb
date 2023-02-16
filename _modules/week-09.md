@@ -14,4 +14,4 @@ Mar 9
   : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations)
 
 Mar 10
-: **Dis 9**{: #dis-9 .label .label-blue }Prologue: Object Tracking
+: **Dis 9**{: #dis-9 .label .label-blue }Prelude to Object Tracking

@@ -23,4 +23,4 @@ Feb 16
 
 
 Feb 17
-: **Dis 7**{: #dis-7 .label .label-blue }Prologue: 3D Perception
+: **Dis 7**{: #dis-7 .label .label-blue }Prelude to 3D Perception

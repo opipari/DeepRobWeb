@@ -13,4 +13,4 @@ Mar 30
   : [📃 Related Papers](/papers/#self-supervised-learning)
 
 Mar 31
-: **Dis 12**{: #dis-12 .label .label-blue }Prologue: Perception for Manipulation
+: **Dis 12**{: #dis-12 .label .label-blue }Prelude to Perception for Manipulation

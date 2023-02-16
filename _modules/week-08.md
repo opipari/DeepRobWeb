@@ -15,5 +15,5 @@ Feb 23
 
 
 Feb 24
-: **Dis 8**{: #dis-8 .label .label-blue }Prologue: Rigid Body Objects
+: **Dis 8**{: #dis-8 .label .label-blue }Prelude to Rigid Body Objects
 : [**Project 4 out**{: .label .label-yellow }](/projects/#project-4){: .project-link}
