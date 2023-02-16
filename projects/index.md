@@ -38,7 +38,7 @@ Classification and Detection using Convolutional Neural Networks
 
 ## Project 4
 
-State Estimation with Deep Learning
+Segmentation and Pose Estimation with Deep Learning
 
 ## [Final Project](/projects/finalproject/)
 
