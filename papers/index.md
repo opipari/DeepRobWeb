@@ -55,7 +55,7 @@ A collection of deep learning research papers with coverage in perception and as
 - [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){: target="_blank" rel="noopener noreferrer"}, Mitash et al., 2018
 
 
-# Pointcloud Processing
+# Point Cloud Processing
 
 [Scheduled Week 8, Lec 15](/calendar/#lec-15)
 
