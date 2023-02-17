@@ -580,6 +580,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Zhao et al., 2018
 
+- [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](https://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf){: target="_blank" rel="noopener noreferrer"}, Bryner et al., 2019
+
 - [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2019
 
 - [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221){: target="_blank" rel="noopener noreferrer"}, Qadri et al., 2022
