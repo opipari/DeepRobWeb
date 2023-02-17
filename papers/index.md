@@ -165,6 +165,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [TrackFormer: Multi-Object Tracking with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Meinhardt et al., 2022
 
+- [RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization](https://arxiv.org/abs/2203.12870v3){: target="_blank" rel="noopener noreferrer"}, Xu et al., 2022
 
 # Visual Odometry and Localization 
 
