@@ -129,6 +129,9 @@ The goals for this deliverable are to practice preparing and delivering a concis
  - [Presentation Deadline](#presentation-deadline)
  - [Useful Resources](#presentation-resources)
 
+{: .highlight } 
+The [Keynote](#presentation-format) and [Powerpoint](#presentation-format) templates have been updated with a skeleton presentation describing the core areas your presentations should address.
+
 ### The importance of presenting research
 {: #presentation-importance }
 Coming soon.
