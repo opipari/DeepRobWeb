@@ -103,7 +103,7 @@ After the first two paragraphs, you should then provide a list that addresses sp
 ### Review Deadline
 {: #review-deadline }
 
-**Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation. Students should submit their review as a PDF file.**
+**Students in DeepRob should submit their paper review at least one week prior to their scheduled paper presentation.** Students should submit their review as a PDF file [via email to the course instructor](mailto:topipari@umich.edu).
 
 ### Useful Resources
 {: #review-resources }
