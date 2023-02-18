@@ -171,7 +171,7 @@ As an example of a robotics research presentation, consider Anthony's presentati
 ### Expected Presentation Format
 {: #presentation-format }
 
-**Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob.kth) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob.pptx) for styling your slides.**
+**Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob_Paper_Presentation.key) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob_Paper_Presentation.pptx) for styling your slides.**
 
 ### Presentation Deadline
 {: #presentation-deadline }
