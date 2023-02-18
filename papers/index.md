@@ -47,12 +47,13 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](https://graphics.stanford.edu/courses/cs233-21-spring/ReferencedPapers/voxnet_07353481.pdf){: target="_blank" rel="noopener noreferrer"}, Maturana et al., 2015
 
-
 - [Multi-view Convolutional Neural Networks for 3D Shape Recognition](https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Su et al., 2015
 
 - [Volumetric and Multi-View CNNs for Object Classification on 3D Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Qi_Volumetric_and_Multi-View_CVPR_2016_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Qi et al., 2016
 
 - [Robust 6D Object Pose Estimation with Stochastic Congruent Sets](https://arxiv.org/abs/1805.06324){: target="_blank" rel="noopener noreferrer"}, Mitash et al., 2018
+
+- [What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction](https://arxiv.org/abs/2112.04481){: target="_blank" rel="noopener noreferrer"}, Kulkarni et al., 2022
 
 
 # Point Cloud Processing
@@ -236,6 +237,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200){: target="_blank" rel="noopener noreferrer"}, Raboh et al., 2020
 
+- [ConceptFusion: Open-set Multimodal 3D Mapping](https://arxiv.org/abs/2302.07241){: target="_blank" rel="noopener noreferrer"}, Jatavallabhula et al., 2023
 
 
 # Neural Radiance Fields and Implicit Representations 
