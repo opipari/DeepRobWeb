@@ -27,3 +27,4 @@ Feb 16
 
 Feb 17
 : [**Dis 7**](/assets/slides/deeprob_discussion_07.pdf){: #dis-7 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to 3D Perception](/assets/slides/deeprob_discussion_07.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/P5dkSYbsXQ8){: target="_blank" rel="noopener noreferrer"}
