@@ -20,14 +20,14 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Monday 02/13
+  - name: Monday 02/20
     events:
       - name: Huijie's Office Hours
         start: 2:30 PM
         end: 3:30 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Tuesday 02/14
+  - name: Tuesday 02/21
     events:
       - name: Huijie's Office Hours
         start: 2:00 PM
@@ -44,14 +44,14 @@ schedule:
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
-  - name: Wednesday 02/15
+  - name: Wednesday 02/22
     events:
       - name: Anthony's Office Hours
         start: 1:30 PM
         end: 3:00 PM
         location: Remote only
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Thursday 02/16
+  - name: Thursday 02/23
     events:
       - name: Jiyue's Office Hours
         start: 1:00 PM
@@ -68,7 +68,7 @@ schedule:
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
-  - name: Friday 02/17
+  - name: Friday 02/24
     events:
       - name: <a href="/calendar/#dis-8" style="color:white;">Discussion 8</a>
         start: 4:30 PM
