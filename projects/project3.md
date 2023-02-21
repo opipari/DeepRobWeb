@@ -55,7 +55,7 @@ These instructions will be updated and an official announcement will be made via
 
 ## Deadline
 
-This project is due on <b>Tuesday, February 28th at 11:59pm EST</b>. We suggest starting as soon as possible.
+This project is due on <b>Tuesday, March 7th at 11:59pm EST</b>. We suggest starting as soon as possible.
 
 ## Grading
 
