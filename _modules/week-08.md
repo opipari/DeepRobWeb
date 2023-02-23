@@ -8,7 +8,7 @@ Feb 21
 
 
 Feb 23
-: **Lec 15**{: #lec-15 .label .label-purple }Point Clouds, PointNet, and PointNet++
+: [**Lec 15**](/assets/slides/deeprob_15_point_cloud_processing.pdf){: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" }[Point Clouds, PointNet, and PointNet++](/assets/slides/deeprob_15_point_cloud_processing.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📃 Related Papers](/papers/#pointcloud-processing)
 
 
