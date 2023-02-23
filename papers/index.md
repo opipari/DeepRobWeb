@@ -115,7 +115,7 @@ A collection of deep learning research papers with coverage in perception and as
 - [Improving Object Pose Estimation by Fusion With a Multimodal Prior – Utilizing Uncertainty-Based CNN Pipelines for Robotics](https://ieeexplore.ieee.org/document/9670642){: target="_blank" rel="noopener noreferrer"}, Richter-Klug et al., 2022
 
 
-# Dense object descriptors, Category-level representations 
+# Dense Descriptors, Category-level Representations 
 
 [Scheduled Week 9, Lec 17](/calendar/#lec-17)
 
