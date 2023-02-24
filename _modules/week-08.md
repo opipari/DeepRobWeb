@@ -13,4 +13,4 @@ Feb 23
 
 
 Feb 24
-: **Dis 8**{: #dis-8 .label .label-blue }Prelude to Rigid Body Objects
+: [**Dis 8**](/assets/slides/deeprob_discussion_08.pdf){: #dis-8 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to Rigid Body Objects](/assets/slides/deeprob_discussion_08.pdf){: target="_blank" rel="noopener noreferrer"}
