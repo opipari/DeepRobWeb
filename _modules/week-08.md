@@ -12,5 +12,8 @@ Feb 23
   : [📃 Related Papers](/papers/#pointcloud-processing)
 
 
+
+
 Feb 24
 : [**Dis 8**](/assets/slides/deeprob_discussion_08.pdf){: #dis-8 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to Rigid Body Objects](/assets/slides/deeprob_discussion_08.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/4jINQitl4sY){: target="_blank" rel="noopener noreferrer"}
