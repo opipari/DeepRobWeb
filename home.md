@@ -72,7 +72,7 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 ---
 
-# Week 7 Schedule
+# Spring Break Schedule
 {: #weekly-schedule }
 
 {% for schedule in site.schedules %}
