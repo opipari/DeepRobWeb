@@ -40,7 +40,7 @@ schedule:
       - name: Enjoy Spring Break
         start: 4:30 AM
         end: 5:30 AM
-  - name: Friday 02/03
+  - name: Friday 03/03
     events:
       - name: Enjoy Spring Break
         start: 4:30 AM
