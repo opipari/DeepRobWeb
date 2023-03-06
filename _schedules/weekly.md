@@ -20,31 +20,66 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Monday 02/27
+  - name: Monday 03/06
     events:
-      - name: Enjoy Spring Break
-        start: 4:30 AM
-        end: 5:30 AM
-  - name: Tuesday 02/28
+      - name: Huijie's Office Hours
+        start: 2:30 PM
+        end: 3:30 PM
+        location: 2320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Tuesday 03/07
     events:
-      - name: Enjoy Spring Break
-        start: 4:30 AM
-        end: 5:30 AM
-  - name: Wednesday 03/01
+      - name: Huijie's Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: 2320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+      - name: <a href="/calendar/#lec-16" style="color:white;">Lecture 16</a>
+        start: 3:00 PM
+        end: 4:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: lecture
+      - name: Anthony's Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
+        location: 1060 FMCRB
+  - name: Wednesday 03/08
     events:
-      - name: Enjoy Spring Break
-        start: 4:30 AM
-        end: 5:30 AM
-  - name: Thursday 03/02
+      - name: Anthony's Office Hours
+        start: 1:30 PM
+        end: 3:00 PM
+        location: Remote only
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+  - name: Thursday 03/09
     events:
-      - name: Enjoy Spring Break
-        start: 4:30 AM
-        end: 5:30 AM
-  - name: Friday 03/03
+      - name: Jiyue's Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: 2320 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+      - name: <a href="/calendar/#lec-17" style="color:white;">Lecture 17</a>
+        start: 3:00 PM
+        end: 4:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: lecture
+      - name: Anthony's Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
+        location: 1060 FMCRB
+  - name: Friday 03/10
     events:
-      - name: Enjoy Spring Break
-        start: 4:30 AM
-        end: 5:30 AM
+      - name: <a href="/calendar/#dis-9" style="color:white;">Discussion 9</a>
+        start: 4:30 PM
+        end: 5:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        class: discussion
+      - name: Anthony's Office Hours
+        start: 5:30 PM
+        end: 6:30 PM
+        location: 1060 FMCRB
 ---
 
       <!-- - name: Huijie's Office Hours
