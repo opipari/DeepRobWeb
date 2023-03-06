@@ -72,7 +72,7 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 ---
 
-# Week 8 Schedule
+# Week 9 Schedule
 {: #weekly-schedule }
 
 {% for schedule in site.schedules %}
