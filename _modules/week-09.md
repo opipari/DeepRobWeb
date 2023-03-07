@@ -3,7 +3,7 @@ title: Week 9; Rigid Body Objects
 ---
 
 Mar 7
-: **Lec 16**{: #lec-16 .label .label-purple }Object Pose, Geometry, SDF, Implicit Surfaces
+: [**Lec 16**](/assets/slides/deeprob_16_objects.pdf){: #lec-16 .label .label-purple target="_blank" rel="noopener noreferrer" }[Object Pose, Geometry, SDF, Implicit Surfaces](/assets/slides/deeprob_16_objects.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📃 Related Papers](/papers/#object-pose-geometry-sdf-implicit-surfaces)
 
 
