@@ -20,9 +20,6 @@ The objective of this project is to gain experience building and training convol
 
 
 
-{: .highlight } 
-These instructions will be updated and an official announcement will be made via email and [EdStem](/syllabus/#discussion-forum) once the Project 3 Autograder is online.
-
 ## Instructions
 
 1. <b>Download the project starter code</b>
@@ -44,22 +41,19 @@ These instructions will be updated and an official announcement will be made via
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the Project 3 Autograder. You may submit to the Autograder for feedback up to 2 times per day.
+	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 3 Autograder](https://autograder.io/web/project/2004){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 2 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `two_stage_detector.ipynb` notebook will generate a `uniqueid_umid_P3.zip` file. The zip file should include `convolutional_networks.ipynb`, `convolutional_networks.py`, `two_stage_detector.ipynb`, `two_stage_detector.py`, `one_minute_deepconvnet.pth`, `overfit_deepconvnet.pth`, and `rcnn_detector.pt` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the Autograder for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://autograder.io/web/project/2004){: target="_blank" rel="noopener noreferrer"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
-This project is due on <b>Tuesday, March 7th at 11:59pm EST</b>. We suggest starting as soon as possible.
+This project is due on <b>Friday, March 10th at 11:59pm EST</b>. We suggest starting as soon as possible.
 
 ## Grading
 
-This project will be graded by the Autograder. 
-
-{: .highlight } 
-These instructions will be updated and an official announcement will be made via email and [EdStem](/syllabus/#discussion-forum) once the Project 3 Autograder is online.
+This project will be graded by the [Autograder](https://autograder.io/web/project/2004){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 5 times per day.
