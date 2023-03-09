@@ -10,7 +10,6 @@ Mar 7
 Mar 9
 : **Lec 17**{: #lec-17 .label .label-purple }Dense Descriptors, Category-level Representations
   : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations)
-: [**Quiz 9**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"}
 
 Mar 10
 : **Dis 9**{: #dis-9 .label .label-blue }Prelude to Object Tracking
