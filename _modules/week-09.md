@@ -12,5 +12,5 @@ Mar 9
   : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations)
 
 Mar 10
-: **Dis 9**{: #dis-9 .label .label-blue }Prelude to Object Tracking
+: [**Dis 9**](/assets/slides/deeprob_discussion_09.pdf){: #dis-9 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to Object Tracking](/assets/slides/deeprob_discussion_09.pdf){: target="_blank" rel="noopener noreferrer" }
 : [**Project 3 due**{: .label .label-red }](/projects/project3/){: .project-link} [**Project 4 out**{: .label .label-yellow }](/projects/#project-4){: .project-link} 
