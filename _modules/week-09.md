@@ -8,7 +8,7 @@ Mar 7
 
 
 Mar 9
-: **Lec 17**{: #lec-17 .label .label-purple }Dense Descriptors, Category-level Representations
+: [**Lec 17**](/assets/slides/deeprob_17_object_descriptors.pdf){: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" }[Dense Descriptors, Category-level Representations](/assets/slides/deeprob_17_object_descriptors.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations)
 
 Mar 10
