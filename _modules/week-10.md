@@ -6,9 +6,7 @@ Mar 14
 : **Lec 18**{: #lec-18 .label .label-purple }Recurrent Networks, Object Tracking
   : [📃 Related Papers](/papers/#recurrent-networks-and-object-tracking)
 : [**Quiz 9**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} [**Project 3 due**{: .label .label-red }](/projects/project3/){: .project-link} [**Project 4 out**{: .label .label-yellow }](/projects/#project-4){: .project-link} 
-  : [📖 Karpathy, The Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
-  : [📖 Olah & Carter, Attention and Augmented RNNs](https://distill.pub/2016/augmented-rnns/){: target="_blank" rel="noopener noreferrer"}
+
 
 
 Mar 16

@@ -14,4 +14,7 @@ Mar 9
 Mar 10
 : [**Dis 9**](/assets/slides/deeprob_discussion_09.pdf){: #dis-9 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to Object Tracking](/assets/slides/deeprob_discussion_09.pdf){: target="_blank" rel="noopener noreferrer" }
   : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/45sKAir2XnI){: target="_blank" rel="noopener noreferrer"}
-
+: &nbsp;
+  : [📖 Karpathy, The Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Olah & Carter, Attention and Augmented RNNs](https://distill.pub/2016/augmented-rnns/){: target="_blank" rel="noopener noreferrer"}
