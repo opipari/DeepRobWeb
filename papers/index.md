@@ -96,15 +96,15 @@ A collection of deep learning research papers with coverage in perception and as
 
 1. [SUM: Sequential scene understanding and manipulation](https://ieeexplore.ieee.org/abstract/document/8206164){: target="_blank" rel="noopener noreferrer"}, Sui et al., 2017
 
-2. [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception](https://arxiv.org/abs/2204.02296){: target="_blank" rel="noopener noreferrer"}, Oriz et al., 2022
+2. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Park et al., 2019
+
+3. [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Michalkiewicz et al., 2019
+
+4. [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception](https://arxiv.org/abs/2204.02296){: target="_blank" rel="noopener noreferrer"}, Oriz et al., 2022
 
 
 ### Extended List
 {: .no_toc }
-
-- [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Park et al., 2019
-
-- [Implicit surface representations as layers in neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Michalkiewicz et al., 2019
 
 - [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126){: target="_blank" rel="noopener noreferrer"}, Genova et al., 2020
 
