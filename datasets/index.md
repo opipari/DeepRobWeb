@@ -28,5 +28,5 @@ This portion of the dataset is catered for object detection tasks. The PROPS Det
 
 ## [PROPS Pose Estimation](/datasets/props-pose/)
 
-This portion of the dataset is catered for 6 degrees-of-freedom rigid body object pose estimation. The PROPS Pose dataset contains <b>10 object categories</b> with <b>500</b> training images and <b>500</b> validation images. Each image in the dataset is a <b>640x480 RGB</b> color image.
+This portion of the dataset is catered for 6 degrees-of-freedom rigid body object pose estimation. The PROPS Pose dataset contains <b>10 object categories</b> with <b>500</b> training images and <b>500</b> validation images. Each image in the dataset is a <b>640x480 RGB</b> color image. Aligned depth images and segmentation masks are also included in the dataset.
 
