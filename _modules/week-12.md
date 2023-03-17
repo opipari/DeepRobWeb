@@ -5,7 +5,7 @@ title: Week 12; Data
 Mar 28
 : **Lec 22**{: #lec-22 .label .label-purple }Datasets for Perception
   : [📃 Related Papers](/papers/#datasets)
-: [**Quiz 12**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} 
+: [**Quiz 12**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} [**Final Project Checkins**{: .label .label-grey }](https://docs.google.com/spreadsheets/d/1hOdZyFN_mxRF0NCV8Rj6NLwLIk3tyXM84noFwGmp_MI/edit?usp=sharing){: .project-link target="_blank" rel="noopener noreferrer" }
 
 
 Mar 30 

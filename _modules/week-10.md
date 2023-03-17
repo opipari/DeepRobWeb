@@ -18,3 +18,4 @@ Mar 16
 
 Mar 17
 : **Dis 10**{: #dis-10 .label .label-blue }Prelude to Scene-Level Representations
+: [**Final Project Checkins**{: .label .label-grey }](https://docs.google.com/spreadsheets/d/1hOdZyFN_mxRF0NCV8Rj6NLwLIk3tyXM84noFwGmp_MI/edit?usp=sharing){: .project-link target="_blank" rel="noopener noreferrer" }
