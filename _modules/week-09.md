@@ -9,7 +9,7 @@ Mar 7
 
 Mar 9
 : [**Lec 17**](/assets/slides/deeprob_17_object_descriptors.pdf){: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" }[Dense Descriptors, Category-level Representations](/assets/slides/deeprob_17_object_descriptors.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [📃 Related Papers](/papers/#dense-object-descriptors-category-level-representations)
+  : [📃 Related Papers](/papers/#dense-descriptors-category-level-representations)
 
 Mar 10
 : [**Dis 9**](/assets/slides/deeprob_discussion_09.pdf){: #dis-9 .label .label-blue target="_blank" rel="noopener noreferrer" }[Prelude to Object Tracking](/assets/slides/deeprob_discussion_09.pdf){: target="_blank" rel="noopener noreferrer" }
