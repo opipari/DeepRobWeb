@@ -36,7 +36,7 @@ Classification using Fully-connected Neural Networks
 
 Classification and Detection using Convolutional Neural Networks
 
-## Project 4
+## [Project 4](/projects/project4/)
 
 Segmentation and Pose Estimation with Deep Learning
 

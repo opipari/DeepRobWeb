@@ -96,7 +96,7 @@ Course grades will be determined according to the following criteria:
  - [Project 1](/projects/project1/):     12%
  - [Project 2](/projects/project2/):     12%
  - [Project 3](/projects/project3/):     12%
- - Project 4:     12%
+ - [Project 4](/projects/project4/):     12%
  - [Final Project](/projects/finalproject/):
    - Paper Review: 3%
    - Paper Presentation: 3%

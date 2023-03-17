@@ -12,7 +12,7 @@ Mar 14
 Mar 16
 : [**Lec 19**](/assets/slides/deeprob_19_visual_odometry.pdf){: #lec-19 .label .label-purple target="_blank" rel="noopener noreferrer" }[Visual Odometry](/assets/slides/deeprob_19_visual_odometry.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📃 Related Papers](/papers/#visual-odometry-and-localization)
-: [**Project 4 out**{: .label .label-yellow }](/projects/#project-4){: .project-link}
+: [**Project 4 out**{: .label .label-yellow }](/projects/project4/){: .project-link}
 
 
 
