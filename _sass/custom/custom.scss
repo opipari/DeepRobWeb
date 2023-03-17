@@ -11,7 +11,6 @@
 @import 'button';
 @import 'layout';
 @import 'colors';
-@import 'labels';
 
 // Overrides
 code {
@@ -82,6 +81,10 @@ summary {
 
 .label-seminar {
   background-color: $purple-200;
+}
+
+.label-grey {
+  background-color: $grey-dk-100;
 }
 
 
