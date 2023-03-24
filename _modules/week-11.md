@@ -9,7 +9,7 @@ Mar 21
 
 
 Mar 23
-: **Lec 21**{: #lec-21 .label .label-purple }Neural Radiance Fields
+: [**Lec 21**](/assets/slides/deeprob_21_implicit_representations.pdf){: #lec-21 .label .label-purple target="_blank" rel="noopener noreferrer" }[Neural Radiance Fields](/assets/slides/deeprob_21_implicit_representations.pdf){: target="_blank" rel="noopener noreferrer" }
   : [📃 Related Papers](/papers/#neural-radiance-fields-and-implicit-representations)
 : [**Quiz 11**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer"} [**Final Project Checkins**{: .label .label-grey }](https://docs.google.com/spreadsheets/d/1hOdZyFN_mxRF0NCV8Rj6NLwLIk3tyXM84noFwGmp_MI/edit?usp=sharing){: .project-link target="_blank" rel="noopener noreferrer" }
 
