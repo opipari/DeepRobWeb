@@ -196,6 +196,16 @@ As an example of a robotics research presentation, consider Anthony's presentati
 {: #paper-reproduction }
 
 The goal for this deliverable is to practice the skills needed to reproduce the results of existing research.
+ - [Useful Resources](#reproduction-resources)
+
+### Useful Resources
+{: #reproduction-resources }
+
+ - [The Seminar Papers](/papers/): The collection of seminar papers was chosen to give broad coverage within deep learning for robot perception. The papers from this list can serve as great subjects for your final project.
+
+ - [Papers With Code](https://paperswithcode.com){: target="_blank" rel="noopener noreferrer"}: A repository tracking public codebases associated with published papers and datasets in machine learning.
+
+
 
 ---
 
