@@ -20,66 +20,62 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Monday 03/13
+  - name: Monday 03/27
     events:
       - name: Huijie's Office Hours
         start: 2:30 PM
         end: 3:30 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Tuesday 03/14
+  - name: Tuesday 03/28
     events:
       - name: Huijie's Office Hours
         start: 2:00 PM
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-18" style="color:white;">Lecture 18</a>
+      - name: <a href="/calendar/#lec-22" style="color:white;">Lecture 22</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
         class: lecture
-      - name: Anthony's Office Hours
+      - name: Final Project Checkins
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
-  - name: Wednesday 03/15
+  - name: Wednesday 03/29
     events:
       - name: Anthony's Office Hours
         start: 1:30 PM
         end: 3:00 PM
         location: Remote only
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Thursday 03/16
+  - name: Thursday 03/30
     events:
       - name: Jiyue's Office Hours
         start: 1:00 PM
         end: 3:00 PM
         location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-19" style="color:white;">Lecture 19</a>
+      - name: <a href="/calendar/#lec-23" style="color:white;">Lecture 23</a>
         start: 3:00 PM
         end: 4:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
         class: lecture
-      - name: Final Project Checkins
+      - name: Anthony's Office Hours
         start: 4:30 PM
-        end: 6:00 PM
+        end: 5:30 PM
         location: 1060 FMCRB
-  - name: Friday 03/17
+  - name: Friday 03/31
     events:
-      - name: <a href="/calendar/#dis-9" style="color:white;">Discussion 9</a>
+      - name: <a href="/calendar/#dis-12" style="color:white;">Discussion 12</a>
         start: 4:30 PM
         end: 5:30 PM
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
         class: discussion
-      - name: Final Project Checkins
-        start: 5:30 PM
-        end: 6:30 PM
-        location: 1060 FMCRB
 ---
 
       <!-- - name: Huijie's Office Hours
