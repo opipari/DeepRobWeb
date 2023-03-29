@@ -196,7 +196,14 @@ As an example of a robotics research presentation, consider Anthony's presentati
 {: #paper-reproduction }
 
 The goal for this deliverable is to practice the skills needed to reproduce the results of existing research.
+ - [Reproduction Deadline](#reproduction-deadline)
  - [Useful Resources](#reproduction-resources)
+
+
+### Paper Reproduction Deadline
+{: #reproduction-deadline }
+
+**The Paper Reproduction is due Friday, April 21st by 11:59PM EST.** Students in DeepRob should submit their paper reproduction along with the other final project deliverables (algorithmic extension and written report) as a ZIP file [via email to the course instructor](mailto:topipari@umich.edu). **Your submission should be documented and organized such that the course staff can replicate your reported results.**
 
 ### Useful Resources
 {: #reproduction-resources }
@@ -213,6 +220,14 @@ The goal for this deliverable is to practice the skills needed to reproduce the 
 {: #algorithmic-extension }
 
 The goal for this deliverable is to gain experience crafting a small research project. In this process your team will propose a technical extension to an existing deep learning algorithm, plan how to analyze your proposed extension, and execute on the plan by implementing and evaluating the ideas you propose.
+ - [Algorithmic Extension Deadline](#extension-deadline)
+
+
+### Algorithmic Extension Deadline
+{: #extension-deadline }
+
+**The algorithmic extension is due Friday, April 21st by 11:59PM EST.** Students in DeepRob should submit their algorithmic extension along with the other final project deliverables (paper reproduction and written report) as a ZIP file [via email to the course instructor](mailto:topipari@umich.edu). **Your submission should be documented and organized such that the course staff can replicate your extension and reported results.**
+
 
 ---
 
@@ -222,11 +237,17 @@ The goal for this deliverable is to gain experience crafting a small research pr
 The goal for this deliverable is to share the findings of your research in the form of a written paper with peers in the field.
  - [Report Format](#report-format)
  - [Useful Resources](#report-resources)
+ - [Report Deadline](#report-deadline)
 
 ### Expected Report Format
 {: #report-format }
 
 **Student teams in DeepRob should complete a written report documenting their paper reproduction and algorithmic extension as part of the final project.** The project report should include the following sections: a paper abstract, an introduction, a related work section, a section describing your algorithmic extension, your experimental setup and results, and finally a conclusion. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX report template](/assets/projects/DeepRobProjectReport.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+
+### Report Deadline
+{: #report-deadline }
+
+**The written report is due Friday, April 21st by 11:59PM EST.** Students in DeepRob should submit their written report along with the other final project deliverables (paper reproduction and algorithmic extension) as a ZIP file [via email to the course instructor](mailto:topipari@umich.edu).
 
 ### Useful Resources
 {: #report-resources }
