@@ -46,11 +46,6 @@ schedule:
         location: 1060 FMCRB
   - name: Wednesday 03/29
     events:
-      - name: Anthony's Office Hours
-        start: 1:30 PM
-        end: 3:00 PM
-        location: Remote only
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
   - name: Thursday 03/30
     events:
       - name: Jiyue's Office Hours
@@ -64,10 +59,6 @@ schedule:
         location: 1060 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
         class: lecture
-      - name: Anthony's Office Hours
-        start: 4:30 PM
-        end: 5:30 PM
-        location: 1060 FMCRB
   - name: Friday 03/31
     events:
       - name: <a href="/calendar/#dis-12" style="color:white;">Discussion 12</a>
