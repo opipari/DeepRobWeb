@@ -30,7 +30,7 @@ The objective of this project is to build skills needed to understand and lead r
  4. [Algorithmic Extension](#algorithmic-extension)
  5. [Written Report](#written-report)
 
-
+ 
 ### Grading
 
 Overall, the final project is worth 24% of the course grade. The breakdwon by each deliverable is shown below:
