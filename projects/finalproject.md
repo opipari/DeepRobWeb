@@ -195,7 +195,7 @@ As an example of a robotics research presentation, consider Anthony's presentati
 ## 3&nbsp;&nbsp;&nbsp;Paper Reproduction
 {: #paper-reproduction }
 
-The goal for this deliverable is to practice the skills needed to reproduce the results of existing research.
+The goal for this deliverable is to practice the skills needed to reproduce the results of existing research. For this deliverable, your team should choose a paper related to deep learning and robot perception that you find interesting and reproduce at least one quantitative or qualitative result published in the original paper. **You are not required to reproduce the paper your team presented on.**
  - [Reproduction Deadline](#reproduction-deadline)
  - [Useful Resources](#reproduction-resources)
 
@@ -219,7 +219,7 @@ The goal for this deliverable is to practice the skills needed to reproduce the 
 ## 4&nbsp;&nbsp;&nbsp;Algorithmic Extension
 {: #algorithmic-extension }
 
-The goal for this deliverable is to gain experience crafting a small research project. In this process your team will propose a technical extension to an existing deep learning algorithm, plan how to analyze your proposed extension, and execute on the plan by implementing and evaluating the ideas you propose.
+The goal for this deliverable is to gain experience crafting a small research project. In this process your team will propose a technical extension to an existing deep learning algorithm, plan how to analyze your proposed extension, and execute on the plan by implementing and evaluating the ideas you propose. The expectation is that your extension will build on the paper reproduction deliverable by using your reproduction as a starting point and baseline for the extension.
  - [Algorithmic Extension Deadline](#extension-deadline)
 
 
@@ -242,7 +242,7 @@ The goal for this deliverable is to share the findings of your research in the f
 ### Expected Report Format
 {: #report-format }
 
-**Student teams in DeepRob should complete a written report documenting their paper reproduction and algorithmic extension as part of the final project.** The project report should include the following sections: a paper abstract, an introduction, a related work section, a section describing your algorithmic extension, your experimental setup and results, and finally a conclusion. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX report template](/assets/projects/DeepRobProjectReport.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+**Student teams in DeepRob should complete a written report documenting their paper reproduction and algorithmic extension as part of the final project.** The project report should include the following sections: a paper abstract, an introduction, a related work section, a section describing your algorithmic extension, your experimental setup and results, and finally a conclusion. Final reports are expected to be 4-6 pages, not including references. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX report template](/assets/projects/DeepRobProjectReport.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
 
 ### Report Deadline
 {: #report-deadline }
