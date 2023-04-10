@@ -25,14 +25,12 @@ schedule:
       - name: Huijie's Office Hours
         start: 2:30 PM
         end: 3:30 PM
-        location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
   - name: Tuesday 03/28
     events:
       - name: Huijie's Office Hours
         start: 2:00 PM
         end: 3:00 PM
-        location: 2320 FMCRB
         zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
       - name: <a href="/calendar/#lec-22" style="color:white;">Lecture 22</a>
         start: 3:00 PM
