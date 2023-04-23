@@ -11,7 +11,6 @@
 @import 'button';
 @import 'layout';
 @import 'colors';
-@import 'project';
 
 // Overrides
 code {
@@ -112,5 +111,32 @@ summary {
   max-width: 560px;
 }
 
+
+.project-title {
+  margin-top: 2%;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+
+.project-author-box {
+  margin-top: 4%;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.project-author {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.center-image {
+  text-align: center;
+  justify-content: center;
+}
 
 
