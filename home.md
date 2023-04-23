@@ -70,11 +70,3 @@ This course builds on and is indebted to these existing courses (as a “star”
 </div>
 {% endif %}
 
----
-
-# Week 9 Schedule
-{: #weekly-schedule }
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
