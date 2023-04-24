@@ -22,6 +22,13 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 ---
 
+<div class="video-wrap">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
+
+---
 
 <div class="staff-row" >
 <div markdown="1" class="staff-column">
