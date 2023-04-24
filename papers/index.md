@@ -373,6 +373,14 @@ A collection of deep learning research papers with coverage in perception and as
 4. [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose){: target="_blank" rel="noopener noreferrer"}, Zhang et al., 2022
 
 
+### Extended List
+{: .no_toc }
+
+- [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294){: target="_blank" rel="noopener noreferrer"}, Caron et al., 2021
+
+- [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193){: target="_blank" rel="noopener noreferrer"}, Oquab et al., 2023
+
+
 
 # Grasp Pose Detection 
 
