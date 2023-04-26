@@ -67,7 +67,7 @@ summary {
 }
 
 .text-logo {
-  height: 1em;
+  height: 1.1em;
 }
 
 .label-orange {
@@ -113,7 +113,7 @@ summary {
 
 
 .project-title {
-  margin-top: 2%;
+  margin-top: 3% !important;
   text-align: center;
   justify-content: center;
   align-content: center;
@@ -139,4 +139,7 @@ summary {
   justify-content: center;
 }
 
+.project-links {
+  text-align: center;
+}
 

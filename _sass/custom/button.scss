@@ -6,3 +6,9 @@
 .btn-mich {
 	@include btn-color(#ffcb05, #00274c);
 }
+
+
+.btn-grey {
+	@include btn-color($white, #24292F);
+	
+}
