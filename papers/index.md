@@ -617,4 +617,6 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991){: target="_blank" rel="noopener noreferrer"}, Janner et al., 2022
 
+- [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://arxiv.org/abs/2304.10261){: target="_blank" rel="noopener noreferrer"}, Shen et al., 2023
+
 
