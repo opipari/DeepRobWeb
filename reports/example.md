@@ -24,7 +24,7 @@ authors:
 
 <!-- This shows how to add an image (or gif) in markdown -->
 <div class="center-image">
-<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/w23/projects/reports/deeprob.gif" />
+<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/projects/reports/deeprob.gif" />
 </div>
 
 
