@@ -17,7 +17,7 @@ title: DeepRob
 tagline: Deep Learning for Robot Perception
 description: This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects
 author: Anthony Opipari
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/w23' # the subpath of your site, e.g. /blog
 url: 'https://deeprob.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/logos/favicons/UMich_favicon_light.png"
