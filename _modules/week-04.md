@@ -2,9 +2,9 @@
 title: Week 4
 ---
 
-Jan 24
-: [**Lec 6**](/assets/slides/deeprob_06_backpropagation.pdf){: #lec-6 target="_blank" rel="noopener noreferrer" .label .label-purple }[Backpropagation](/assets/slides/deeprob_06_backpropagation.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/H-gvK41qCJU){: target="_blank" rel="noopener noreferrer"}
+Jan 30
+: [**Lec 6**](#lec-6){: #lec-6 target="_blank" rel="noopener noreferrer" .label .label-purple } Backpropagation
+  : &nbsp;
 : [**Quiz 2**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer" }
   : [📖 cs231n Backpropagation](https://cs231n.github.io/optimization-2/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
@@ -13,10 +13,22 @@ Jan 24
   : [📖 Olah, Backpropagation](http://colah.github.io/posts/2015-08-Backprop/){: target="_blank" rel="noopener noreferrer"}
 
 
+Jan 31
+: [**Dis 3**](#dis-3){: #lab-3 target="_blank" rel="noopener noreferrer" .label .label-blue } How to Read Research Papers
+  : &nbsp;
+: &nbsp;
+  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Xiang et al., PoseCNN](https://arxiv.org/abs/1711.00199){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Mildenhall et al., NeRF](https://arxiv.org/abs/2003.08934){: target="_blank" rel="noopener noreferrer"}
 
-Jan 26
-: [**Lec 7**](/assets/slides/deeprob_07_convolutional_neural_networks.pdf){: #lec-7 target="_blank" rel="noopener noreferrer" .label .label-purple }[Convolutional Neural Networks](/assets/slides/deeprob_07_convolutional_neural_networks.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![](/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/f6tcbJJyJdw){: target="_blank" rel="noopener noreferrer"}
+
+
+
+Feb 1
+: [**Lec 7**](#lec-7){: #lec-7 target="_blank" rel="noopener noreferrer" .label .label-purple } Convolutional Neural Networks
+  : &nbsp;
 : [**Quiz 3**{: .label .label-orange }](https://www.gradescope.com/courses/480760){: .project-link target="_blank" rel="noopener noreferrer" } [**Project 1 due**{: .label .label-red }](/projects/project1/){: .project-link} [**Project 2 out**{: .label .label-yellow }](/projects/project2/){: .project-link}
   : [📖 cs231n ConvNets](https://cs231n.github.io/convolutional-networks/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;

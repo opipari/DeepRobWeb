@@ -14,10 +14,8 @@ permalink: /reports/
 
 
 
-<!-- ### [Example Project: A final project template for DeepRob](/reports/example/)
-Anthony Opipari, Huijie Zhang, Jiyue Zhu, Karthik Desingh, and Odest Chadwicke Jenkins -->
+### [Example Project: A final project template for DeepRob](/reports/example/)
+Anthony Opipari, Huijie Zhang, Jiyue Zhu, Karthik Desingh, and Odest Chadwicke Jenkins
 
-### [*Da-TRASH*: Depth-appended Tabletop Recycling Algorithm for Segmenting Havoc](/reports/da-trash)
-Ashwin Saxena and Andrew Scheffer
 
 
