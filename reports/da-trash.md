@@ -16,13 +16,13 @@ authors:
 
 
 <div class="center-image">
-<img alt="Teaser Figure" src="/assets/w23/projects/reports/da-trash/arch.webp" />
+<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/w23/projects/reports/da-trash/arch.webp" />
 </div>
 
 
 <div class="project-links" markdown="1">
-[![](/assets/logos/acrobat.svg){: .text-logo } Report](/assets/w23/projects/reports/da-trash/da-trash.pdf){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
-[![](/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/schefferac2020/Da-TRASH){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/w23/projects/reports/da-trash/da-trash.pdf){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/schefferac2020/Da-TRASH){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
 
 
@@ -38,24 +38,24 @@ In this work, we set out to reproduce and build upon the results presented in [L
 The proposed *Da-TRASH* pipeline is validated on multiple real-world datasets for both its qualitative and quantitative UOIS accuracy. First, the segmentation accuracy of *Da-TRASH* is qualitatively evaluated on examples from the [ZeroWaste dataset (Bashkirova et al., 2021)](https://arxiv.org/abs/2106.02740){: target="_blank" rel="noopener noreferrer"} as shown in the following figure:
 
 <div class="center-image">
-<img style="width:74%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="/assets/w23/projects/reports/da-trash/qualitative-1.webp" />
+<img style="width:74%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="{{ site.baseurl }}/assets/w23/projects/reports/da-trash/qualitative-1.webp" />
 </div>
 
-This result demonstrates promising performance by *Da-TRASH* for segmenting previously unseen objects from an extremely cluttered scene representative of recycling facilities. More details and examples are included in [the full text](/assets/w23/projects/reports/da-trash/da-trash.pdf){: target="_blank" rel="noopener noreferrer"}.
+This result demonstrates promising performance by *Da-TRASH* for segmenting previously unseen objects from an extremely cluttered scene representative of recycling facilities. More details and examples are included in [the full text]({{ site.baseurl }}/assets/w23/projects/reports/da-trash/da-trash.pdf){: target="_blank" rel="noopener noreferrer"}.
 
 Based on the observed qualitative segmentation results, we next set out to establish how the accuracy of *Da-TRASH* compares to an RGB-only baseline, which does not use estimated depth for producing segmentation output. To perform this comparison, the [Object Segmentation Database (Richtsfeld et al., 2012)](https://www.acin.tuwien.ac.at/en/vision-for-robotics/software-tools/osd/){: target="_blank" rel="noopener noreferrer"} was chosen as it includes segmentation labels that can be used for quantitative evaluation. Results from this comparison are included in the following table, showing *Da-TRASH* has improved accuracy according to the F1-score, over an RGB-only baseline and a depth-only baseline:
 
 <div class="center-image">
-<img style="width:65%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="/assets/w23/projects/reports/da-trash/table.ii.webp" />
+<img style="width:65%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="{{ site.baseurl }}/assets/w23/projects/reports/da-trash/table.ii.webp" />
 </div>
 
 Moreover, qualitative results from this Object Segmentation Dataset are included below:
 
 <div class="center-image">
-<img style="width:55%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="/assets/w23/projects/reports/da-trash/qualitative-2.webp" />
+<img style="width:55%;" alt="Quantitative measures of Da-Trash segmentation accuracy on" src="{{ site.baseurl }}/assets/w23/projects/reports/da-trash/qualitative-2.webp" />
 </div>
 
-For additional details and experimental results, the reader is referred to [the full project report](/assets/w23/projects/reports/da-trash/da-trash.pdf){: target="_blank" rel="noopener noreferrer"}.
+For additional details and experimental results, the reader is referred to [the full project report]({{ site.baseurl }}/assets/w23/projects/reports/da-trash/da-trash.pdf){: target="_blank" rel="noopener noreferrer"}.
 
 
 

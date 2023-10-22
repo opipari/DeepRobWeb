@@ -7,4 +7,4 @@ Apr 18
   : [📖 R. P. Feynman, Cargo Cult Science](https://calteches.library.caltech.edu/51/2/CargoCult.htm){: target="_blank" rel="noopener noreferrer"}
 
 Apr 21
-: [**Final Project Due**{: .label .label-red }](/projects/finalproject/){: .project-link}
+: [**Final Project Due**{: .label .label-red }]({{ site.baseurl }}/projects/finalproject/){: .project-link}

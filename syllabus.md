@@ -74,11 +74,11 @@ In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 10
 
 ## Programming Projects
 
-You will complete 5 programming [projects](/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
+You will complete 5 programming [projects]({{ site.baseurl }}/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
 
 ## Final Project
 
-Instead of a final exam at the end of the semester, you will complete a [final project](/projects/finalproject/) working in groups of 1 to 3 students.
+Instead of a final exam at the end of the semester, you will complete a [final project]({{ site.baseurl }}/projects/finalproject/) working in groups of 1 to 3 students.
 
 The final project will entail five core deliverables: (1) a written paper review, (2) an in-class paper presentation, (3) reproducing the published results of an existing deep learning paper, (4) extending the chosen paper's methods and (5) documenting your reproduction and extension in a written report.
 
@@ -92,12 +92,12 @@ Throughout the semester, there will be a total of 16 quizzes administered throug
 
 Course grades will be determined according to the following criteria:
 
- - [Project 0](/projects/project0/):     12%
- - [Project 1](/projects/project1/):     12%
- - [Project 2](/projects/project2/):     12%
- - [Project 3](/projects/project3/):     12%
- - [Project 4](/projects/project4/):     12%
- - [Final Project](/projects/finalproject/):
+ - [Project 0]({{ site.baseurl }}/projects/project0/):     12%
+ - [Project 1]({{ site.baseurl }}/projects/project1/):     12%
+ - [Project 2]({{ site.baseurl }}/projects/project2/):     12%
+ - [Project 3]({{ site.baseurl }}/projects/project3/):     12%
+ - [Project 4]({{ site.baseurl }}/projects/project4/):     12%
+ - [Final Project]({{ site.baseurl }}/projects/finalproject/):
    - Paper Review: 3%
    - Paper Presentation: 3%
    - Paper Reproduction: 6%
