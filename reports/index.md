@@ -6,7 +6,6 @@ description: >-
 nav_order: 7
 has_children: false
 has_toc: false
-permalink: /reports/
 ---
 
 # Final Project Reports
@@ -14,7 +13,7 @@ permalink: /reports/
 
 
 
-### [Example Project: A final project template for DeepRob](/reports/example/)
+### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Huijie Zhang, Jiyue Zhu, Karthik Desingh, and Odest Chadwicke Jenkins
 
 

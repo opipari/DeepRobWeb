@@ -10,7 +10,7 @@ has_toc: true
 # Deep Learning Research Papers for Robot Perception
 {:.no_toc}
 
-A collection of deep learning research papers with coverage in perception and associated robotic tasks. Within each research area outlined below, the course staff has identified a *core* and *extended* set of research papers. The *core* set of papers will form the basis of our seminar-style lectures starting in [week 8](/calendar/#week-8-3d-perception). The *extended* set provides additional coverage of even more exciting work being done within each area.
+A collection of deep learning research papers with coverage in perception and associated robotic tasks. Within each research area outlined below, the course staff has identified a *core* and *extended* set of research papers. The *core* set of papers will form the basis of our seminar-style lectures starting in [week 8]({{ site.baseurl }}/calendar/#week-8-3d-perception). The *extended* set provides additional coverage of even more exciting work being done within each area.
 
 ---
 
@@ -24,7 +24,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # RGB-D Architectures 
 
-[Scheduled Week 8, Lec 14](/calendar/#lec-14)
+[Scheduled Week 8, Lec 14]({{ site.baseurl }}/calendar/#lec-14)
 
 ### Core List
 {: .no_toc }
@@ -58,7 +58,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Point Cloud Processing
 
-[Scheduled Week 8, Lec 15](/calendar/#lec-15)
+[Scheduled Week 8, Lec 15]({{ site.baseurl }}/calendar/#lec-15)
 
 ### Core List
 {: .no_toc }
@@ -89,7 +89,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Object Pose, Geometry, SDF, Implicit surfaces
 
-[Scheduled Week 9, Lec 16](/calendar/#lec-16)
+[Scheduled Week 9, Lec 16]({{ site.baseurl }}/calendar/#lec-16)
 
 ### Core List
 {: .no_toc }
@@ -117,7 +117,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Dense Descriptors, Category-level Representations 
 
-[Scheduled Week 9, Lec 17](/calendar/#lec-17)
+[Scheduled Week 9, Lec 17]({{ site.baseurl }}/calendar/#lec-17)
 
 ### Core List
 {: .no_toc }
@@ -143,7 +143,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Recurrent Networks and Object Tracking 
 
-[Scheduled Week 10, Lec 18](/calendar/#lec-18)
+[Scheduled Week 10, Lec 18]({{ site.baseurl }}/calendar/#lec-18)
 
 ### Core List
 {: .no_toc }
@@ -170,7 +170,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Visual Odometry and Localization 
 
-[Scheduled Week 10, Lec 19](/calendar/#lec-19)
+[Scheduled Week 10, Lec 19]({{ site.baseurl }}/calendar/#lec-19)
 
 ### Core List
 {: .no_toc }
@@ -210,7 +210,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Semantic Scene Graphs and Explicit Representations 
 
-[Scheduled Week 11, Lec 20](/calendar/#lec-20)
+[Scheduled Week 11, Lec 20]({{ site.baseurl }}/calendar/#lec-20)
 
 ### Core List
 {: .no_toc }
@@ -242,7 +242,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Neural Radiance Fields and Implicit Representations 
 
-[Scheduled Week 11, Lec 21](/calendar/#lec-21)
+[Scheduled Week 11, Lec 21]({{ site.baseurl }}/calendar/#lec-21)
 
 ### Core List
 {: .no_toc }
@@ -285,7 +285,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Datasets 
 
-[Scheduled Week 12, Lec 22](/calendar/#lec-22)
+[Scheduled Week 12, Lec 22]({{ site.baseurl }}/calendar/#lec-22)
 
 ### Core List
 {: .no_toc }
@@ -359,7 +359,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Self-Supervised Learning 
 
-[Scheduled Week 12, Lec 23](/calendar/#lec-23)
+[Scheduled Week 12, Lec 23]({{ site.baseurl }}/calendar/#lec-23)
 
 ### Core List
 {: .no_toc }
@@ -384,7 +384,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Grasp Pose Detection 
 
-[Scheduled Week 13, Lec 24](/calendar/#lec-24)
+[Scheduled Week 13, Lec 24]({{ site.baseurl }}/calendar/#lec-24)
 
 ### Core List
 {: .no_toc }
@@ -416,7 +416,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Tactile Perception for Grasping and Manipulation 
 
-[Scheduled Week 13, Lec 25](/calendar/#lec-25)
+[Scheduled Week 13, Lec 25]({{ site.baseurl }}/calendar/#lec-25)
 
 ### Core List
 {: .no_toc }
@@ -456,7 +456,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # Pre-training for Robot Manipulation and Transformer Architectures 
 
-[Scheduled Week 14, Lec 26](/calendar/#lec-26)
+[Scheduled Week 14, Lec 26]({{ site.baseurl }}/calendar/#lec-26)
 
 ### Core List
 {: .no_toc }
@@ -500,7 +500,7 @@ A collection of deep learning research papers with coverage in perception and as
 
 # More Frontiers 
 
-[Scheduled Week 14, Lec 27](/calendar/#lec-27)
+[Scheduled Week 14, Lec 27]({{ site.baseurl }}/calendar/#lec-27)
 
 ### Interpreting Deep Learning Models
 

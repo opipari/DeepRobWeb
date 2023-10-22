@@ -24,7 +24,7 @@ authors:
 
 <!-- This shows how to add an image (or gif) in markdown -->
 <div class="center-image">
-<img alt="Teaser Figure" src="/assets/w23/projects/reports/deeprob.gif" />
+<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/w23/projects/reports/deeprob.gif" />
 </div>
 
 
@@ -37,7 +37,7 @@ This course covers the necessary background of neural-network-based deep learnin
 
 Visual results are great for project webpages; exciting results can captivate an audience and convey dense information efficiently. We suggest including images, figures, animations, and videos on your webpage. For example, static images can be displayed as shown below:
 
-![DeepRob Logo](/assets/logos/favicons/UMich_favicon_dark.png)
+![DeepRob Logo]({{ site.baseurl }}/assets/logos/favicons/UMich_favicon_dark.png)
 
 
 ## Project Video

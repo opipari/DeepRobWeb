@@ -20,27 +20,27 @@ has_toc: false
 --- -->
 
 
-## [Project 0](/projects/)
+## [Project 0]({{ site.baseurl }}/projects/)
 
 Introduction to Python, PyTorch and Google Colab
 
-## [Project 1](/projects/)
+## [Project 1]({{ site.baseurl }}/projects/)
 
 Classification using K-Nearest Neighbors and Linear Models
 
-## [Project 2](/projects/)
+## [Project 2]({{ site.baseurl }}/projects/)
 
 Classification using Fully-connected Neural Networks
 
-## [Project 3](/projects/)
+## [Project 3]({{ site.baseurl }}/projects/)
 
 Classification and Detection using Convolutional Neural Networks
 
-## [Project 4](/projects/)
+## [Project 4]({{ site.baseurl }}/projects/)
 
 Segmentation and Pose Estimation with Deep Learning
 
-## [Final Project](/projects/)
+## [Final Project]({{ site.baseurl }}/projects/)
 
 Published paper review, presentation, reproduction, extension and report
 
