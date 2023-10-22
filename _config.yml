@@ -42,7 +42,7 @@ aux_links:
     - 'https://autograder.io/web/course/199'
   Gradescope:
     - 'https://www.gradescope.com/courses/480760'
-  '<img src="/assets/logos/UMRobotics.png" alt="Link to Michigan Robotics website" class="nav-img">':
+  '<img src="/w23/assets/logos/UMRobotics.png" alt="Link to Michigan Robotics website" class="nav-img">':
     - 'https://robotics.umich.edu/'
   
 
