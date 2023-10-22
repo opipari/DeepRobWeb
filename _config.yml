@@ -21,7 +21,7 @@ baseurl: '/w23' # the subpath of your site, e.g. /blog
 url: 'https://deeprob.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/logos/favicons/UMich_favicon_light.png"
-destination: w23/
+destination: _site/w23/
 
 ga_tracking: G-FX9SVF3WSQ
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
