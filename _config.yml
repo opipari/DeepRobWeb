@@ -89,6 +89,7 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 exclude:
   - .sass-cache/
