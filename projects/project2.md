@@ -16,13 +16,13 @@ The objective of this project is to gain experience building and training neural
  - Generalize your network implementation to fully connected layers.
  - Implement the forward and backward pass for a non-linear activation function (ReLU).
  - Implement and understand the tradeoffs using network regularization techniques.
- - Understand the characteristics of neural network based classification using the [PROPS Classification Dataset](/datasets/props-classification/).
+ - Understand the characteristics of neural network based classification using the [PROPS Classification Dataset]({{ site.baseurl }}/datasets/props-classification/).
 
 
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 2 starter code: P2.zip](/assets/projects/P2.zip)
+    - [Project 2 starter code: P2.zip]({{ site.baseurl }}/assets/projects/P2.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P2'. The 'P2' directory contains all starter code and files needed to complete this project. Please upload the 'P2' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.

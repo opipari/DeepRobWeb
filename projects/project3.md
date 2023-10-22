@@ -16,14 +16,14 @@ The objective of this project is to gain experience building and training convol
  - Apply your network implementation to image classification.
  - Observe improved classification performance using convolutions.
  - Implement the [Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"} architecture for object detection.
- - Understand the characteristics of neural network based object detection using the [PROPS Detection Dataset](/datasets/props-detection/).
+ - Understand the characteristics of neural network based object detection using the [PROPS Detection Dataset]({{ site.baseurl }}/datasets/props-detection/).
 
 
 
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 3 starter code: P3.zip](/assets/projects/P3.zip)
+    - [Project 3 starter code: P3.zip]({{ site.baseurl }}/assets/projects/P3.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P3'. The 'P3' directory contains all starter code and files needed to complete this project. Please upload the 'P3' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.

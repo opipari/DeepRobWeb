@@ -77,7 +77,7 @@ In general, please do not use "I," "you," "the authors," etc. in your reviews. R
 ### Expected Review Format
 {: #review-format }
 
-**Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.** The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX review template](/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+**Student teams in DeepRob should complete a review narrative for their assigned paper as part of the final project.** The review narrative should include the following structure: a paper summary, a review summary, and specific points of feedback. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX review template]({{ site.baseurl }}/assets/projects/DeepRobPaperReview.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
 
 
 #### Paper Summary
@@ -172,7 +172,7 @@ As an example of a robotics research presentation, consider Anthony's presentati
 ### Expected Presentation Format
 {: #presentation-format }
 
-**Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme](/assets/slides/templates/DeepRob_Paper_Presentation.key) or the provided [DeepRob PowerPoint Template](/assets/slides/templates/DeepRob_Paper_Presentation.pptx) for styling your slides.**
+**Student teams in DeepRob should prepare a 10-minute slide-based oral presentation for their assigned paper as part of the final project.** The presentation should include the following structure: background on the problem being addressed, the value proposition, approach and methods, key results, conclusions and directions for future work. **Students are expected to use the provided [DeepRob Keynote Theme]({{ site.baseurl }}/assets/slides/templates/DeepRob_Paper_Presentation.key) or the provided [DeepRob PowerPoint Template]({{ site.baseurl }}/assets/slides/templates/DeepRob_Paper_Presentation.pptx) for styling your slides.**
 
 ### Presentation Deadline
 {: #presentation-deadline }
@@ -240,7 +240,7 @@ The goal for this deliverable is to share the findings of your research in the f
 ### Expected Report Format
 {: #report-format }
 
-**Student teams in DeepRob should complete a written report documenting their paper reproduction and algorithmic extension as part of the final project.** The project report should include the following sections: a paper abstract, an introduction, a related work section, a section describing your algorithmic extension, your experimental setup and results, and finally a conclusion. Final reports are expected to be 4-6 pages, not including references. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX report template](/assets/projects/DeepRobProjectReport.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
+**Student teams in DeepRob should complete a written report documenting their paper reproduction and algorithmic extension as part of the final project.** The project report should include the following sections: a paper abstract, an introduction, a related work section, a section describing your algorithmic extension, your experimental setup and results, and finally a conclusion. Final reports are expected to be 4-6 pages, not including references. **Students are expected to typeset their reviews using LaTeX in IEEE conference style.** A [LaTeX report template]({{ site.baseurl }}/assets/projects/DeepRobProjectReport.zip) is provided for your convenience. You may write your review collaboratively using online LaTeX tools, such as [Overleaf](https://www.overleaf.com/){: target="_blank" rel="noopener noreferrer"}.
 
 ### Report Deadline
 {: #report-deadline }

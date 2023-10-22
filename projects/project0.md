@@ -15,7 +15,7 @@ The objective of the first project is to gain experience working with the [Pytho
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 0 starter code: P0.zip](/assets/projects/P0.zip)
+    - [Project 0 starter code: P0.zip]({{ site.baseurl }}/assets/projects/P0.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P0'. The 'P0' directory contains all starter code and files needed to complete this project. Please upload the 'P0' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.

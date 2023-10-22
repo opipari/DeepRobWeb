@@ -20,7 +20,7 @@ The objective of this project is to gain experience building and training convol
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 4 starter code: P4.zip](/assets/projects/P4.zip)
+    - [Project 4 starter code: P4.zip]({{ site.baseurl }}/assets/projects/P4.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P4'. The 'P4' directory contains all starter code and files needed to complete this project. Please upload the 'P4' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.

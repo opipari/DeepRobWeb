@@ -16,14 +16,14 @@ The objective of this project is to gain experience building a machine learning 
  - Implement a Multiclass Support Vector Machine classifier.
  - Implement a Softmax classifier.
  - Understand the differences and tradeoffs between each of these classifiers.
- - Understand the characteristics of instance-level classification using the [PROPS Classification Dataset](/datasets/props-classification/).
+ - Understand the characteristics of instance-level classification using the [PROPS Classification Dataset]({{ site.baseurl }}/datasets/props-classification/).
  - Practice with cross validating your machine learning models.
 
 
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 1 starter code: P1.zip](/assets/projects/P1.zip)
+    - [Project 1 starter code: P1.zip]({{ site.baseurl }}/assets/projects/P1.zip)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P1'. The 'P1' directory contains all starter code and files needed to complete this project. Please upload the 'P1' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.
