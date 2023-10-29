@@ -143,3 +143,58 @@ summary {
   text-align: center;
 }
 
+
+.banner-container {
+  margin-top: -1rem;
+  margin-right: -1rem;
+  width: auto;
+  position: relative;
+  text-align: left;
+}
+
+.banner-info {
+  position: absolute;
+  top: 7%;
+  text-shadow: 0 0 1rem #FFFFFF, 0 0 1rem #FFFFFF, 0 0 1rem #FFFFFF, 0 0 1rem #FFFFFF, 0 0 1rem #FFFFFF, 0 0 1rem #FFFFFF;
+}
+
+.banner-title {
+  font-size: 7vw;
+  font-weight: 600;
+  color: $grey-dk-300;
+}
+
+.banner-subtitle {
+  font-size: 4.5vw;
+  font-weight: 400;
+  margin-bottom: 7vw;
+  color: $grey-dk-250;
+}
+
+.banner-text {
+  font-size: 3.15vw;
+  font-weight: 300;
+}
+
+
+
+@media (min-width: 50rem) {
+  
+  .banner-container {
+    margin-top: -2rem;
+    margin-right: -2rem;
+  }
+
+  .banner-title {
+    font-size: 5.25vw;
+  }
+
+  .banner-subtitle {
+    font-size: 3.5vw;
+    margin-bottom: 5.5vw;
+  }
+
+  .banner-text {
+    font-size: 2.5vw;
+  }
+}

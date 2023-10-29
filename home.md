@@ -6,10 +6,20 @@ nav_order: 1
 permalink: /
 ---
 
-# DeepRob: Deep Learning for Robot Perception
 
-ROB 498-011 & 599-011, Winter 2024 at The University of Michigan
-{: .fs-6 .fw-300 }
+<div class="banner-container">
+<img src="{{site.baseurl}}/assets/images/banner.jpg" alt="Banner" style="width:100%;">
+<div class="banner-info">
+	<div class="banner-title">DeepRob</div>
+	<div class="banner-subtitle">Deep Learning for Robot Perception</div>
+	<div class="banner-text">
+	ROB 498-011 & 599-011
+	</div>
+	<div class="banner-text">
+	Winter 2024 at The University of Michigan
+	</div>
+</div>
+</div>
 
 {: .highlight }
 This website describes a course still under development. All schedules, syllabus, and plans described on this site are tentative.
