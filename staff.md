@@ -19,13 +19,13 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 </div>
 <div markdown="1" class="staff-column">
 
-# Research Associate
+# Advising Faculty
 
-{% assign research_associates = site.staffers | where: 'role', 'Research Associate' %}
-{% assign num_research_associates = research_associates | size %}
-{% if num_research_associates != 0 %}
+{% assign advising_faculty = site.staffers | where: 'role', 'Advising Faculty' %}
+{% assign num_advising_faculty = advising_faculty | size %}
+{% if num_advising_faculty != 0 %}
 
-{% for staffer in research_associates %}
+{% for staffer in advising_faculty %}
 {{ staffer }}
 {% endfor %}
 {% endif %}

@@ -1,9 +1,8 @@
 ---
 name: Chad Jenkins
-role: Instructor
+role: Advising Faculty
 email: ocj@umich.edu
 website: https://ocj.name/
 photo: chad.webp
-order: 2
 <!-- office-hours: TBD -->
 ---
