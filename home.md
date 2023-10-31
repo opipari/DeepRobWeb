@@ -12,6 +12,8 @@ permalink: /
 <div class="banner-info">
 	<div class="banner-title">DeepRob</div>
 	<div class="banner-subtitle">Deep Learning for Robot Perception</div>
+</div>
+<div class="banner-sub-info">
 	<div class="banner-text">
 	ROB 498-011 & 599-011
 	</div>
@@ -19,7 +21,9 @@ permalink: /
 	Winter 2024 at The University of Michigan
 	</div>
 </div>
+
 </div>
+
 
 {: .highlight }
 This website describes a course still under development. All schedules, syllabus, and plans described on this site are tentative.
