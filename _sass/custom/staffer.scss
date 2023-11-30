@@ -1,5 +1,19 @@
 .staff-row {
-  
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+  display: inline; 
+}
+
+.staffer-info {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.staff-column {
+  width: 100%;
 
   -webkit-column-count: 1;
   -moz-column-count: 1;
@@ -12,19 +26,6 @@
     column-count: 2;
     display: flex;
   }
-
-  
-}
-
-.staffer-info {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-direction: column;
-}
-
-.staff-column {
-  width: 100%;
 }
 
 .staffer {

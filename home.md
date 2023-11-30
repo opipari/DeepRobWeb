@@ -41,10 +41,9 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 ---
 
-<div class="staff-row" >
-<div markdown="1" class="staff-column">
 
 # Instructors
+<div markdown="1" class="staff-column">
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' |sort: 'order' %}
 {% for staffer in instructors %}
@@ -52,9 +51,23 @@ This course builds on and is indebted to these existing courses (as a “star”
 {% endfor %}
 
 </div>
+
+# Graduate Student Instructor
 <div markdown="1" class="staff-column">
 
+{% assign gsis = site.staffers | where: 'role', 'Graduate Student Instructor' |sort: 'order' %}
+{% assign num_gsis = gsis | size %}
+{% if num_gsis != 0 %}
+
+{% for staffer in gsis %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+</div>
+
 # Advising Faculty
+<div markdown="1" class="staff-column">
 
 {% assign advising_faculty = site.staffers | where: 'role', 'Advising Faculty' %}
 {% assign num_advising_faculty = advising_faculty | size %}
@@ -65,6 +78,5 @@ This course builds on and is indebted to these existing courses (as a “star”
 {% endfor %}
 {% endif %}
 
-</div>
 </div>
 

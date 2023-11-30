@@ -606,6 +606,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 ### Reinforcement Learning
 
+- [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf){: target="_blank" rel="noopener noreferrer"}, Christiano et al., 2017
+
 - [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/){: target="_blank" rel="noopener noreferrer"}, Hilton et al., 2020
 
 
