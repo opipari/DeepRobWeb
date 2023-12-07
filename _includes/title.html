@@ -1,5 +1,9 @@
 {% if site.logo %}
-  <div class="site-logo"></div>{{ site.title }}
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+  <div class="site-logo"></div>
+  <div class="site-sub-logo"><img src="{{site.baseurl}}/assets/logos/DeepRobBlue.svg" alt="DeepRob"/>
+  </div>
+</div>
 {% else %}
   {{ site.title }}
 {% endif %}

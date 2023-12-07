@@ -1,0 +1,50 @@
+
+.shadow {
+  -webkit-filter: drop-shadow( 15px 15px 15px rgba(255, 255, 255, .7));
+  filter: drop-shadow( 15px 15px 15px rgba(255, 255, 255, .7));
+}
+
+$title-svg-rob-count: 3;
+$title-svg-rob-rand: 5+random(35), 5+random(35), 5+random(35);
+
+
+
+@for $i from 1 through $title-svg-rob-count {
+	#title-svg-DeepRob-#{$i + 4} {
+		animation: slowAnimate nth($title-svg-rob-rand, $i) + s infinite nth($title-svg-rob-rand, $i) + s alternate-reverse;
+	    }
+}
+
+@keyframes slowAnimate {
+	0%{
+		stroke-dasharray: 0 5%;
+		stroke-dashoffset: 10%;
+	}
+	100%{
+		stroke-dasharray: 5% 0;
+		stroke-dashoffset: -10%;
+	}
+}
+
+
+$title-svg-rp-count: 15;
+$title-svg-rp-rand: 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17), 4+random(17);
+
+
+
+@for $i from 1 through $title-svg-rp-count {
+	#title-svg-DLxRP-RP-#{$i} {
+		animation: fastAnimate nth($title-svg-rp-rand, $i) + s infinite alternate-reverse;
+	    }
+}
+
+@keyframes fastAnimate {
+	0%{
+		stroke-dasharray: 0 40%;
+		stroke-dashoffset: 30%;
+	}
+	100%{
+		stroke-dasharray: 40% 0;
+		stroke-dashoffset: -30%;
+	}
+}

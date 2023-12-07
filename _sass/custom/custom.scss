@@ -11,6 +11,7 @@
 @import 'button';
 @import 'layout';
 @import 'colors';
+@import 'title_anim';
 
 // Overrides
 code {
@@ -155,7 +156,7 @@ summary {
 
 .banner-info {
   position: absolute;
-  top: 5%;
+  top: 10%;
 }
 
 .banner-sub-info {
@@ -164,13 +165,14 @@ summary {
 }
 
 .banner-title {
-  font-size: 5.25vw;
+  height: 6.5vw;
+  margin-bottom: 0.75vw;
   font-weight: 600;
   color: $grey-dk-300;
 }
 
 .banner-subtitle {
-  font-size: 3.5vw;
+  height: 4.75vw;
   font-weight: 400;
   margin-bottom: 6vw;
   color: $grey-dk-250;
@@ -191,14 +193,43 @@ summary {
   }
 
   .banner-title {
-    font-size: 4.25vw;
+    height: 5.75vw;
   }
 
   .banner-subtitle {
-    font-size: 3.5vw;
+    height: 4vw;
   }
 
   .banner-text {
     font-size: 2.25vw;
   }
 }
+
+
+.site-sub-logo {
+  flex-basis: 0%;
+  display: none;
+
+  img {
+    width: 100%;
+  }
+
+  @include mq(md) { 
+    display: flex;
+    height: 100%;
+    align-items: center;
+    flex-basis: 68%;
+  }
+}
+
+
+
+
+.site-logo {
+  flex-basis: 100%;
+
+  @include mq(md) { 
+    flex-basis: 32%;
+  }
+}
+
