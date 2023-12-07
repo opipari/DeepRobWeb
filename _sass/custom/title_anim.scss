@@ -1,17 +1,54 @@
 
-.shadow {
-  -webkit-filter: drop-shadow( 15px 15px 15px rgba(255, 255, 255, .7));
-  filter: drop-shadow( 15px 15px 15px rgba(255, 255, 255, .7));
+$graf-palt: (#9f0bbd, #27bdc2, #ed55c9, #d402c9, #4b0180, #27bdc2, #ce11f5, #cf0e95, #e8647a, #eb83b0, #469dfa, #803cb0);
+$graf-back: #404b5c;
+
+
+$title-svg-deep-count: 4;
+
+@for $i from 1 through $title-svg-deep-count {
+	#title-svg-DeepRob-#{$i} {
+		fill: nth($graf-palt, $i);
+		stroke: $graf-back;
+		stroke-width: 0.45;
+		animation: grafAnimate 60s linear 0s infinite alternate-reverse;
+	    }
 }
 
+$title-svg-DL-count: 12;
+
+@for $i from 1 through $title-svg-DL-count {
+	#title-svg-DLxRP-DL-#{$i} {
+		fill: nth($graf-palt, $i);
+		stroke: $graf-back;
+		stroke-width: 0.45;
+		animation: grafAnimate 10s linear 0s infinite alternate-reverse;
+	    }
+}
+
+@keyframes grafAnimate {
+	0%{
+		stroke-dasharray: 0% 20%;
+	}
+	20%{
+		stroke-dasharray: 10% 20%;
+	}
+	80%{
+		stroke-dasharray: 20% 10%;
+	}
+	100%{
+		stroke-dasharray: 20% 0%;
+	}
+}
+
+
+
 $title-svg-rob-count: 3;
-$title-svg-rob-rand: 5+random(35), 5+random(35), 5+random(35);
-
-
+$title-svg-rob-rand: 5+random(32), 5+random(32), 5+random(32);
+$title-svg-rob-randd: random(24), random(24), random(24);
 
 @for $i from 1 through $title-svg-rob-count {
 	#title-svg-DeepRob-#{$i + 4} {
-		animation: slowAnimate nth($title-svg-rob-rand, $i) + s infinite nth($title-svg-rob-rand, $i) + s alternate-reverse;
+		animation: slowAnimate nth($title-svg-rob-rand, $i) + s infinite nth($title-svg-rob-randd, $i) + s alternate-reverse;
 	    }
 }
 

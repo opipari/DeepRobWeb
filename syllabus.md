@@ -5,8 +5,9 @@ description: Course policies and information pertaining to Deep Learning for Rob
 nav_order: 2
 ---
 
-# Course Syllabus
+# Course Syllabus: Deep Learning for Robot Perception
 {:.no_toc}
+
 
 ## Table of contents
 {: .no_toc .text-delta }
