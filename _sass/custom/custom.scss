@@ -156,7 +156,7 @@ summary {
 
 .banner-info {
   position: absolute;
-  top: 10%;
+  top: 5%;
 }
 
 .banner-sub-info {
@@ -165,14 +165,14 @@ summary {
 }
 
 .banner-title {
-  height: 7vw;
-  margin-bottom: 0.75vw;
+  height: 8vw;
+  margin-bottom: 1.25vw;
   font-weight: 600;
   color: $grey-dk-300;
 }
 
 .banner-subtitle {
-  height: 4.75vw;
+  height: 5vw;
   font-weight: 400;
   margin-bottom: 6vw;
   color: $grey-dk-250;
@@ -193,11 +193,12 @@ summary {
   }
 
   .banner-title {
-    height: 7vw;
+    height: 7.5vw;
+    margin-bottom: 0.75vw;
   }
 
   .banner-subtitle {
-    height: 4vw;
+    height: 4.25vw;
   }
 
   .banner-text {
