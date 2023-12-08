@@ -234,3 +234,34 @@ summary {
   }
 }
 
+
+
+
+.hr-text {
+  border: 0;
+  @include fs-6;
+  font-weight: 500;
+  position: relative;
+  text-align: center;
+  color: $body-heading-color;
+  line-height: 0em;
+  @include mq(sm) {
+    line-height: 0em;
+  }
+}
+
+.hr-text::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+}
+
+.hr-text::after {
+    background-color: white;
+    content: attr(content);
+    padding: 0 7px;
+    position: relative;
+}
+

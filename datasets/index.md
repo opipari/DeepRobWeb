@@ -2,7 +2,7 @@
 layout: page
 title: Datasets
 description: Overview of the robot perception datasets used throughout the DeepRob course.
-nav_order: 5
+nav_order: 6
 has_children: true
 has_toc: false
 ---

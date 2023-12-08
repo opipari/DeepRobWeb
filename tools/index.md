@@ -2,7 +2,7 @@
 layout: page
 title: Tools
 description: Collection of deep learning tools and frameworks.
-nav_order: 4
+nav_order: 5
 has_children: false
 has_toc: true
 ---
@@ -27,37 +27,110 @@ A collection of tools and projects that support deep learning applications to ro
 
 ## Learning Frameworks
 
-Deep Learning frameworks speed-up model development and testing by providing users with optimized implementations of low-level functions (automatic differentiation, gradient descent, matrix operations, etc.) that can be used as building-blocks for robot applications. Here are some of the most popular:
+Deep Learning frameworks speed-up model development and testing by providing users with optimized implementations of low-level functions (automatic differentiation, gradient descent, matrix operations, etc.) that can be used as building-blocks for robot applications.
 
 
-#### In Python
-{:.no_toc}
+<hr class="hr-text" content="Python">
+Open-source python-based deep learning frameworks have fostered a community and set of tools responsible for many of the core research and engineering developments powering deep learning. Here are some of the most popular python-based frameworks:
 
- - [PyTorch](https://pytorch.org/){: target="_blank" rel="noopener noreferrer"}
+<div style="text-align: center;">
 
- - [JAX](https://jax.readthedocs.io/en/latest/){: target="_blank" rel="noopener noreferrer"}
+	<div style="display:flex; verticle-align: middle; justify-content: space-evenly;">
 
- - [TensorFlow](https://www.tensorflow.org/){: target="_blank" rel="noopener noreferrer"}
+		<div class="logo-container">
+			<a href="https://pytorch.org" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/pytorch.svg" alt="Link to PyTorch software website" class="footer-img" >
+			</a>
+		</div>
 
- - [PaddlePaddle](https://www.paddlepaddle.org.cn/){: target="_blank" rel="noopener noreferrer"}
+		<div class="logo-container">
+			<a href="https://jax.readthedocs.io/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/JAX.svg" alt="Link to JAX software website" class="footer-img" >
+			</a>
+		</div>
+
+		<div class="logo-container">
+			<a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/TF.svg" alt="Link to TensorFlow software website" class="footer-img" >
+			</a>
+		</div>
+
+		<div class="logo-container">
+			<a href="https://www.paddlepaddle.org.cn/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/paddle.png" alt="Link to PaddlePaddle software website" class="footer-img" >
+			</a>
+		</div>
+	</div>
+</div>
+
+<br>
+
+<hr class="hr-text" content="C and C++">
+
+While Python-based learning frameworks typically offer C-APIs, they have been built-on and inspired-by additional open-source projects, including:
+
+<div style="text-align: center;">
+
+	<div style="display:flex; verticle-align: middle; justify-content: space-evenly;">
+
+		<div class="logo-container">
+			<a href="https://pjreddie.com/darknet/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/darknet.png" alt="Link to Darknet software website" class="footer-img" >
+			</a>
+		</div>
+
+		<!-- <div class="logo-container">
+			<a href="https://pjreddie.com/darknet/nightmare/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/nightmare.png" alt="Link to Nightmare software website" class="footer-img" >
+			</a>
+		</div> -->
+
+		<div class="logo-container">
+			<a href="https://caffe.berkeleyvision.org" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/caffe.png" alt="Link to Caffe software website" class="footer-img" >
+			</a>
+		</div>
+
+		<div class="logo-container">
+			<a href="https://caffe2.ai" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/caffe2.png" alt="Link to Caffe2 software website" class="footer-img" >
+			</a>
+		</div>
+	</div>
+</div>
 
 
-#### In C and C++
-{:.no_toc}
+<br>
 
- - [Caffe](https://caffe.berkeleyvision.org/){: target="_blank" rel="noopener noreferrer"}
+<hr class="hr-text" content="Julia">
 
- - [DarkNet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
+The more recent language, Julia, which you may be familiar with through the [ROB curriculum](https://robotics.umich.edu/academic-program/course-offerings/rob101/){: target="_blank" rel="noopener noreferrer"}, also offers deep learning support:
+
+<div style="text-align: center;">
+
+	<div style="display:flex; verticle-align: middle; justify-content: space-evenly;">
+
+		<div class="logo-container">
+			<a href="https://fluxml.ai/Flux.jl/stable/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/flux.png" alt="Link to Flux software website" class="footer-img" >
+			</a>
+		</div>
+
+		<div class="logo-container">
+			<a href="https://alan-turing-institute.github.io/MLJ.jl/" target="_blank" rel="noopener noreferrer" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/logos/external/mlj.svg" alt="Link to MLJ software website" class="footer-img" >
+			</a>
+		</div>
+
+		
+	</div>
+</div>
 
 
-#### In Julia
-{:.no_toc}
-
- - [Flux](https://fluxml.ai/){: target="_blank" rel="noopener noreferrer"}
 
 
 
-## Niche Library Ecosystem
+## Library Ecosystem
 
 A vast number of specialized software libraries have been built upon the popular open-source learning frameworks to provide data structures and algorithms that are customized to specific domains and use-cases. Often, these provide optimized implementations that are useful for a specific group of developers working within a specific sub-area of robot learning while also facilitating interactions and collaborations within the community. Contributing to these open-source projects is valuable and encouraged. Here are a sample that may be related to your interests:
 
