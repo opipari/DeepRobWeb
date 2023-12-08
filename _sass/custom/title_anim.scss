@@ -1,6 +1,6 @@
 
 $graf-palt: (#9f0bbd, #27bdc2, #ed55c9, #d402c9, #4b0180, #27bdc2, #ce11f5, #cf0e95, #e8647a, #eb83b0, #469dfa, #803cb0);
-$graf-back: (#6b0680, #209a9e, #bd42a0, #9c0293, #4b0180, #1c898c, #9a0bb8, #9e0971, #ba4e60, #b86187, #3376bd, #58287a);
+$graf-back: (#4f045e, #197a7d, #a8398e, #800178, #340059, #197a7d, #7c0794, #82075d, #9c404f, #9e5172, #2a65a3, #471f63);
 
 $title-svg-deep-count: 4;
 
@@ -9,7 +9,7 @@ $title-svg-deep-count: 4;
 		fill: nth($graf-palt, $i);
 		stroke: nth($graf-back, $i);
 		stroke-width: 0.45;
-		animation: grafAnimate 7s linear 0s infinite alternate-reverse;
+		
 	    }
 }
 
@@ -47,7 +47,7 @@ $title-svg-rob-randd: random(24), random(24), random(24);
 
 @for $i from 1 through $title-svg-rob-count {
 	#title-svg-DeepRob-#{$i + 4} {
-		animation: slowAnimate nth($title-svg-rob-rand, $i) + s infinite nth($title-svg-rob-randd, $i) + s alternate-reverse;
+		
 	    }
 }
 
