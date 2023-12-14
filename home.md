@@ -116,6 +116,16 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 </div>
 
+# Instructional Assistants
+<div markdown="1" class="staff-column">
+
+{% assign ias = site.staffers | where: 'role', 'Instructional Assistant' | sort: 'order' %}
+{% for staffer in ias %}
+{{ staffer }}
+{% endfor %}
+
+</div>
+
 # Advising Faculty
 <div markdown="1" class="staff-column">
 
