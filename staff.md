@@ -32,7 +32,7 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 
 </div>
 
-# Instructional Assistants
+## Instructional Assistants
 <div markdown="1" class="staff-column">
 
 {% assign ias = site.staffers | where: 'role', 'Instructional Assistant' | sort: 'order' %}
