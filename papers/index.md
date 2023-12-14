@@ -253,9 +253,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 3. [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641){: target="_blank" rel="noopener noreferrer"}, Rosinol et al., 2022
 
-4. [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){: target="_blank" rel="noopener noreferrer"}, Yen-Chen et al., 2022
+4. [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){: target="_blank" rel="noopener noreferrer"}, Lewis et al., 2022
 
-5. [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){: target="_blank" rel="noopener noreferrer"}, Lewis et al., 2022
+5. [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://f3rm.csail.mit.edu){: target="_blank" rel="noopener noreferrer"}, Shen et al., 2023
 
 
 ### Extended List
@@ -281,6 +281,9 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263){: target="_blank" rel="noopener noreferrer"}, Tancik et al., 2022
 
+- [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://yenchenlin.me/nerf-supervision/){: target="_blank" rel="noopener noreferrer"}, Yen-Chen et al., 2022
+
+- [Language Embedded Radiance Fields](https://www.lerf.io){: target="_blank" rel="noopener noreferrer"}, Kerr et al., 2023
 
 
 # Datasets 
@@ -351,6 +354,8 @@ A collection of deep learning research papers with coverage in perception and as
 - [Pybullet, a python module for physics simulation for games, robotics and machine learning](https://pybullet.org/wordpress/){: target="_blank" rel="noopener noreferrer"}, Coumans et al., 2015
 
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){: target="_blank" rel="noopener noreferrer"}
+
+- [CARLA: An Open Urban Driving Simulator](https://carla.org){: target="_blank" rel="noopener noreferrer"}, Dosovitskiy et al., 2017
 
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/abs/2011.07215){: target="_blank" rel="noopener noreferrer"}, Lin et al., 2020
 

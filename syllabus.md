@@ -116,9 +116,12 @@ All code submitted must comply with the [College of Engineering Honor Code](http
 
 No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
 
+
 ## Discussion Forum
 
-The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){: target="_blank" rel="noopener noreferrer"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){: target="_blank" rel="noopener noreferrer"}.
+The [Piazza](https://piazza.com/class/lq4hdf23jvhp1/){: target="_blank" rel="noopener noreferrer"} discussion forum is available for discussion of course materials including lectures and projects. <b>Students are not required to participate, use or join the Piazza forum.</b>
 
-<b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
+<b>Any discussion of quizzes and verbatim code on the Piazza forum must be posted privately.</b>
+
+
 
