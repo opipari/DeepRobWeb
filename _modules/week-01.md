@@ -2,7 +2,7 @@
 title: Week 1
 ---
 
-Jan 17
+Jan 10
 : **Dis 0**{: #dis-0 .label .label-blue } Course Introduction & Google Colab
   : &nbsp;
 
