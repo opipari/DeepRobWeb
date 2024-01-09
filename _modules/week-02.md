@@ -8,7 +8,7 @@ Jan 16
 
 
 Jan 17
-: **Dis 1**{: #dis-1 .label .label-blue } Intro to Python, Pytorch and Colab
+: **Dis 1**{: #dis-1 .label .label-blue } Intro to Python and Pytorch
   : &nbsp;
 
 
