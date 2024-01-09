@@ -119,7 +119,7 @@ No code can be communicated, including verbally. Explicit use of external source
 
 ## Discussion Forum
 
-The [Piazza](https://piazza.com/class/lq4hdf23jvhp1/){: target="_blank" rel="noopener noreferrer"} discussion forum is available for discussion of course materials including lectures and projects. <b>Students are not required to participate, use or join the Piazza forum.</b>
+The [Piazza](https://piazza.com/umich/winter2024/rob498011598012/home){: target="_blank" rel="noopener noreferrer"} discussion forum is available for discussion of course materials including lectures and projects. <b>Students are not required to participate, use or join the Piazza forum.</b>
 
 <b>Any discussion of quizzes and verbatim code on the Piazza forum must be posted privately.</b>
 
