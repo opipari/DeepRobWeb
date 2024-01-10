@@ -94,17 +94,17 @@ Throughout the semester, there will be a total of 16 quizzes administered throug
 
 Course grades will be determined according to the following criteria:
 
- - [Project 0]({{ site.baseurl }}/projects/):     12%
+ - [Project 0]({{ site.baseurl }}/projects/):      6%
  - [Project 1]({{ site.baseurl }}/projects/):     12%
  - [Project 2]({{ site.baseurl }}/projects/):     12%
  - [Project 3]({{ site.baseurl }}/projects/):     12%
  - [Project 4]({{ site.baseurl }}/projects/):     12%
+ - [Lab Presentations]({{ site.baseurl }}/projects/):     10%
  - [Final Project]({{ site.baseurl }}/projects/):
-   - Paper Review: 3%
-   - Paper Presentation: 3%
-   - Paper Reproduction: 6%
-   - Algorithmic Extension: 6%
-   - Written Report: 6%
+   - Paper Review: 5%
+   - Paper Reproduction: 5%
+   - Algorithmic Extension: 5%
+   - Written Report: 5%
 
  - 16 Pre-Lecture Quizzes: 16% (1% each)
 
