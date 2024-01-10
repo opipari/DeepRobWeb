@@ -20,7 +20,7 @@ has_toc: false
 --- -->
 
 
-## [Project 0]({{ site.baseurl }}/projects/)
+## [Project 0]({{ site.baseurl }}/projects/project0/)
 
 Introduction to Python, PyTorch and Google Colab
 
