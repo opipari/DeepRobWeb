@@ -61,6 +61,11 @@ The second half of the course will switch to seminar style covering following ad
 
 There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){: target="_blank" rel="noopener noreferrer"}.
 
+For additional references, consider the following textbooks:
+  - "[Introduction to Robotics and Perception](https://www.roboticsbook.org/){: target="_blank" rel="noopener noreferrer"}" by Frank Dellaert and Seth Hutchinson
+  - "[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/){: target="_blank" rel="noopener noreferrer"}" by Richard Szeliski
+  - "[Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/){: target="_blank" rel="noopener noreferrer"}" by Antonio Torralba, Phillip Isola, and William T. Freeman
+
 
 ## Lectures
 
