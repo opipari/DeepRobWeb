@@ -66,7 +66,7 @@ There is no required textbook for this course, however optional readings will be
 
 Lectures will take place in-person. 
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 906 COOLG**. <!-- Remote access will be available through [Zoom (Meeting ID: 936 5222 5304)](https://umich.zoom.us/j/93652225304){: target="_blank" rel="noopener noreferrer"} -->
+In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 906 COOLG**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
 
 ## Discussion Sections
 
