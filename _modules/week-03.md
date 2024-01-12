@@ -3,14 +3,12 @@ title: Week 3
 ---
 
 Jan 23
-: **Lec 4**{: #lec-4 target="_blank" rel="noopener noreferrer" .label .label-purple } Regularization + Optimization
-  : [📖 231n Optimization](https://cs231n.github.io/optimization-1/){: target="_blank" rel="noopener noreferrer"}
+: **Lec 4**{: #lec-4 target="_blank" rel="noopener noreferrer" .label .label-purple } Neural Networks
+  : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){: target="_blank" rel="noopener noreferrer"}
 : **Quiz 1**{: .label .label-orange }
-  : [📖 GBC Sec 8.1-8.6](https://www.deeplearningbook.org/contents/optimization.html){: target="_blank" rel="noopener noreferrer"}
+  : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Li et al., Visualizing Loss Landscaps](https://arxiv.org/abs/1712.09913){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
-  : [📖 Goh, Why Momentum Really Works](https://distill.pub/2017/momentum/){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Nielsen, Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){: target="_blank" rel="noopener noreferrer"}
 
 
 
@@ -22,12 +20,8 @@ Jan 24
 
 
 Jan 25
-: **Lec 5**{: #lec-5 target="_blank" rel="noopener noreferrer" .label .label-purple } Neural Networks
-  : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
-  : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
-  : [📖 Nielsen, Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){: target="_blank" rel="noopener noreferrer"}
+: **Lec 5**{: #lec-5 target="_blank" rel="noopener noreferrer" .label .label-purple } 
+
 
 
 
