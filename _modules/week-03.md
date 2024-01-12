@@ -20,8 +20,12 @@ Jan 24
 
 
 Jan 25
-: **Lec 5**{: #lec-5 target="_blank" rel="noopener noreferrer" .label .label-purple } 
-
+: **Lec 5**{: #lec-5 target="_blank" rel="noopener noreferrer" .label .label-purple } Backpropagation
+  : [📖 cs231n Backpropagation](https://cs231n.github.io/optimization-2/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 GBC Sec 6.5-6.6](https://www.deeplearningbook.org/contents/mlp.html#pf25){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Olah, Backpropagation](http://colah.github.io/posts/2015-08-Backprop/){: target="_blank" rel="noopener noreferrer"}
 
 
 
