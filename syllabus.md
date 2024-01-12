@@ -119,7 +119,7 @@ The free flow of discussion and ideas is encouraged. <b>However, all work submit
 
 All code submitted must comply with the [College of Engineering Honor Code](https://bulletin.engin.umich.edu/rules/){: target="_blank" rel="noopener noreferrer"}.
 
-No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
+No code can be communicated, including verbally. Explicit use of external sources must be clearly cited. Experimentation with and use of generative AI as an educational tool is encouraged, however any use of AI for course work must abide by the College of Engineering Honor Code and must be clearly cited.
 
 
 ## Discussion Forum
