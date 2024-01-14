@@ -31,14 +31,14 @@ The objective of the first project is to gain experience working with the [Pytho
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://autograder.io/web/course/258){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 2 times per day.
+    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://autograder.io/web/project/2427){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 2 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `pytorch101.ipynb` notebook will generate a `uniqueid_umid_P0.zip` file. The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the [Autograder](https://autograder.io/web/course/258){: target="_blank" rel="noopener noreferrer"} for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://autograder.io/web/project/2427){: target="_blank" rel="noopener noreferrer"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -46,4 +46,4 @@ This project is due on <b>Thursday, January 18th at 11:59pm EST</b>. We suggest 
 
 ## Grading
 
-This project will be graded by the [Autograder](https://autograder.io/web/course/258){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 2 times per day.
+This project will be graded by the [Autograder](https://autograder.io/web/project/2427){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 2 times per day.
