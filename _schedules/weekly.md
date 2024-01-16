@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '8:00 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -20,51 +21,40 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Monday 03/27
+  - name: Mon. 01/15
     events:
-      - name: Huijie's Office Hours
-        start: 2:30 PM
-        end: 3:30 PM
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-  - name: Tuesday 03/28
+      - name: Anthony's Office Hours
+        start: 8:00 AM
+        end: 10:00 AM
+        location: FRB 2000
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+  - name: Tue. 01/16
     events:
-      - name: Huijie's Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-22" style="color:white;">Lecture 22</a>
+      - name: <a href="calendar/#lec-2" style="color:white;">Lecture 2</a>
         start: 3:00 PM
         end: 4:30 PM
-        location: 1060 FMCRB
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        location: 906 COOLG
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: lecture
-      - name: Final Project Checkins
-        start: 4:30 PM
+  - name: Wed. 01/17
+    events:
+      - name: <a href="calendar/#dis-1" style="color:white;">Discussion 1</a>
+        start: 3:30 PM
         end: 5:30 PM
-        location: 1060 FMCRB
-  - name: Wednesday 03/29
-    events:
-  - name: Thursday 03/30
-    events:
-      - name: Jiyue's Office Hours
-        start: 1:00 PM
-        end: 3:00 PM
-        location: 2320 FMCRB
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-      - name: <a href="/calendar/#lec-23" style="color:white;">Lecture 23</a>
-        start: 3:00 PM
-        end: 4:30 PM
-        location: 1060 FMCRB
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
-        class: lecture
-  - name: Friday 03/31
-    events:
-      - name: <a href="/calendar/#dis-12" style="color:white;">Discussion 12</a>
-        start: 4:30 PM
-        end: 5:30 PM
-        location: 1060 FMCRB
-        zoom: <a href="https://umich.zoom.us/j/93652225304" target="_blank" style="color:white;">Zoom Link</a>
+        location: 1311 EECS
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: discussion
+  - name: Thr. 01/18
+    events:
+      - name: <a href="calendar/#lec-3" style="color:white;">Lecture 3</a>
+        start: 3:00 PM
+        end: 4:30 PM
+        location: 1060 FMCRB
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+        class: lecture
+  - name: Fri. 01/19
+    events:
+      
 ---
 
       <!-- - name: Huijie's Office Hours

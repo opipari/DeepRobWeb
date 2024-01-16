@@ -23,7 +23,7 @@
       {% if page.office-hours %}
       <p class="staffer-meta">
         <!-- <span class="fw-700 text-grey-dk-100">Office Hours:</span> {{ page.office-hours | markdownify | strip_html }} -->
-        <span class="fw-700 text-grey-dk-100">Office Hours:</span> <a href="#weekly-schedule">{{ page.office-hours | markdownify | strip_html }}</a>
+        <span class="fw-700 text-grey-dk-100">Office Hours:</span> <a href="{{ site.baseurl }}/weekly-schedule/">{{ page.office-hours | markdownify | strip_html }}</a>
       </p>
       {% endif %}
     {% elsif page.role == "Collaborating Instructor" %}

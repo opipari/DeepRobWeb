@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Jan 16
-: **Lec 2**{: #lec-2 .label .label-purple } Linear Classifiers
+: [**Lec 2**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_linear_classifiers.pdf){: #lec-2 .label .label-purple target="_blank" rel="noopener noreferrer"} [Linear Classifiers]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_linear_classifiers.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📖 231n Linear Classification](https://cs231n.github.io/linear-classify/){: target="_blank" rel="noopener noreferrer"}
 
 

@@ -5,5 +5,5 @@ email: topipari@umich.edu
 website: https://topipari.com
 photo: images/anthony.webp
 order: 2
-<!-- office-hours: TBD -->
+office-hours: Mon. 8-10AM EST @ FRB 2000
 ---
