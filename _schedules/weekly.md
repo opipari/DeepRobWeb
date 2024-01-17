@@ -41,6 +41,7 @@ schedule:
       - name: Edmond's Office Hours
         start: 1:30 PM
         end: 3:30 PM
+        location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
       - name: <a href="calendar/#dis-1" style="color:white;">Discussion 1</a>
         start: 3:30 PM
