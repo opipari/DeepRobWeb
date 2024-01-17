@@ -4,6 +4,8 @@ title: Week 2
 
 Jan 16
 : [**Lec 2**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_linear_classifiers.pdf){: #lec-2 .label .label-purple target="_blank" rel="noopener noreferrer"} [Linear Classifiers]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_linear_classifiers.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/PErYYB){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 231n Linear Classification](https://cs231n.github.io/linear-classify/){: target="_blank" rel="noopener noreferrer"}
 
 
