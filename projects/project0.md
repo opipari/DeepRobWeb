@@ -42,7 +42,7 @@ The objective of the first project is to gain experience working with the [Pytho
 
 ## Deadline
 
-This project is due on <b>Thursday, January 18th at 11:59pm EST</b>. We suggest starting as soon as possible.
+This project is due on <b>Thursday, January 19th at 11:59pm EST</b>. We suggest starting as soon as possible.
 
 ## Grading
 
