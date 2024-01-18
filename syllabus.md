@@ -71,13 +71,13 @@ For additional references, consider the following textbooks:
 
 Lectures will take place in-person. 
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room G906 COOL**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
+In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room COOL G906**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
 
 ## Discussion Sections
 
 Discussions will take place in-person.<!--  with remote accessibility (synchronous and asynchronous).  -->
 
-In-person discussions will be held on **Wednesdays from 3:30-5:30 PM EST in room 1311 EECS**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
+In-person discussions will be held on **Wednesdays from 3:30-5:30 PM EST in room EECS 1311**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
 
 ## Programming Projects
 

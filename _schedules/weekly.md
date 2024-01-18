@@ -33,9 +33,13 @@ schedule:
       - name: <a href="calendar/#lec-2" style="color:white;">Lecture 2</a>
         start: 3:00 PM
         end: 4:30 PM
-        location: 906 COOLG
+        location: COOL G906
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: lecture
+      - name: Xiaoxiao's Office Hours
+        start: 4:30 PM
+        end: 5:15 PM
+        location: COOL G906 (hallway)
   - name: Wed. 01/17
     events:
       - name: Edmond's Office Hours
@@ -46,7 +50,7 @@ schedule:
       - name: <a href="calendar/#dis-1" style="color:white;">Discussion 1</a>
         start: 3:30 PM
         end: 5:30 PM
-        location: 1311 EECS
+        location: EECS 1311
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: discussion
   - name: Thr. 01/18
@@ -54,9 +58,13 @@ schedule:
       - name: <a href="calendar/#lec-3" style="color:white;">Lecture 3</a>
         start: 3:00 PM
         end: 4:30 PM
-        location: 1060 FMCRB
+        location: COOL G906
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: lecture
+      - name: Xiaoxiao's Office Hours
+        start: 4:30 PM
+        end: 5:15 PM
+        location: COOL G906 (hallway)
   - name: Fri. 01/19
     events:
       
