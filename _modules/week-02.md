@@ -10,8 +10,11 @@ Jan 16
 
 
 Jan 17
-: **Dis 1**{: #dis-1 .label .label-blue } Intro to Python and Pytorch
-  : &nbsp;
+: [**Dis 2**]({{ site.baseurl }}/assets/slides/deeprob_discussion_02_pytorch.pdf){: #dis-2 .label .label-blue target="_blank" rel="noopener noreferrer" } [Intro to Python and Pytorch]({{ site.baseurl }}/assets/slides/deeprob_discussion_02_pytorch.pdf){: target="_blank" rel="noopener noreferrer" }
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/XcpmTc){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [![]({{ site.baseurl }}/assets/logos/Jupyter.svg){: .module-logo } **Notebook**]({{ site.baseurl }}/assets/labs/Pytorch_MNIST_demo.ipynb){: target="_blank" rel="noopener noreferrer"}
+
 
 
 Jan 18

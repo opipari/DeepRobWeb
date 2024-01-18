@@ -13,7 +13,7 @@ Jan 23
 
 
 Jan 24
-: **Dis 2**{: #dis-2 target="_blank" rel="noopener noreferrer" .label .label-blue } Intro to PROPS Dataset
+: **Dis 3**{: #dis-3 target="_blank" rel="noopener noreferrer" .label .label-blue } Intro to PROPS Dataset
   : [📖 Chen et al., ProgressLabeller](https://arxiv.org/abs/2203.00283){: target="_blank" rel="noopener noreferrer"}
 
 
