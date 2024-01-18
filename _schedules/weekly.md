@@ -36,7 +36,7 @@ schedule:
         location: COOL G906
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: lecture
-      - name: Xiaoxiao's Office Hours
+      - name: Xiaoxiao's Off. Hrs.
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
@@ -61,7 +61,7 @@ schedule:
         location: COOL G906
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: lecture
-      - name: Xiaoxiao's Office Hours
+      - name: Xiaoxiao's Off. Hrs.
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
