@@ -27,7 +27,7 @@ Jan 31
 Feb 1
 : **Lec 7**{: #lec-7 target="_blank" rel="noopener noreferrer" .label .label-purple } CNN Architectures
   : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
-: **Quiz 3**{: .label .label-orange } **Project 1 due**{: .label .label-red } **Project 2 out**{: .label .label-yellow }
+: **Quiz 3**{: .label .label-orange } [**Project 1 due**{: .label .label-red }]({{ site.baseurl }}/projects/project1/){: .project-link} **Project 2 out**{: .label .label-yellow }
   : [📖 Simonyan and Zisserman, VGG](https://arxiv.org/abs/1409.1556){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Szegedy et al., GoogLeNet](https://arxiv.org/abs/1409.4842){: target="_blank" rel="noopener noreferrer"}
