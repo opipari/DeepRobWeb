@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 
-# Week 2 Schedule
+# Week 3 Schedule
 {: #weekly-schedule }
 
 {% for schedule in site.schedules %}
