@@ -28,7 +28,7 @@ schedule:
         end: 10:00 AM
         location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-      - name: Dalton's Office Hours
+      - name: Dalton's Off. Hrs.
         start: 4:30 PM
         end: 5:30 PM
         location: FRB 2000
