@@ -2,7 +2,7 @@
 name: Dalton Richardson
 role: Instructional Assistant
 email: daltonri@umich.edu
-photo: logos/favicons/UMich_favicon_dark.png
+photo: images/dalton.webp
 order: 2
-<!-- office-hours: TBD -->
+office-hours: Mon. 4:30-5:30PM EST @ FRB 2000
 ---

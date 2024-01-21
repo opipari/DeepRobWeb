@@ -28,6 +28,11 @@ schedule:
         end: 10:00 AM
         location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+      - name: Dalton's Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
+        location: FRB 2000
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
   - name: Tue. 01/23
     events:
       - name: <a href="calendar/#lec-4" style="color:white;">Lecture 2</a>
