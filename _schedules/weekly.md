@@ -32,7 +32,7 @@ schedule:
         start: 3:30 PM
         end: 4:30 PM
         location: BBB First Floor
-        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+        zoom: <a href="https://umich.zoom.us/j/9285446235" target="_blank" style="color:white;">Zoom Link</a>
       - name: Dalton's Off. Hrs.
         start: 4:30 PM
         end: 5:30 PM
