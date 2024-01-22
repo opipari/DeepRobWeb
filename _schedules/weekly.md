@@ -31,7 +31,7 @@ schedule:
       - name: Yifu's Off. Hrs.
         start: 3:30 PM
         end: 4:30 PM
-        location: FRB 2000
+        location: BBB First Floor
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
       - name: Dalton's Off. Hrs.
         start: 4:30 PM
