@@ -55,7 +55,7 @@ schedule:
       - name: Edmond's Office Hours
         start: 1:30 PM
         end: 3:30 PM
-        location: FRB 2000
+        location: FRB 3320
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
       - name: <a href="/w24/calendar/#dis-3" style="color:white;">Discussion 3</a>
         start: 3:30 PM
@@ -79,8 +79,3 @@ schedule:
     events:
       
 ---
-
-      <!-- - name: Huijie's Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: 2320 FMCRB, Zoom ID 936 5222 5304 -->
