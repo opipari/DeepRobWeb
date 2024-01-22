@@ -40,7 +40,7 @@ schedule:
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
   - name: Tue. 01/23
     events:
-      - name: <a href="calendar/#lec-4" style="color:white;">Lecture 2</a>
+      - name: <a href="/w24/calendar/#lec-4" style="color:white;">Lecture 4</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
@@ -57,7 +57,7 @@ schedule:
         end: 3:30 PM
         location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-      - name: <a href="calendar/#dis-3" style="color:white;">Discussion 1</a>
+      - name: <a href="/w24/calendar/#dis-3" style="color:white;">Discussion 3</a>
         start: 3:30 PM
         end: 5:30 PM
         location: EECS 1311
@@ -65,7 +65,7 @@ schedule:
         class: discussion
   - name: Thr. 01/25
     events:
-      - name: <a href="calendar/#lec-5" style="color:white;">Lecture 3</a>
+      - name: <a href="/w24/calendar/#lec-5" style="color:white;">Lecture 5</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
