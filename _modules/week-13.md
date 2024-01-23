@@ -5,7 +5,7 @@ title: Week 13; Perception for Manipulation
 Apr 9
 : **Lec 24**{: #lec-24 .label .label-purple }Grasp Pose Detection
   : [📃 Related Papers]({{ site.baseurl }}/papers/#grasp-pose-detection)
-: **Quiz 14**{: .label .label-orange }
+: [**Quiz 14**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
 
 
 Apr 10

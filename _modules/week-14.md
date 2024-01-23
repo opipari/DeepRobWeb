@@ -5,7 +5,7 @@ title: Week 14; More Frontiers
 Apr 16
 : **Lec 26**{: #lec-26 .label .label-purple } Transformer Architectures
   : [📃 Related Papers]({{ site.baseurl }}/papers/#pre-training-for-robot-manipulation-and-transformer-architectures)
-: **Quiz 15**{: .label .label-orange }
+: [**Quiz 15**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
 
 
 Apr 17

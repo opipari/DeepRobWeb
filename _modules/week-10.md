@@ -5,7 +5,7 @@ title: Week 10; Object Tracking
 Mar 19
 : **Lec 18**{: #lec-18 .label .label-purple target="_blank" rel="noopener noreferrer" } Recurrent Networks, Object Tracking
   : [📃 Related Papers]({{ site.baseurl }}/papers/#recurrent-networks-and-object-tracking)
-: **Quiz 9**{: .label .label-orange } 
+: [**Quiz 9**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } 
 
 
 

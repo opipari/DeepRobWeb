@@ -5,7 +5,7 @@ title: Week 12; Data
 Apr 2
 : **Lec 22**{: #lec-22 .label .label-purple }Datasets for Perception
   : [📃 Related Papers]({{ site.baseurl }}/papers/#datasets)
-: **Quiz 12**{: .label .label-orange }
+: [**Quiz 12**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
 
 
 Apr 3
@@ -15,5 +15,5 @@ Apr 3
 Apr 4
 : **Lec 23**{: #lec-23 .label .label-purple }Self-Supervised Learning
   : [📃 Related Papers]({{ site.baseurl }}/papers/#self-supervised-learning)
-: **Quiz 13**{: .label .label-orange }
+: [**Quiz 13**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
 

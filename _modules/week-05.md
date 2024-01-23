@@ -5,7 +5,7 @@ title: Week 5
 Feb 6
 : **Lec 8**{: #lec-8 .label .label-purple target="_blank" rel="noopener noreferrer"} Training Neural Networks I
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
-: **Quiz 4**{: .label .label-orange }
+: [**Quiz 4**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
 
 
