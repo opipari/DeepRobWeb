@@ -19,7 +19,7 @@ Jan 24
 : [**Dis 3**]({{ site.baseurl }}/assets/slides/deeprob_discussion_03_props_dataset.pdf){: #dis-3 target="_blank" rel="noopener noreferrer" .label .label-blue } [Intro to PROPS Dataset]({{ site.baseurl }}/assets/slides/deeprob_discussion_03_props_dataset.pdf){: target="_blank" rel="noopener noreferrer" }
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/LZCBqF){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [![]({{ site.baseurl }}/assets/logos/Jupyter.svg){: .module-logo } **Notebook**]({{ site.baseurl }}/assets/labs/deeprob_discussion_03_props.zip){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/Jupyter.svg){: .module-logo } **Notebook**]({{ site.baseurl }}/assets/labs/deeprob_discussion_03_props.zip)
 : &nbsp;
   : [📖 Chen et al., ProgressLabeller](https://arxiv.org/abs/2203.00283){: target="_blank" rel="noopener noreferrer"}
 
