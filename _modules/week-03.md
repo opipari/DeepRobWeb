@@ -27,6 +27,8 @@ Jan 24
 
 Jan 25
 : [**Lec 5**]({{ site.baseurl }}/assets/slides/deeprob_lecture_05_backpropagation.pdf){: #lec-5 target="_blank" rel="noopener noreferrer" .label .label-purple } [Backpropagation]({{ site.baseurl }}/assets/slides/deeprob_lecture_05_backpropagation.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/mxxzyw){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 cs231n Backpropagation](https://cs231n.github.io/optimization-2/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 GBC Sec 6.5-6.6](https://www.deeplearningbook.org/contents/mlp.html#pf25){: target="_blank" rel="noopener noreferrer"}
