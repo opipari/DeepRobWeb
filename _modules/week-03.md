@@ -8,7 +8,6 @@ Jan 23
 : [**Quiz 1**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){: target="_blank" rel="noopener noreferrer" }
 : &nbsp;
-
   : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Nielsen, Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){: target="_blank" rel="noopener noreferrer"}
