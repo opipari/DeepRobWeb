@@ -21,13 +21,8 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Mon. 01/22
+  - name: Mon. 01/29
     events:
-      - name: Anthony's Office Hours
-        start: 8:00 AM
-        end: 10:00 AM
-        location: FRB 2000
-        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
       - name: Yifu's Off. Hrs.
         start: 3:30 PM
         end: 4:30 PM
@@ -38,9 +33,9 @@ schedule:
         end: 5:30 PM
         location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-  - name: Tue. 01/23
+  - name: Tue. 01/30
     events:
-      - name: <a href="/w24/calendar/#lec-4" style="color:white;">Lecture 4</a>
+      - name: <a href="/w24/calendar/#lec-6" style="color:white;">Lecture 6</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
@@ -50,22 +45,27 @@ schedule:
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
-  - name: Wed. 01/24
+  - name: Wed. 01/31
     events:
       - name: Edmond's Office Hours
         start: 1:30 PM
         end: 3:30 PM
         location: FRB 3320
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-      - name: <a href="/w24/calendar/#dis-3" style="color:white;">Discussion 3</a>
+      - name: <a href="/w24/calendar/#dis-4" style="color:white;">Discussion 4</a>
         start: 3:30 PM
         end: 5:30 PM
         location: EECS 1311
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: discussion
-  - name: Thr. 01/25
+  - name: Thr. 02/01
     events:
-      - name: <a href="/w24/calendar/#lec-5" style="color:white;">Lecture 5</a>
+      - name: Anthony's Office Hours
+        start: 8:00 AM
+        end: 10:00 AM
+        location: FRB 2000
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+      - name: <a href="/w24/calendar/#lec-7" style="color:white;">Lecture 7</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
@@ -75,7 +75,12 @@ schedule:
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
-  - name: Fri. 01/26
+      - name: Anthony's Office Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: FRB 2000
+        zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
+  - name: Fri. 02/02
     events:
       
 ---
