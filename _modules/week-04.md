@@ -16,7 +16,7 @@ Jan 30
 
 
 Jan 31
-: **Dis 4**{: #lab-4 target="_blank" rel="noopener noreferrer" .label .label-blue } How to Read Research Papers
+: **Dis 4**{: #lab-4 target="_blank" rel="noopener noreferrer" .label .label-blue } Gradient Help
   : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Xiang et al., PoseCNN](https://arxiv.org/abs/1711.00199){: target="_blank" rel="noopener noreferrer"}
