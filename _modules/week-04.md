@@ -4,8 +4,10 @@ title: Week 4
 
 Jan 30
 : [**Lec 6**]({{ site.baseurl }}/assets/slides/deeprob_lecture_06_cnns.pdf){: #lec-6 target="_blank" rel="noopener noreferrer" .label .label-purple } [Convolutional Neural Networks]({{ site.baseurl }}/assets/slides/deeprob_lecture_06_cnns.pdf){: target="_blank" rel="noopener noreferrer" }
-  : [📖 cs231n ConvNets](https://cs231n.github.io/convolutional-networks/){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/oR1QCI){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 2**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
+  : [📖 cs231n ConvNets](https://cs231n.github.io/convolutional-networks/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 GBC Ch. 9](https://www.deeplearningbook.org/contents/convnets.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Araujo et al., Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/){: target="_blank" rel="noopener noreferrer"}
