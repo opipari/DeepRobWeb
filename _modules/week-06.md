@@ -26,7 +26,7 @@ Feb 14
 Feb 15
 : **Lec 11**{: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } Object Detection
   : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 6**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } **Project 2 due**{: .label .label-red } **Project 3 out**{: .label .label-yellow }
+: [**Quiz 6**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 Redmon et al., YOLO](https://arxiv.org/abs/1506.02640){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Lin et al., FCOS](https://arxiv.org/abs/1708.02002){: target="_blank" rel="noopener noreferrer"}
