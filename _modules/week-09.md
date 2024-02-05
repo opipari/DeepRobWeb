@@ -5,7 +5,7 @@ title: Week 9; Rigid Body Objects
 Mar 12
 : **Lec 16**{: #lec-16 .label .label-purple target="_blank" rel="noopener noreferrer" } Object Pose, Geometry, SDF, Implicit Surfaces
   : [📃 Related Papers]({{ site.baseurl }}/papers/#object-pose-geometry-sdf-implicit-surfaces)
-
+: [**Quiz 9**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } 
 
 
 Mar 13
