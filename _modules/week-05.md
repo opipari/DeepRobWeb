@@ -21,7 +21,7 @@ Feb 7
 Feb 8
 : **Lec 9**{: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} Training Neural Networks II
   : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
+: [**Quiz 5**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } 
   : [📖 Goodfellow et al., Adversarial Examples](https://arxiv.org/abs/1412.6572){: target="_blank" rel="noopener noreferrer"}
 
 
