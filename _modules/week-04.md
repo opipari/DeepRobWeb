@@ -28,7 +28,7 @@ Jan 31
 
 Feb 1
 : [**Lec 7**]({{ site.baseurl }}/assets/slides/deeprob_lecture_07_cnn_architectures.pdf){: #lec-7 target="_blank" rel="noopener noreferrer" .label .label-purple } [CNN Architectures]({{ site.baseurl }}/assets/slides/deeprob_lecture_07_cnn_architectures.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/oR1QCI){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/iv82dH){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 3**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Project 1 due**{: .label .label-red }]({{ site.baseurl }}/projects/project1/){: .project-link} [**Project 2 out**{: .label .label-yellow }]({{ site.baseurl }}/projects/project2/){: .project-link}
   : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
