@@ -16,7 +16,7 @@ The objective of this project is to gain experience building and training neural
  - Implement the forward and backward pass for convolutional neural networks.
  - Implement the [Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"} architecture for object detection.
  - Implement and understand the tradeoffs using network regularization techniques.
- - Understand the characteristics of neural network based classification using the [PROPS Classification Dataset]({{ site.baseurl }}/datasets/props-classification/).
+ - Understand the characteristics of neural network based object detection using the [PROPS Detection Dataset]({{ site.baseurl }}/datasets/props-detection/).
 
 ## Instructions
 
