@@ -28,17 +28,17 @@ Introduction to Python, PyTorch and Google Colab
 
 Classification using K-Nearest Neighbors and Linear Models
 
-## [Project 2]({{ site.baseurl }}/projects/)
-
-Classification using Fully-connected Neural Networks
-
-## [Project 3]({{ site.baseurl }}/projects/)
+## [Project 2]({{ site.baseurl }}/projects/project2/)
 
 Classification and Detection using Convolutional Neural Networks
 
-## [Project 4]({{ site.baseurl }}/projects/)
+## [Project 3]({{ site.baseurl }}/projects/)
 
 Segmentation and Pose Estimation with Deep Learning
+
+## [Project 4]({{ site.baseurl }}/projects/)
+
+Neural Rendering for Scene Understanding
 
 ## [Final Project]({{ site.baseurl }}/projects/)
 

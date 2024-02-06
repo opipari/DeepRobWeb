@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Feb 6
-: **Lec 8**{: #lec-8 .label .label-purple target="_blank" rel="noopener noreferrer"} Training Neural Networks I
+: [**Lec 8**]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: #lec-8 .label .label-purple target="_blank" rel="noopener noreferrer"} [CNN Arch. and Object Detection]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 4**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
