@@ -459,7 +459,7 @@ A collection of deep learning research papers with coverage in perception and as
 - [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://arxiv.org/abs/2211.01500){: target="_blank" rel="noopener noreferrer"}, Zhou and Held, 2022
 
 
-# Pre-training for Robot Manipulation and Transformer Architectures 
+# Pre-training for Robot Manipulation 
 
 [Scheduled Week 14, Lec 26]({{ site.baseurl }}/calendar/#lec-26)
 
@@ -499,6 +499,30 @@ A collection of deep learning research papers with coverage in perception and as
 - [Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407){: target="_blank" rel="noopener noreferrer"}, Lynch et al., 2022
 
 - [Transformers are Adaptable Task Planners](https://arxiv.org/abs/2207.02442){: target="_blank" rel="noopener noreferrer"}, Jain et al., 2022
+
+
+
+# Perception Beyond Vision
+
+### Specialized Sensors
+
+- [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
+
+- [Automatic color correction for 3D reconstruction of underwater scenes](https://ieeexplore.ieee.org/abstract/document/7989601){: target="_blank" rel="noopener noreferrer"}, Skinner et al., 2017
+
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2017
+
+- [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){: target="_blank" rel="noopener noreferrer"}, Erickson et al., 2018
+
+- [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Zhao et al., 2018
+
+- [A bio-hybrid odor-guided autonomous palm-sized air vehicle](https://iopscience.iop.org/article/10.1088/1748-3190/abbd81){: target="_blank" rel="noopener noreferrer"}, Anderson et al., 2020
+
+- [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](https://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf){: target="_blank" rel="noopener noreferrer"}, Bryner et al., 2019
+
+- [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2019
+
+- [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221){: target="_blank" rel="noopener noreferrer"}, Qadri et al., 2022
 
 
 
@@ -582,24 +606,6 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632){: target="_blank" rel="noopener noreferrer"}, Cao and Johnson, 2023
 
-
-### Specialized Sensors
-
-- [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
-
-- [Automatic color correction for 3D reconstruction of underwater scenes](https://ieeexplore.ieee.org/abstract/document/7989601){: target="_blank" rel="noopener noreferrer"}, Skinner et al., 2017
-
-- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2017
-
-- [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){: target="_blank" rel="noopener noreferrer"}, Erickson et al., 2018
-
-- [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Zhao et al., 2018
-
-- [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](https://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf){: target="_blank" rel="noopener noreferrer"}, Bryner et al., 2019
-
-- [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2019
-
-- [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221){: target="_blank" rel="noopener noreferrer"}, Qadri et al., 2022
 
 
 ### Beyond 2D Convolutions
