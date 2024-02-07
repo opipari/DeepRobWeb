@@ -4,8 +4,10 @@ title: Week 5
 
 Feb 6
 : [**Lec 8**]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: #lec-8 .label .label-purple target="_blank" rel="noopener noreferrer"} [CNN Arch. and Object Detection]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/NqkTXQ){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 4**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
+  : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 Redmon et al., YOLO](https://arxiv.org/abs/1506.02640){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Lin et al., FCOS](https://arxiv.org/abs/1708.02002){: target="_blank" rel="noopener noreferrer"}
