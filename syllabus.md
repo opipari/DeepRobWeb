@@ -104,9 +104,9 @@ Course grades will be determined according to the following criteria:
  - [Project 2]({{ site.baseurl }}/projects/):     12%
  - [Project 3]({{ site.baseurl }}/projects/):     12%
  - [Project 4]({{ site.baseurl }}/projects/):     12%
- - [Lab Presentations]({{ site.baseurl }}/projects/):     10%
  - [Final Project]({{ site.baseurl }}/projects/):
    - Paper Review: 5%
+   - Paper Presentation: 10%
    - Paper Reproduction: 5%
    - Algorithmic Extension: 5%
    - Written Report: 5%

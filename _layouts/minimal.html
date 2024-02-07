@@ -25,7 +25,7 @@ layout: table_wrappers
         | where_exp:"item", "item.nav_exclude != true"
         | size %}
     {% if pages_top_size > 0 %}
-      {% include nav.html pages=site.html_pages key=nil %}
+      {% include components/nav.html pages=site.html_pages key=nil %}
     {% endif %}
     {% if site.just_the_docs.collections %}
       {% assign collections_size = site.just_the_docs.collections | size %}
@@ -34,7 +34,7 @@ layout: table_wrappers
         {% assign collection_value = collection_entry[1] %}
         {% assign collection = site[collection_key] %}
         {% if collection_value.nav_exclude != true %}
-          {% include nav.html pages=collection key=collection_key %}
+          {% include components/nav.html pages=collection key=collection_key %}
         {% endif %}
       {% endfor %}
     {% endif %}

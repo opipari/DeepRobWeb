@@ -27,7 +27,7 @@ ga_tracking: G-FX9SVF3WSQ
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
+remote_theme: just-the-docs/just-the-docs@v0.7.0
 color_scheme: mich
 search_enabled: true
 heading_anchors: true

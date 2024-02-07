@@ -40,7 +40,7 @@ Segmentation and Pose Estimation with Deep Learning
 
 Neural Rendering for Scene Understanding
 
-## [Final Project]({{ site.baseurl }}/projects/)
+## [Final Project]({{ site.baseurl }}/projects/finalproject/)
 
 Published paper review, presentation, reproduction, extension and report
 
