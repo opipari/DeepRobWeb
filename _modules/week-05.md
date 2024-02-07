@@ -14,7 +14,7 @@ Feb 6
 
 
 Feb 7
-: **Dis 5**{: #dis-5 target="_blank" rel="noopener noreferrer" .label .label-blue } Overview of Final Project Topics
+: [**Dis 5**]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf){: #dis-5 target="_blank" rel="noopener noreferrer" .label .label-blue } [How to Read Research Papers]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf)
   : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){: target="_blank" rel="noopener noreferrer"}
 : [**Final Project out**{: .label .label-yellow }]({{ site.baseurl }}/projects/finalproject/){: .project-link} **Paper Selection Survey Out**{: .label .label-yellow }
 
