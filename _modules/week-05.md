@@ -22,7 +22,7 @@ Feb 7
 Feb 8
 : **Lec 9**{: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} Training Neural Networks I
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 5**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Final Project out**{: .label .label-yellow }]({{ site.baseurl }}/projects/finalproject/){: .project-link} **Interest Survey Out**{: .label .label-yellow }
+: [**Quiz 5**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Final Project out**{: .label .label-yellow }]({{ site.baseurl }}/projects/finalproject/){: .project-link} [**Interest Survey Out**](https://www.gradescope.com/courses/704549/){: .label .label-yellow target="_blank" rel="noopener noreferrer" }
   : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
 
 
