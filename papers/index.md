@@ -505,6 +505,7 @@ A collection of deep learning research papers with coverage in perception and as
 # Perception Beyond Vision
 
 ### Specialized Sensors
+{: .no_toc }
 
 - [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
 
