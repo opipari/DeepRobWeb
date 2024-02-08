@@ -17,6 +17,8 @@ Feb 6
 
 Feb 7
 : [**Dis 5**]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf){: #dis-5 target="_blank" rel="noopener noreferrer" .label .label-blue } [How to Read Research Papers]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf)
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/ndHsc1){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){: target="_blank" rel="noopener noreferrer"}
 
 
