@@ -25,8 +25,10 @@ Feb 7
 
 Feb 8
 : [**Lec 9**]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_object_detection.pdf){: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} [Object Detection]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_object_detection.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/qsg89R){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 5**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Final Project out**{: .label .label-yellow }]({{ site.baseurl }}/projects/finalproject/){: .project-link} [**Interest Survey Out**](https://www.gradescope.com/courses/704549/){: .label .label-yellow target="_blank" rel="noopener noreferrer" }
+  : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
 
 
