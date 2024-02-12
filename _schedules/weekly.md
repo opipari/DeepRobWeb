@@ -21,7 +21,7 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
-  - name: Mon. 02/05
+  - name: Mon. 02/12
     events:
       - name: Anthony's Office Hours
         start: 8:00 AM
@@ -38,9 +38,9 @@ schedule:
         end: 5:30 PM
         location: FRB 2000
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-  - name: Tue. 02/06
+  - name: Tue. 02/13
     events:
-      - name: <a href="/w24/calendar/#lec-8" style="color:white;">Lecture 8</a>
+      - name: <a href="/w24/calendar/#lec-10" style="color:white;">Lecture 10</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
@@ -50,22 +50,22 @@ schedule:
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
-  - name: Wed. 02/07
+  - name: Wed. 02/14
     events:
       - name: Edmond's Office Hours
         start: 1:30 PM
         end: 3:30 PM
         location: FRB 3320
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
-      - name: <a href="/w24/calendar/#dis-5" style="color:white;">Discussion 5</a>
+      - name: <a href="/w24/calendar/#dis-6" style="color:white;">Discussion 6</a>
         start: 3:30 PM
         end: 5:30 PM
         location: EECS 1311
         zoom: <a href="https://umich.zoom.us/j/96524504025" target="_blank" style="color:white;">Zoom Link (deeprob)</a>
         class: discussion
-  - name: Thr. 02/08
+  - name: Thr. 02/15
     events:
-      - name: <a href="/w24/calendar/#lec-9" style="color:white;">Lecture 9</a>
+      - name: <a href="/w24/calendar/#lec-11" style="color:white;">Lecture 11</a>
         start: 3:00 PM
         end: 4:30 PM
         location: COOL G906
@@ -75,7 +75,7 @@ schedule:
         start: 4:30 PM
         end: 5:15 PM
         location: COOL G906 (hallway)
-  - name: Fri. 02/09
+  - name: Fri. 02/16
     events:
       
 ---
