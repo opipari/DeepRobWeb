@@ -26,7 +26,7 @@ Feb 14
 
 
 Feb 15
-: **Lec 11**{: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } Deep Learning Software
+: [**Lec 11**]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } [Training Neural Networks II]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: target="_blank" rel="noopener noreferrer"}
   : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 7**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Interest Survey Due**](https://www.gradescope.com/courses/704549/){: .label .label-red target="_blank" rel="noopener noreferrer" }
   : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
