@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Feb 20
-: **Lec 12**{: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } Object Detectors & Segmentation
+: [**Lec 12**]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } [Deep Learning Software]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf)
   : [📖 Girshick, Fast R-CNN](https://arxiv.org/abs/1504.08083){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 8**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 Ren et al., Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"}
