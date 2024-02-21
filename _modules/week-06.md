@@ -27,8 +27,10 @@ Feb 14
 
 Feb 15
 : [**Lec 11**]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } [Training Neural Networks II]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/CQJTVL){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 7**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Interest Survey Due**](https://www.gradescope.com/courses/704549/){: .label .label-red target="_blank" rel="noopener noreferrer" }
+  : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Abadi et al., TensorFlow](https://arxiv.org/abs/1603.04467){: target="_blank" rel="noopener noreferrer"}
