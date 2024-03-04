@@ -14,7 +14,7 @@ Mar 6
 Mar 7
 : **Lec 15**{: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" } Point Clouds, PointNet, and PointNet++
   : [📃 Related Papers]({{ site.baseurl }}/papers/#pointcloud-processing) 
-: [**Project 3 due**{: .label .label-red }]({{ site.baseurl }}/projects/project3/){: .project-link} **Project 4 out**{: .label .label-yellow }
+
 
 
 

@@ -18,3 +18,4 @@ Mar 13
 Mar 14
 : **Lec 17**{: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" } Dense Descriptors, Category-level Representations
   : [📃 Related Papers]({{ site.baseurl }}/papers/#dense-descriptors-category-level-representations)
+: [**Project 3 due**{: .label .label-red }]({{ site.baseurl }}/projects/project3/){: .project-link} **Project 4 out**{: .label .label-yellow }
