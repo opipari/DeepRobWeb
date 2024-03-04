@@ -16,7 +16,7 @@ Feb 20
 
 Feb 21
 : **Dis 7**{: #dis-7 .label .label-blue target="_blank" rel="noopener noreferrer" } Prelude to 3D Perception
-  : &nbsp;
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/wXEByS){: target="_blank" rel="noopener noreferrer"}
 
 
 
