@@ -21,7 +21,7 @@ Feb 21
 
 
 Feb 22
-: **Lec 13**{: #lec-13 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision Transformers
+: **Lec 13**{: #lec-13 .label .label-purple target="_blank" rel="noopener noreferrer" } Office Hours
   : [📖 Dosovitskiy et al., ViT](https://arxiv.org/abs/2010.11929){: target="_blank" rel="noopener noreferrer"}
 : [**Project 2 due**{: .label .label-red }]({{ site.baseurl }}/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }]({{ site.baseurl }}/projects/project3/){: .project-link}
   : [📖 Li et al., ViTDet](https://arxiv.org/abs/2203.16527){: target="_blank" rel="noopener noreferrer"}

@@ -3,7 +3,9 @@ title: Week 8; 3D Perception
 ---
 
 Mar 5
-: **Lec 14**{: #lec-14 .label .label-purple target="_blank" rel="noopener noreferrer" } RGB-D Architectures
+: **Lec 13**{: #lec-13 .label .label-purple target="_blank" rel="noopener noreferrer" } RGB-D Architectures
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/gn5HkZ){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
   : [📃 Related Papers]({{ site.baseurl }}/papers/#rgb-d-architectures)
 
 
@@ -12,8 +14,10 @@ Mar 6
   : &nbsp;
 
 Mar 7
-: **Lec 15**{: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" } Point Clouds, PointNet, and PointNet++
-  : [📃 Related Papers]({{ site.baseurl }}/papers/#pointcloud-processing) 
+: **Lec 15**{: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision Transformers
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/5B621f){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📃 Related Papers]({{ site.baseurl }}/papers/#extended-list-12) 
 
 
 
