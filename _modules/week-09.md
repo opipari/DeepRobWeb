@@ -7,7 +7,7 @@ Mar 12
 : **Lec 16**{: #lec-16 .label .label-purple target="_blank" rel="noopener noreferrer" } Neural Radiance Fields
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/buWiR2){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 9**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } 
-  : [📃 Related Papers]({{ site.baseurl }}/papers/#neural-radiance-fields-and-implicit-representations)
+  : [📖 Mildenhall, NeRF](https://www.matthewtancik.com/nerf){: target="_blank" rel="noopener noreferrer"}
 
 
 Mar 13
@@ -23,4 +23,9 @@ Mar 14
 : **Lec 17**{: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision-Language Models
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/IozCFR){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 10**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Project 3 due**{: .label .label-red }]({{ site.baseurl }}/projects/project3/){: .project-link} **Project 4 out**{: .label .label-yellow }
-  : [📖 Radford, Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Devlin, BERT](https://arxiv.org/pdf/1810.04805.pdf){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Radford, CLIP](https://arxiv.org/abs/2103.00020){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Kerr, LERF](https://www.lerf.io){: target="_blank" rel="noopener noreferrer"}
+
