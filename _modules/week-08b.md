@@ -11,7 +11,7 @@ Mar 5
 
 Mar 6
 : **Dis 8**{: #dis-8 .label .label-blue target="_blank" rel="noopener noreferrer" } Prelude to Rigid Body Objects
-  : &nbsp;
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/taSZ4h){: target="_blank" rel="noopener noreferrer"}
 
 Mar 7
 : **Lec 15**{: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision Transformers
