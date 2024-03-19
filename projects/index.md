@@ -32,11 +32,11 @@ Classification using K-Nearest Neighbors and Linear Models
 
 Classification and Detection using Convolutional Neural Networks
 
-## [Project 3]({{ site.baseurl }}/projects/)
+## [Project 3]({{ site.baseurl }}/projects/project3/)
 
 Segmentation and Pose Estimation with Deep Learning
 
-## [Project 4]({{ site.baseurl }}/projects/)
+## [Project 4]({{ site.baseurl }}/projects/project4/)
 
 Neural Rendering for Scene Understanding
 
