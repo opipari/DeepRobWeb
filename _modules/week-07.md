@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Feb 20
-: [**Lec 12**]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } [Deep Learning Software]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf)
+: [**Lec 12**]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } [Deep Learning Software]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: target="_blank" rel="noopener noreferrer"}
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/9MA3mu){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 8**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
   : [📖 Girshick, Fast R-CNN](https://arxiv.org/abs/1504.08083){: target="_blank" rel="noopener noreferrer"}

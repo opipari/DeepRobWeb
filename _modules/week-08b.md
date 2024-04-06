@@ -16,7 +16,7 @@ Mar 6
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/taSZ4h){: target="_blank" rel="noopener noreferrer"}
 
 Mar 7
-: **Lec 15**{: #lec-15 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision Transformers
+: **Lec 14**{: #lec-14 .label .label-purple target="_blank" rel="noopener noreferrer" } Vision Transformers
   : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/5B621f){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 Vaswani, Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf){: target="_blank" rel="noopener noreferrer"}
