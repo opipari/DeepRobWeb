@@ -35,4 +35,9 @@ The goal for this deliverable is to share the findings of your research in the f
 ## Report Deadline
 {: #report-deadline }
 
-**The written report is due Friday, April 21st by 11:59PM EST.** Students in DeepRob should submit their written report along with the other final project deliverables (paper reproduction and algorithmic extension) as a ZIP file [via email to the course instructor](mailto:topipari@umich.edu).
+**The written report is due Monday, April 29th by 11:59PM EST.**
+Students in DeepRob should submit the following under Canvas "Final Project" assignment:
+1. An IEEE-style written report (with related work, algorithmic reproduction and extension method descriptions and results).
+2. Link to codes/datasets. This can be included as a section in your written report.
+3. Link to final project video. This should be a self-contained video (i.e., please include title, group members' names, brief description to methods and results). No limit on video length but should describe your projects clearly. Please make sure the instructional team have access to your video.
+- **Optionally:** If you would like to highlight your project with a webpage that can be included in portfolios or linked on social media, for exmple as [illustrated here]({{ site.baseurl }}/reports/example/), contact Anthony to help with formatting.
