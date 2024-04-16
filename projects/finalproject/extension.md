@@ -17,5 +17,5 @@ The goal for this deliverable is to gain experience crafting a small research pr
 ## Algorithmic Extension Deadline
 {: #extension-deadline }
 
-**The algorithmic extension is due Friday, April 21st by 11:59PM EST.** Students in DeepRob should submit their algorithmic extension along with the other final project deliverables (paper reproduction and written report) as a ZIP file [via email to the course instructor](mailto:topipari@umich.edu). **Your submission should be documented and organized such that the course staff can replicate your extension and reported results.**
+**The algorithmic extension is due Friday, April 29th by 11:59PM EST.** Students in DeepRob should submit their algorithmic extension along with the other final project deliverables (paper reproduction and written report) as a ZIP file [via canvas](https://umich.instructure.com/courses/671234/assignments/2340326). **Your submission should be documented and organized such that the course staff can replicate your extension and reported results.**
 
