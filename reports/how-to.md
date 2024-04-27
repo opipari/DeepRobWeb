@@ -263,7 +263,7 @@ where `<PATH_TO_PDF>` and `<PATH_TO_CODE>` are replaced with actual web links. T
 
 ### Project Videos
 
-If you have any video results, those can be displayed either by using HTML video tags or by hosting on a video hosting service like YouTube. YouTube provides iframe HTML code that can be directly embedded into webpages as follows:
+If you have any video results, those can be displayed either by using HTML video tags and hosting the video file with the `assets/` directory or by hosting the video on a service like YouTube. YouTube provides iframe HTML code that can be directly embedded into webpages as follows:
 
 ```html
 <div class="video-wrap">
