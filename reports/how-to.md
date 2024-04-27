@@ -117,6 +117,9 @@ This message indicates a few noteworthy things:
 4. The server is running and hosting our static site at the location: [http://127.0.0.1:4000/w24/](http://127.0.0.1:4000/w24/){: target="_blank" rel="noopener noreferrer"}
 5. We can stop the server by pressing `ctrl-c` or by closing the terminal window
 
+{: .highlight }
+**Note: This server is accessible only on your local development machine.** In other words, it is not publishing anything to the public internet. This is useful because it allows you to develop locally before publishing the final page to the public internet.
+
 Now that the server is running, try navigating to the local site by going to the address: [http://127.0.0.1:4000/w24/](http://127.0.0.1:4000/w24/){: target="_blank" rel="noopener noreferrer"} in your browser. **If this doesn't work, or the website doesn't match the one published at [https://deeprob.org/w24/](https://deeprob.org/w24/){: target="_blank" rel="noopener noreferrer"}, please let [Anthony](mailto:topipari@umich.edu) know.**
 
 
