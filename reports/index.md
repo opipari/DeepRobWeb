@@ -14,7 +14,10 @@ has_toc: false
 
 
 ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
-Anthony Opipari, Huijie Zhang, Jiyue Zhu, Karthik Desingh, and Odest Chadwicke Jenkins
+Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
+
+### [How-To: Make a project website for DeepRob]({{ site.baseurl }}/reports/how-to/)
+Anthony Opipari
 
 
 

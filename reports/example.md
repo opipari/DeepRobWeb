@@ -7,15 +7,15 @@ authors:
   - name: Anthony Opipari
     social: "https://topipari.com"
     affiliation: University of Michigan
-  - name: Huijie Zhang
+  - name: Xiaoxiao Du
     social: "https://www.huijiezh.com/"
     affiliation: University of Michigan
-  - name: Jiyue Zhu
-    social: "https://jiyuezh.github.io/"
+  - name: Edmond Tong
     affiliation: University of Michigan
-  - name: Karthik Desingh
-    social: "https://karthikdesingh.com/"
-    affiliation: University of Minnesota
+  - name: Yifu Lu
+    affiliation: University of Michigan
+  - name: Dalton Richardson
+    affiliation: University of Michigan
   - name: Odest Chadwicke Jenkins
     social: "https://ocj.name/"
     affiliation: University of Michigan
@@ -24,7 +24,7 @@ authors:
 
 <!-- This shows how to add an image (or gif) in markdown -->
 <div class="center-image">
-<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/projects/reports/deeprob.gif" />
+<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/projects/reports/example/deeprob.gif" />
 </div>
 
 
