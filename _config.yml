@@ -78,7 +78,10 @@ defaults:
 
 callouts:
   highlight:
-    color: red
+    color: yellow
+  note:
+    title: Note
+    color: purple
 
 compress_html:
   clippings: all
