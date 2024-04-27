@@ -18,6 +18,13 @@ authors:
 - [Prerequisites](#prerequisites)
 - [Building a Local Clone](#building-a-local-clone)
 - [Inspecting an Example Project Page](#inspecting-an-example-project-page)
+    - [Page Formatting](#page-formatting)
+    - [Page Title](#page-title)
+    - [Page Authors](#page-authors)
+    - [Project Images](#project-images)
+    - [Project Links](#project-links)
+    - [Project Videos](#project-videos)
+    - [Embedded Code](#embedded-code)
 - [Adding a New Project Page](#adding-a-new-project-page)
 - [Submitting a Pull Request to Publish your Page](#submitting-a-pull-request-to-publish-your-page)
 - [Contact for Questions](#contact-for-questions)
@@ -213,15 +220,95 @@ authors:
 
 Our provided project layout will format this list of authors into an equally-spaced row. Notice that the `social` attributes for each author are parsed into a proper weblink and that these attributes are optional: any authors that don't have an associated `social` attribute defined do not link to any external page.
 
+### Project Images
 
+Including a captivating image after the author list is a good strategy to summarize your project with a captivating visual element. The following code is used for placing the `deeprob.gif` file located in the `/w24/assets/projects/reports/example/` subdirectory within the example project page:
+
+```html
+<!-- This shows how to add an image (or gif) in markdown -->
+<div class="center-image">
+<img alt="Teaser Figure" src="{{ site.baseurl }}/assets/projects/reports/example/deeprob.gif" />
+</div>
+```
+
+Notice that a css-class named `center-image` is applied as a parent element of our `img` element. The details can be ignored, but we provide this class to help you with centering images.
+
+If we don't care about cenetering, we can more easily include images using the following command:
+
+```markdown
+![Teaser Figure]({{ site.baseurl }}/assets/projects/reports/example/deeprob.gif)
+```
+
+
+### Project Links
+
+We provide default styling for any project-specific links you would like to include. For example, to include links to your report or your codebase, you can include the following code block below your front matter block:
+
+```html
+<div class="project-links" markdown="1">
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report](<PATH_TO_PDF>){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](<PATH_TO_CODE>){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
+</div>
+```
+
+where `<PATH_TO_PDF>` and `<PATH_TO_CODE>` are replaced with actual web links. This block of code results in the following buttons:
+
+<div inert>
+<div class="project-links" markdown="1">
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report](#){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](#){: .btn .btn-grey }
+</div>
+</div>
+
+
+### Project Videos
+
+If you have any video results, those can be displayed either by using HTML video tags or by hosting on a video hosting service like YouTube. YouTube provides iframe HTML code that can be directly embedded into webpages as follows:
+
+```html
+<div class="video-wrap">
+  <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/dx1G7y6mhMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
+```
+
+Placing the above code into your markdown file will result in the following embeded iframe:
+
+<div class="video-wrap">
+  <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/dx1G7y6mhMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+### Embedded Code
+
+If you'd like to embed code, markdown provides [syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks){: target="_blank" rel="noopener noreferrer"}. Simply wrap your code in backticks (\`) for in-line code or for code blocks, wrap your code in backtick-triplets.
+
+````
+```
+# code goes here 
+```
+````
+
+### Other Features!
+
+Feel free to experiment with embedding content into your markdown webpage. For example, [plotly figures](https://plotly.com/chart-studio-help/embed-graphs-in-websites/){: target="_blank" rel="noopener noreferrer"} can be embedded into HTML--even [3D figures](https://plotly.com/python/3d-charts/){: target="_blank" rel="noopener noreferrer"}!
 
 ---
 
 ## Adding a New Project Page
 
-{: .highlight }
-TODO
+Now that we've [inspected an example project page](#inspecting-an-example-project-page), we're ready to design our own! 
 
+**Here are the required steps:**
+
+1. Create a new markdown file (`.md`) and place it within the `reports/` directory
+2. Fill in the markdown file's front matter block as described [above](#page-formatting)
+3. Create a new asset directory with the same name as your markdown file and place the directory within `assets/projects/reports/`
+4. Place any image, video, PDF, or other file assets you would like to host into your new asset directory
+5. Add content to your webpage
 
 ---
 

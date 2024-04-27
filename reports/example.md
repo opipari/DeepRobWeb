@@ -28,6 +28,12 @@ authors:
 </div>
 
 
+<div class="project-links" markdown="1">
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report](#){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/opipari/DeepRobWeb/blob/w24/reports/example.md){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
+</div>
+
+
 ## Abstract
 
 This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
