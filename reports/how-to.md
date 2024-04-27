@@ -39,7 +39,7 @@ Before we can develop a new webpage and style it with our final project content,
 
 
 {: .highlight }
-As part of the Ruby installation, another tool called '[Bundler](https://jekyllrb.com/docs/installation/){: target="_blank" rel="noopener noreferrer"}' should be installed automatically. We'll use Bundler to manage our Ruby dependencies for building the static site with Jekyll.
+As part of the Ruby installation, another tool called '[Bundler](https://bundler.io/){: target="_blank" rel="noopener noreferrer"}' should be installed automatically. We'll use Bundler to manage our Ruby dependencies for building the static site with Jekyll.
 
 
 

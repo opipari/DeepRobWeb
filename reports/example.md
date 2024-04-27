@@ -8,7 +8,7 @@ authors:
     social: "https://topipari.com"
     affiliation: University of Michigan
   - name: Xiaoxiao Du
-    social: "https://www.huijiezh.com/"
+    social: "https://xiaoxiaodu.net/"
     affiliation: University of Michigan
   - name: Edmond Tong
     affiliation: University of Michigan
