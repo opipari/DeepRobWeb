@@ -211,7 +211,7 @@ authors:
     affiliation: University of Michigan
 ```
 
-Our provided project layout will format this list of authors into an equal-spaced row. Notice that the `social` attributes for each author are parsed into a proper weblink and that these attributes are optional: any authors that don't have an associated `social` attribute defined do not link to any external page.
+Our provided project layout will format this list of authors into an equally-spaced row. Notice that the `social` attributes for each author are parsed into a proper weblink and that these attributes are optional: any authors that don't have an associated `social` attribute defined do not link to any external page.
 
 
 
