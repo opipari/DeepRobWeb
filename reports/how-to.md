@@ -353,12 +353,9 @@ Now that you've made a webpage, let's make a pull request to the DeepRobWeb repo
     git push projectfork w24
     ```
 
-7. Next, checkout a new branch 
+7. In the GitHub GUI look for and click the 'Compare & Pull request' button
 
-   ```sh
-    git checkout -b <your_user_name>/final_project && push -u projectfork <your_user_name>/final_project
-   ```
-
+8. After clicking this button, you can submit your pull request! After this, I (Anthony) will review the changes and then publish them to the official repository and webpage.
 ---
 
 ## Contact for Questions
