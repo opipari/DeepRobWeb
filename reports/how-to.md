@@ -355,7 +355,13 @@ Now that you've made a webpage, let's make a pull request to the DeepRobWeb repo
 
 7. In the GitHub GUI look for and click the 'Compare & Pull request' button
 
+    ![Image of compare button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/compare_button.webp)
+
 8. After clicking this button, you can submit your pull request! After this, I (Anthony) will review the changes and then publish them to the official repository and webpage.
+
+    ![Image of pull request button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/pull_request_button.webp)
+
+
 ---
 
 ## Contact for Questions
