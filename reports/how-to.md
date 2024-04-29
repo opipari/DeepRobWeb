@@ -96,6 +96,9 @@ Our goal here is to end up with an exact replica of [deeprob.org/w24/](https://d
     bundle exec jekyll serve
     ```
 
+{: .highlight }
+If your build fails with an error message involving webrick not being included in your version of Ruby, you may need to run `gem install webrick` before running the `bundle exec` command in the above step 4.
+
 After running the above commands, you should see terminal output similar to what's shown below:
 
 ```sh
