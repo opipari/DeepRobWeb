@@ -30,9 +30,10 @@ authors:
 
 ## Abstract
 
-SORNet (Spatial Object-Centric Representation Network) is a network architecture that takes an RBG image with several canonical object views and outputs object-centric embeddings. The authors of the original paper trained and tested SORnet on their custom Leonardo and Kitchen data sets, as well as the CLEVR dataset. We expanded SORnet's capability by training it on PROPS Dataset, which was extensively used throughout this course. Training SORNet with PROPS dataset allow us to test its capabilities to a real-world dataset in order to better understand how it performs in real-life applications.
+SORNet (Spatial Object-Centric Representation Network) is a network architecture that takes an RBG image with several canonical object views and outputs object-centric embeddings. The authors of the original paper trained and tested SORnet on their custom Leonardo and Kitchen data sets, as well as the CLEVR dataset (Compositional Language and Elementary Visual Reasoning). We expanded SORnet's capability by training it on PROPS Dataset (Progress Robot Object Perception Samples), which was extensively used throughout this course. Training SORNet with PROPS dataset allow us to test its capabilities to a real-world dataset in order to better understand how it performs in real-life applications.
 
 ## Introduction
+There are a plethora of applications for robots that can perform sequential tasks that involve manipulating objects around them. These tasks can range from object assembly to organizing and sorting to packing to much more. However, in order to perform these tasks, robots need a way to recognize the orientation of objects in the world frame and in relation to each other. Having accurate results on the positional relationships between objects in a real-world setting is important in order to perform those tasks. So we tackled applying SORNet to real-world data through training it on the PROPS dataset.
 
 ## Algorithmic Extension
 Our update to SORnet introduces an algorithmic extension designed to boost its performance with real-world data. By developing a base class to compute relations on 3D pose or bounding box datasets, we have made it possible for SORnet to process a diverse range of datasets, including scene images, identifiable objects, and 3D object coordinates. Users only need to overload a few methods to return image and object data, and their dataset will be compatable with SORNet. This enhancement notably streamlines the conversion of data into a format that SORnet can handle.
@@ -279,4 +280,4 @@ If you found our work helpful, consider citing us with the following BibTeX refe
 
 ## Contact
 
-If you have any questions, feel free to contact [Jace Aldrich, Ariana Verges and Hannah Ho](mailto:jacealdr@umich.edu?cc=alarian@umich.edu).
+If you have any questions, feel free to contact [Jace Aldrich, Ariana Verges and Hannah Ho](mailto:jacealdr@umich.edu&cc=alarian@umich.edu;hdho@umich.edu).
