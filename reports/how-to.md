@@ -317,9 +317,47 @@ Now that we've [inspected an example project page](#inspecting-an-example-projec
 
 ## Submitting a Pull Request to Publish your Page
 
-{: .highlight }
-TODO
+Now that you've made a webpage, let's make a pull request to the DeepRobWeb repository to publish your webpage on the internet.
 
+**Here are the required steps:**
+
+1. Fork the [DeepRobWeb](https://github.com/opipari/DeepRobWeb){: target="_blank" rel="noopener noreferrer"} repository
+
+    ![Image of fork button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/fork_button.webp)
+
+2. Make sure to uncheck the box asking if you want to copy only the `main` branch
+
+    ![Image of fork options on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/fork_options.webp)
+
+3. Add your fork as a remote
+
+    ```sh
+    git remote add projectfork git@github.com:<your_user_name>/DeepRobWeb.git
+    ```
+
+4. Now sync your project with `origin` (i.e. the remote [DeepRobWeb](https://github.com/opipari/DeepRobWeb){: target="_blank" rel="noopener noreferrer"} repository)
+
+    ```sh
+    git pull origin w24
+    ```
+
+5. Now add any asset files and commit your changes
+
+    ```sh
+    git add <files> && git commit -m "Adding my final project webpage" <files>
+    ```
+
+6. We're now ready to push your changes into your forked repository
+  
+    ```sh
+    git push projectfork w24
+    ```
+
+7. Next, checkout a new branch 
+
+   ```sh
+    git checkout -b <your_user_name>/final_project && push -u projectfork <your_user_name>/final_project
+   ```
 
 ---
 
