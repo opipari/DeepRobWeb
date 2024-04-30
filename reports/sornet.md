@@ -264,6 +264,25 @@ With respect to the training process, the PROPS datset had an initial period of 
 </table>
 </div>
 
+## Other Dataset Use
+We highly encourage you to checkout our code and train sornet on your own datasets! Checkout our example usage in our SORNET fork and our example implementaion for the PROPS dataset
+
+<div class="project-links" markdown="1">
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Dataset Code](https://github.com/Jaldrich2426/PROPS-Relation-Dataset){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Model Code](https://github.com/Jaldrich2426/sornet){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
+</div>
+
+
+To use this framework with another dataset, simply create a new file and overload the BaseRelationDataset class, following the exmaple in PropsRelationDataset. You need to overload each method that raises a "NotImplemented" error in the same manner as which PROPS does. If there is an existing dataset manager class, initialize it in the
+
+  ```python
+  _init_parent_dataset()
+  ```
+
+method of your derived class to make the implementation easier. Otherwise, load the appropriate file information in each class method and the base class should handle the relation information automatically, provided that the camera frame uses the standard notation.
+
+If you would like to add further relations, simply overload the ```get_spatial_relations()``` method, and watch for any locations a "4" was hardcoded for the number of relations.
+
 ## Citation
 
 If you found our work helpful, consider citing us with the following BibTeX reference:
