@@ -22,7 +22,7 @@ authors:
 
 
 <div class="project-links" markdown="1">
-[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report](#){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/sornet/Sornet_Props_Report.pdf){: .btn .btn-grey .mr-6 }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Dataset Code](https://github.com/Jaldrich2426/PROPS-Relation-Dataset){: .btn .btn-grey .mr-6 }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Model Code](https://github.com/Jaldrich2426/sornet){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
