@@ -96,6 +96,9 @@ Our goal here is to end up with an exact replica of [deeprob.org/w24/](https://d
     bundle exec jekyll serve
     ```
 
+{: .highlight }
+If your build fails with an error message involving webrick not being included in your version of Ruby, you may need to run `gem install webrick` before running the `bundle exec` command in the above step 4.
+
 After running the above commands, you should see terminal output similar to what's shown below:
 
 ```sh
@@ -317,8 +320,49 @@ Now that we've [inspected an example project page](#inspecting-an-example-projec
 
 ## Submitting a Pull Request to Publish your Page
 
-{: .highlight }
-TODO
+Now that you've made a webpage, let's make a pull request to the DeepRobWeb repository to publish your webpage on the internet.
+
+**Here are the required steps:**
+
+1. Fork the [DeepRobWeb](https://github.com/opipari/DeepRobWeb){: target="_blank" rel="noopener noreferrer"} repository
+
+    ![Image of fork button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/fork_button.webp)
+
+2. Make sure to uncheck the box asking if you want to copy only the `main` branch
+
+    ![Image of fork options on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/fork_options.webp)
+
+3. Add your fork as a remote
+
+    ```sh
+    git remote add projectfork git@github.com:<your_user_name>/DeepRobWeb.git
+    ```
+
+4. Now sync your project with `origin` (i.e. the remote [DeepRobWeb](https://github.com/opipari/DeepRobWeb){: target="_blank" rel="noopener noreferrer"} repository)
+
+    ```sh
+    git pull origin w24
+    ```
+
+5. Now add any asset files and commit your changes
+
+    ```sh
+    git add <files> && git commit -m "Adding my final project webpage" <files>
+    ```
+
+6. We're now ready to push your changes into your forked repository
+  
+    ```sh
+    git push projectfork w24
+    ```
+
+7. In the GitHub GUI look for and click the 'Compare & Pull request' button
+
+    ![Image of compare button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/compare_button.webp)
+
+8. After clicking this button, you can submit your pull request! After this, I (Anthony) will review the changes and then publish them to the official repository and webpage.
+
+    ![Image of pull request button on github graphic user interface]({{ site.baseurl }}/assets/projects/reports/how-to/pull_request_button.webp)
 
 
 ---
