@@ -12,6 +12,8 @@ has_toc: false
 {:.no_toc}
 
 
+### [Automatic Data Generation for SORNet&#58; PROPS Relation Dataset]({{ site.baseurl }}/reports/props-relation/)
+Jace Aldrich, Ariana Verges Alicea, and Hannah Ho
 
 ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
