@@ -63,6 +63,7 @@ There is no required textbook for this course, however optional readings will be
 
 For additional references, consider the following textbooks:
   - "[Introduction to Robotics and Perception](https://www.roboticsbook.org/){: target="_blank" rel="noopener noreferrer"}" by Frank Dellaert and Seth Hutchinson
+  - "[Robotics, Vision and Control](https://link.springer.com/book/10.1007/978-3-642-20144-8){: target="_blank" rel="noopener noreferrer"}" by Peter Corke
   - "[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/){: target="_blank" rel="noopener noreferrer"}" by Richard Szeliski
   - "[Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/){: target="_blank" rel="noopener noreferrer"}" by Antonio Torralba, Phillip Isola, and William T. Freeman
 
