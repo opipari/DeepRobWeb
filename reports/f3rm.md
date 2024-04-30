@@ -99,3 +99,19 @@ GPT-4 can sometimes hallucinate with spatial relationship reasoning. For example
     </video>
   </div>
 </div>
+
+## Citation
+
+If you found our work helpful, consider citing us with the following BibTeX reference:
+
+```
+@article{yinong2023deeprob,
+  title = {Enhance Distilled Feature Field for Better Language Grounding},
+  author = {Yinong He, Yixiang Dai, Huijie Tang},
+  year = {2023}
+}
+```
+
+## Contact
+
+If you have any questions, feel free to contact [Yinong](heyinong@umich.edu).
