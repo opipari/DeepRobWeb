@@ -12,17 +12,18 @@ has_toc: false
 {:.no_toc}
 
 
-### [Automatic Data Generation for SORNet&#58; PROPS Relation Dataset]({{ site.baseurl }}/reports/props-relation/)
+### [Automatic Data Generation for SORNet: PROPS Relation Dataset]({{ site.baseurl }}/reports/props-relation/)
 Jace Aldrich, Ariana Verges Alicea, and Hannah Ho
 
 ### [GrapeRob - A Grape Localization Pipeline for Automated Robotic Harvesting]({{ site.baseurl }}/reports/graperob/)
 Advaith Balaji and Isaac Madhavaram 
 
-### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
+### [OD-VOS: Object Detection for Video Object Segmentation]({{ site.baseurl }}/reports/od-vos/)
+Omer Benharush, Sarah Chan, Jack Kernan, and Max Rucker
+
+<!-- ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
 
 ### [How-To: Make a project website for DeepRob]({{ site.baseurl }}/reports/how-to/)
 Anthony Opipari
-
-
-
+ -->
