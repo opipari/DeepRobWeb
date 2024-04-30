@@ -23,7 +23,7 @@ authors:
 </div>
 
 <div class="project-links" markdown="1">
-[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/example/DeepRobProjectReport.pdf){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/example/graperob_final.pdf){: .btn .btn-grey .mr-6 }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/adi-balaji/grape_juice){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
 
