@@ -21,6 +21,10 @@ Advaith Balaji and Isaac Madhavaram
 ### [OD-VOS: Object Detection for Video Object Segmentation]({{ site.baseurl }}/reports/od-vos/)
 Omer Benharush, Sarah Chan, Jack Kernan, and Max Rucker
 
+### [Choosing how to Grasp the Ungraspable]({{ site.baseurl }}/reports/choosing-ungraspable/)
+Jason Brown, Eli Fox, Jacob Harrelson, and Srushti Hippargi
+
+
 <!-- ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
 
