@@ -15,7 +15,7 @@ authors:
 
 <!-- This shows how to add an image (or gif) in markdown -->
 <div class="center-image">
-<img src="{{ site.baseurl }}/assets/projects/reports/MAE/GAN.jpeg" alt="Teaser Figure" 
+<img src="{{ site.baseurl }}/assets/projects/reports/mae-gan/GAN.webp" alt="Teaser Figure" 
 style="width: 1000px; height: auto;">
 </div>
 
@@ -47,12 +47,12 @@ Both times we ran the code - with just three additional augmentation techniques 
 Adaptive Masking:
 As shown in figure below, the first randomness method seemed to work effectively as it generated a higher accuracy on the pretraining data. Compared to the previous value of 40.98 percent, this generated an accuracy of 46.52 percent. 
 <div class="center-image">
-<img src="{{ site.baseurl }}/assets/projects/reports/MAE/picture_4_5.png" alt="Teaser Figure" style="width: 500px; height: auto;">
+<img src="{{ site.baseurl }}/assets/projects/reports/mae-gan/picture_4_5.webp" alt="Teaser Figure" style="width: 500px; height: auto;">
 </div>
 <b>Generative Adversarial Networks:</b>
 After introducing generative adversarial networks into masked autoencoders, this study compared them using the Progress Robot Object Perception Samples dataset. The experimental results show that the weight between the generator and the discriminator loss should be at least 100:1, otherwise it will weaken the effectiveness of the generator. Using 50000 images as the training set and 10000 images as the testing set, experimental results did not show significant differences from the quantity perspective, as shown in Figure below. However, in terms of the effect of reconstructing images, models with GAN loss seem to be better at handling blurry edges.
 <div class="center-image">
-<img src="{{ site.baseurl }}/assets/projects/reports/MAE/picture6_7.png" alt="Teaser Figure" style="width: 500px; height: auto;">
+<img src="{{ site.baseurl }}/assets/projects/reports/mae-gan/picture6_7.webp" alt="Teaser Figure" style="width: 500px; height: auto;">
 </div>
 From a quality perspective, we tested using small-scale datasets and found that models with GAN loss were able to extract image features more significantly with fewer data, more extensive masked patches, and fewer pre-training epochs, as shown in Figure above; the reconstruction effect was considerably better than the original models.
 
@@ -62,15 +62,11 @@ If you found our work helpful, consider citing us with the following BibTeX refe
 
 ```
 @article{MAE2024Rob,
-  title = {GrapeRob - Improving Masked Autoencoders by Testing the Viability of Different Features and Adding GAN},
+  title = {Improving Masked Autoencoders by Testing the Viability of Different Features and Adding GAN},
   author = {Jirong Yang, Fangyi Dai and Vaibhav Gurunathan},
   year = {2024}
 }
 ```
 
 
-
-## Contact
-
-If you have any questions, feel free to contact [Jirong Yang, Fangyi Dai and Vaibhav Gurunathan].
 

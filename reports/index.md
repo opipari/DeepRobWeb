@@ -24,6 +24,9 @@ Omer Benharush, Sarah Chan, Jack Kernan, and Max Rucker
 ### [Choosing how to Grasp the Ungraspable]({{ site.baseurl }}/reports/choosing-ungraspable/)
 Jason Brown, Eli Fox, Jacob Harrelson, and Srushti Hippargi
 
+### [Improving Masked Autoencoders by Testing the Viability of Different Features and Adding GAN]({{ site.baseurl }}/reports/mae-gan/)
+Jirong Yang, Fangyi Dai, and Vaibhav Gurunathan
+
 
 <!-- ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
