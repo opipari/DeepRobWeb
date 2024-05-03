@@ -27,6 +27,9 @@ Omer Benharush, Sarah Chan, Jack Kernan, and Max Rucker
 ### [Choosing how to Grasp the Ungraspable]({{ site.baseurl }}/reports/choosing-ungraspable/)
 Jason Brown, Eli Fox, Jacob Harrelson, and Srushti Hippargi
 
+### [Speech2Mesh: Generate 3D Printable Mesh with Speech Prompts]({{ site.baseurl }}/reports/speech2mesh/)
+Trushant Adeshara, Kajal Awasthi, Pannaga Sudarshan, and Saket Pradhan
+
 ### [Improving Masked Autoencoders by Testing the Viability of Different Features and Adding GAN]({{ site.baseurl }}/reports/mae-gan/)
 Jirong Yang, Fangyi Dai, and Vaibhav Gurunathan
 
