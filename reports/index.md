@@ -33,6 +33,9 @@ Jirong Yang, Fangyi Dai, and Vaibhav Gurunathan
 ### [Classification Mislabeling (ClaM)]({{ site.baseurl }}/reports/clam/)
 Chancellor Day, Zack Vega, Meha Goyal, and Tucker Moffat
 
+### [Collision Avoidance using Depth Anything for Advanced Rider Assistance System (ARAS)]({{ site.baseurl }}/reports/aras/)
+Zesen Zhao, Anup Bagali, Kanishka Gabel
+
 <!-- ### [Example Project: A final project template for DeepRob]({{ site.baseurl }}/reports/example/)
 Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest Chadwicke Jenkins
 
