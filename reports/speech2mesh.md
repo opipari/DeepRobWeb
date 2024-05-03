@@ -8,13 +8,10 @@ authors:
     social: "http://Trushant-Adeshara-UM.github.io"
     affiliation: University of Michigan
   - name: Kajal Awasthi
-    social: ""
     affiliation: University of Michigan
   - name: Pannaga Sudarshan
-    social: ""
     affiliation: University of Michigan
   - name: Saket Pradhan
-    social: ""
     affiliation: University of Michigan
 ---
 
@@ -26,14 +23,13 @@ authors:
 
 
 <div class="project-links" markdown="1">
-[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report](https://github.com/Trushant-Adeshara-UM/speech2mesh/tree/main/report){: .btn .btn-grey .mr-6 }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/Trushant-Adeshara-UM/speech2mesh){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
 
 
 ## Abstract
 
-Introducing "Speech-2-Mesh": an approach which swiftly transforms speech into 3D printable meshes using advanced reconstruction models. By leveraging InstantMesh, we enable easy creation of printable objects without traditional CAD software. Comparative studies with Point-E, Point2Mesh, and CAD methods underscore our efficiency and quality. This work pioneers speech-driven 3D printing, enhancing accessibility and speed while maintaining high output standards. Powered by OpenAI's Whisper and a stable diffusion model, our system generates multi-view images, which, through InstantMesh, produce optimized meshes for printing. Embracing state-of-the-art generative models, our pipeline democratizes 3D modeling, welcoming non-technical users into the fold.
+Introducing "Speech-2-Mesh": an approach which swiftly transforms speech into 3D printable meshes using advanced reconstruction models. By leveraging InstantMesh, we enable easy creation of printable objects without traditional CAD software. Comparative studies with Point-E [(Nichol et al., 2022)](https://arxiv.org/abs/2212.08751){: target="_blank" rel="noopener noreferrer" }, Point2Mesh [(Hanocka et al.,, 2020)](https://arxiv.org/abs/2005.11084){: target="_blank" rel="noopener noreferrer" }, and CAD methods underscore our efficiency and quality. This work pioneers speech-driven 3D printing, enhancing accessibility and speed while maintaining high output standards. Powered by OpenAI's Whisper [(Radford et al., 2022)](https://arxiv.org/abs/2212.04356){: target="_blank" rel="noopener noreferrer" } and a stable diffusion model, our system generates multi-view images, which, through InstantMesh [(Xu et al., 2024)](https://arxiv.org/abs/2404.07191){: target="_blank" rel="noopener noreferrer" }, produce optimized meshes for printing. Embracing state-of-the-art generative models, our pipeline democratizes 3D modeling, welcoming non-technical users into the fold.
 
 
 ## Introduction
@@ -43,13 +39,13 @@ The fusion of 3D printing with natural language processing (NLP) has ushered in 
 
 ## Algorithmic Extension
 
-In light of recent strides in generative AI for 3D reconstruction, our focus is on integrating speech recognition, text-to-image generation, and image-to-3D conversion. Our aim is to craft a streamlined process where users can create 3D printable objects directly from spoken descriptions, sidestepping traditional modeling software. While initially exploring InstructP2P, challenges in reproducing results led us to pivot towards InstantMesh's diffusion model-based approach, enhancing our pipeline's robustness. By coupling OpenAI's Whisper speech-to-text model with InstantMesh, we convert spoken input to textual prompts, which drive multi-view image generation. These images then undergo InstantMesh's reconstruction process, culminating in high-quality 3D meshes primed for printing. This amalgamation of cutting-edge technologies facilitates efficient and user-friendly creation of 3D printed designs from spoken ideas.
+In light of recent strides in generative AI for 3D reconstruction, our focus is on integrating speech recognition, text-to-image generation, and image-to-3D conversion. Our aim is to craft a streamlined process where users can create 3D printable objects directly from spoken descriptions, sidestepping traditional modeling software. While initially exploring InstructP2P [(Xu et al., 2023)](https://arxiv.org/abs/2306.07154){: target="_blank" rel="noopener noreferrer" }, challenges in reproducing results led us to pivot towards InstantMesh's diffusion model-based approach, enhancing our pipeline's robustness. By coupling OpenAI's Whisper speech-to-text model with InstantMesh, we convert spoken input to textual prompts, which drive multi-view image generation. These images then undergo InstantMesh's reconstruction process, culminating in high-quality 3D meshes primed for printing. This amalgamation of cutting-edge technologies facilitates efficient and user-friendly creation of 3D printed designs from spoken ideas.
 
 
 ## Results
 Our initial findings provided valuable insights into which types of images can generate efficient meshes. In the first case, we used a cartoon image that lacked significant depth information for the 6-view diffusion model generator. However, the second prompt produced a rendered image that delivered efficient 6-view data, resulting in a more effective mesh.
 
-![Mesh generated using Speech-2-Mesh]({{ site.baseurl }}/assets/projects/reports/speech2mesh/result.png)
+![Mesh generated using Speech-2-Mesh]({{ site.baseurl }}/assets/projects/reports/speech2mesh/result.webp)
 
 
 ## Citation
