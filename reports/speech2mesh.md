@@ -62,5 +62,5 @@ If you found our work helpful, consider citing us with the following BibTeX refe
 
 ## Contact
 
-If you have any questions, feel free to contact [Trushant Adeshara, Pannaga Sudarshan, Kajal Awasthi and Saket Pradhan](mailto:trushant@umich.edu?cc=pannaga@umich.edu?cc=kajalaw@umich.edu?cc=saketp@umich.edu).
+If you have any questions, feel free to contact [Trushant Adeshara, Pannaga Sudarshan, Kajal Awasthi and Saket Pradhan](mailto:trushant@umich.edu?cc=pannaga@umich.edu,kajalaw@umich.edu,saketp@umich.edu).
 
