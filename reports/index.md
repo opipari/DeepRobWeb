@@ -18,6 +18,9 @@ Jace Aldrich, Ariana Verges Alicea, and Hannah Ho
 ### [GrapeRob - A Grape Localization Pipeline for Automated Robotic Harvesting]({{ site.baseurl }}/reports/graperob/)
 Advaith Balaji and Isaac Madhavaram 
 
+### [Enhance Distilled Feature Field for Better Language Grounding]({{ site.baseurl }}/reports/enhanced-dff/)
+Yinong He, Yixiang Dai, and Huijie Tang
+
 ### [OD-VOS: Object Detection for Video Object Segmentation]({{ site.baseurl }}/reports/od-vos/)
 Omer Benharush, Sarah Chan, Jack Kernan, and Max Rucker
 
