@@ -9,8 +9,12 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
+    branches:
+      - main
+      - w25
+      - w24
+      - w23
+      
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -64,6 +68,16 @@ jobs:
           clean: false
       - name: Build W24 with Jekyll
         # Outputs to the './_site/w24' directory by default
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Checkout W25
+        uses: actions/checkout@v3
+        with:
+          ref: w25
+          clean: false
+      - name: Build W25 with Jekyll
+        # Outputs to the './_site/w25' directory by default
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
