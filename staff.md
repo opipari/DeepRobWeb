@@ -18,7 +18,7 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 
 </div>
 
-## Graduate Student Instructor
+<!-- ## Graduate Student Instructor
 <div markdown="1" class="staff-column">
 
 {% assign gsis = site.staffers | where: 'role', 'Graduate Student Instructor' |sort: 'order' %}
@@ -30,9 +30,9 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 {% endfor %}
 {% endif %}
 
-</div>
+</div> -->
 
-## Instructional Assistants
+<!-- ## Instructional Assistants
 <div markdown="1" class="staff-column">
 
 {% assign ias = site.staffers | where: 'role', 'Instructional Assistant' | sort: 'order' %}
@@ -40,7 +40,7 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 {{ staffer }}
 {% endfor %}
 
-</div>
+</div> -->
 
 ## Advising Faculty
 <div markdown="1" class="staff-column">

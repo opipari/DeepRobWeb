@@ -17,11 +17,11 @@ title: "DeepRob: Deep Learning for Robot Perception"
 tagline: Deep Learning for Robot Perception
 description: This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects
 author: Anthony Opipari
-baseurl: '/w24' # the subpath of your site, e.g. /blog
+baseurl: '/w25' # the subpath of your site, e.g. /blog
 url: 'https://deeprob.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/logos/favicons/UMich_favicon_light.png"
-destination: _site/w24/
+destination: _site/w25/
 
 ga_tracking: G-FX9SVF3WSQ
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
@@ -35,14 +35,14 @@ permalink: pretty
 aux_links_new_tab: true
 aux_links:
   Forum:
-    - 'https://piazza.com/umich/winter2024/rob498011598012/home'
+    - 
   Office Hours:
-    - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
+    - 
   Autograder:
-    - 'https://autograder.io/web/course/258'
+    - 
   Gradescope:
-    - 'https://www.gradescope.com/courses/704549'
-  '<img src="/w24/assets/logos/UMRobotics.png" alt="Link to Michigan Robotics website" class="nav-img">':
+    - 
+  '<img src="/w25/assets/logos/UMRobotics.png" alt="Link to Michigan Robotics website" class="nav-img">':
     - 'https://robotics.umich.edu/'
   
 

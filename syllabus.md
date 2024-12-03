@@ -17,6 +17,9 @@ nav_order: 2
 
 ---
 
+{: .highlight }
+**Note: This course website and syllabus is still under development and is subject to change.**
+
 ## About
 
 Robots need to see and understand their world to be able to interact with objects and perform useful tasks autonomously. Perception is the essential first step in the process for endowing robots to perform autonomously.  Autonomous robots need to make sense of their sensory observations to represent the world around them – and enable their reasoning and action to a goal. Visual perception with cameras as sensors has matured due to the recent advancements in neural networks – which is especially true for performing visual recognition tasks such as object classification, detection, pose estimation, grasp pose detection, etc. 
@@ -24,7 +27,8 @@ Robots need to see and understand their world to be able to interact with object
 This course aims to cover the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision and enabling – for enabling robots to dexterously manipulate physical objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation.  This exploration will include analysis of research publications in the area, building up to reproducing and implementing state-of-the-art deep learning approaches as a final course project.
 
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
-- [University of Michigan - ROB 498-002 / 599-009: Deep Learning for Robot Perception](/w23/){: target="_blank" rel="noopener noreferrer"} instructed by [Anthony Opipari](https://web.eecs.umich.edu/~justincj/){: target="_blank" rel="noopener noreferrer"}, [Chad Jenkins](https://ocj.name/){: target="_blank" rel="noopener noreferrer"}, and [Karthik Desingh](https://karthikdesingh.com/){: target="_blank" rel="noopener noreferrer"}
+- [University of Michigan - ROB 498-011 / 599-011: Deep Learning for Robot Perception](/w24/){: target="_blank" rel="noopener noreferrer"} instructed by [Xiaoxiao Du](https://xiaoxiaodu.net){: target="_blank" rel="noopener noreferrer"}, [Anthony Opipari](https://topipari.com/){: target="_blank" rel="noopener noreferrer"}, and [Chad Jenkins](https://ocj.name/){: target="_blank" rel="noopener noreferrer"}
+- [University of Michigan - ROB 498-002 / 599-009: Deep Learning for Robot Perception](/w23/){: target="_blank" rel="noopener noreferrer"} instructed by [Anthony Opipari](https://topipari.com/){: target="_blank" rel="noopener noreferrer"}, [Chad Jenkins](https://ocj.name/){: target="_blank" rel="noopener noreferrer"}, and [Karthik Desingh](https://karthikdesingh.com/){: target="_blank" rel="noopener noreferrer"}
 - [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/){: target="_blank" rel="noopener noreferrer"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){: target="_blank" rel="noopener noreferrer"}
 - [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){: target="_blank" rel="noopener noreferrer"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){: target="_blank" rel="noopener noreferrer"} and [Andrej Karpathy](https://karpathy.ai/){: target="_blank" rel="noopener noreferrer"}
 
@@ -72,13 +76,13 @@ For additional references, consider the following textbooks:
 
 Lectures will take place in-person. 
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room COOL G906**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
+In-person lectures will be held on **Mondays and Wednesdays from 12:00-1:30 PM EST in room CSRB 2246**. Remote access will be available through Zoom.
 
 ## Discussion Sections
 
 Discussions will take place in-person.<!--  with remote accessibility (synchronous and asynchronous).  -->
 
-In-person discussions will be held on **Wednesdays from 3:30-5:30 PM EST in room EECS 1311**. Remote access will be available through [Zoom (Meeting ID: 965 2450 4025) (Passcode: deeprob)](https://umich.zoom.us/j/96524504025){: target="_blank" rel="noopener noreferrer"}
+In-person discussions will be held on **Tuesdays from 3:30-5:30 PM EST in room CSRB 2246**. Remote access will be available through Zoom.
 
 ## Programming Projects
 

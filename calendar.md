@@ -7,6 +7,9 @@ nav_order: 3
 
 # Calendar
 
+{: .highlight }
+**Note: This course website is still under development and is subject to change.**
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
