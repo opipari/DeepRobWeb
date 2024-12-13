@@ -13,6 +13,7 @@
 }
 
 .staff-column {
+  flex-wrap: wrap;
   width: 100%;
 
   -webkit-column-count: 1;
@@ -30,7 +31,8 @@
 
 .staffer {
   display: flex;
-  flex-basis: 50%;
+  flex: 1 1 calc(50% - 2 * $sp-4);
+  max-width: calc(50% - 2 * $sp-4);
   margin: $sp-4;
 
   .staffer-image {

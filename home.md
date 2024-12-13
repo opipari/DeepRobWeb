@@ -104,7 +104,7 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 </div>
 
-<!-- # Graduate Student Instructor
+# Graduate Student Instructor
 <div markdown="1" class="staff-column">
 
 {% assign gsis = site.staffers | where: 'role', 'Graduate Student Instructor' |sort: 'order' %}
@@ -126,7 +126,7 @@ This course builds on and is indebted to these existing courses (as a “star”
 {{ staffer }}
 {% endfor %}
 
-</div> -->
+</div>
 
 # Advising Faculty
 <div markdown="1" class="staff-column">
