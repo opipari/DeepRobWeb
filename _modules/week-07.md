@@ -2,28 +2,34 @@
 title: Week 7
 ---
 
-Feb 20
-: [**Lec 12**]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } [Deep Learning Software]({{ site.baseurl }}/assets/slides/deeprob_lecture_12_deep_learning_software.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/9MA3mu){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 8**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
-  : [📖 Girshick, Fast R-CNN](https://arxiv.org/abs/1504.08083){: target="_blank" rel="noopener noreferrer"}
+
+Feb 17
+: **Lec 11**{: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } **Training Neural Networks I**
 : &nbsp;
-  : [📖 Ren et al., Faster R-CNN](https://arxiv.org/abs/1506.01497){: target="_blank" rel="noopener noreferrer"}
+  : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 He et al., Mask R-CNN](https://arxiv.org/abs/1703.06870){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Goodfellow et al., Adversarial Examples](https://arxiv.org/abs/1412.6572){: target="_blank" rel="noopener noreferrer"}
 
 
 
-Feb 21
-: **Dis 7**{: #dis-7 .label .label-blue target="_blank" rel="noopener noreferrer" } Prelude to 3D Perception
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/wXEByS){: target="_blank" rel="noopener noreferrer"}
-
-
-
-Feb 22
-: **Lec 13**{: #lec-13 .label .label-purple target="_blank" rel="noopener noreferrer" } Office Hours
-  : [📖 Dosovitskiy et al., ViT](https://arxiv.org/abs/2010.11929){: target="_blank" rel="noopener noreferrer"}
-: [**Project 2 due**{: .label .label-red }]({{ site.baseurl }}/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }]({{ site.baseurl }}/projects/project3/){: .project-link}
-  : [📖 Li et al., ViTDet](https://arxiv.org/abs/2203.16527){: target="_blank" rel="noopener noreferrer"}
+Feb 18
+: **Dis 6**{: #dis-6 .label .label-blue target="_blank" rel="noopener noreferrer" } **Training Neural Networks II**
 : &nbsp;
-  : [📖 Kirillov et al., SAM](https://arxiv.org/abs/2304.02643){: target="_blank" rel="noopener noreferrer"}
+  : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
+
+
+
+
+Feb 19
+: **Lec 12**{: #lec-12 .label .label-purple target="_blank" rel="noopener noreferrer" } **Deep Learning Software**
+: &nbsp;
+  : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Abadi et al., TensorFlow](https://arxiv.org/abs/1603.04467){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Paszke et al., PyTorch](https://arxiv.org/abs/1912.01703){: target="_blank" rel="noopener noreferrer"}
+
+
+

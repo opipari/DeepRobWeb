@@ -1,21 +1,30 @@
 ---
-title: Week 10; Object Tracking
+title: Week 10
 ---
 
+Mar 17
+: **Lec 17**{: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" } **Transformers**
+: &nbsp;
+  : [📖 Vaswani, Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf){: target="_blank" rel="noopener noreferrer"}
+
+
+
+Mar 18
+: **Dis 9**{: #dis-9 .label .label-blue target="_blank" rel="noopener noreferrer" } **Generative Models**
+: &nbsp;
+
+
 Mar 19
-: **Lec 17**{: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" } Student Presentations
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/R7zBB1){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 11**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
+: **Lec 18**{: #lec-18 .label .label-purple target="_blank" rel="noopener noreferrer" } **Vision Transformers**
+: &nbsp;
+  : [📖 Dosovitskiy, ViT](https://arxiv.org/pdf/2010.11929.pdf){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Carion, DETR](https://arxiv.org/pdf/2005.12872.pdf){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Xie, SegFormer](https://arxiv.org/pdf/2105.15203.pdf){: target="_blank" rel="noopener noreferrer"}
 
 
 
-Mar 20
-: **Dis 10**{: #dis-10 .label .label-blue } Office Hours
-  : &nbsp;
 
 
-Mar 21
-: [**Lec 18**]({{ site.baseurl }}/assets/slides/deeprob_lecture_18_interpretability_uncertainty.pdf){: #lec-18 .label .label-purple target="_blank" rel="noopener noreferrer" } [Interpretability and Uncertainty]({{ site.baseurl }}/assets/slides/deeprob_lecture_18_interpretability_uncertainty.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/IPsty8){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 12**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } **Project 4 due**{: .label .label-red }
 

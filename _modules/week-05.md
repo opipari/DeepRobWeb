@@ -2,33 +2,37 @@
 title: Week 5
 ---
 
-Feb 6
-: [**Lec 8**]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: #lec-8 .label .label-purple target="_blank" rel="noopener noreferrer"} [CNN Arch. and Object Detection]({{ site.baseurl }}/assets/slides/deeprob_lecture_08_cnn_architectures_and_object_detection.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/NqkTXQ){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 4**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" }
-  : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
+Feb 3
+: **Lec 7**{: #lec-7 target="_blank" rel="noopener noreferrer" .label .label-purple } **Convolutional Neural Networks**
 : &nbsp;
-  : [📖 Redmon et al., YOLO](https://arxiv.org/abs/1506.02640){: target="_blank" rel="noopener noreferrer"}
+  : [📖 cs231n ConvNets](https://cs231n.github.io/convolutional-networks/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Lin et al., FCOS](https://arxiv.org/abs/1708.02002){: target="_blank" rel="noopener noreferrer"}
-
-
-
-
-Feb 7
-: [**Dis 5**]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf){: #dis-5 target="_blank" rel="noopener noreferrer" .label .label-blue } [How to Read Research Papers]({{ site.baseurl }}/assets/slides/deeprob_discussion_04_reading_papers.pdf)
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/ndHsc1){: target="_blank" rel="noopener noreferrer"}
+  : [📖 GBC Ch. 9](https://www.deeplearningbook.org/contents/convnets.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){: target="_blank" rel="noopener noreferrer"}
-
-
-
-Feb 8
-: [**Lec 9**]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_object_detection.pdf){: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} [Object Detection]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_object_detection.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/qsg89R){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 5**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Final Project out**{: .label .label-yellow }]({{ site.baseurl }}/projects/finalproject/){: .project-link} [**Interest Survey Out**](https://www.gradescope.com/courses/704549/){: .label .label-yellow target="_blank" rel="noopener noreferrer" }
-  : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Araujo et al., Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Olah et al., Feature Visualization](https://distill.pub/2017/feature-visualization/){: target="_blank" rel="noopener noreferrer"}
+
+
+
+Feb 4
+: **Dis 4**{: #dis-4 target="_blank" rel="noopener noreferrer" .label .label-blue } **CNN Object Detection Demo**
+: &nbsp;
+
+
+
+Feb 5
+: **Lec 8**{: #lec-8 target="_blank" rel="noopener noreferrer" .label .label-purple } **CNN Architectures I**
+: &nbsp;
+  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Simonyan and Zisserman, VGG](https://arxiv.org/abs/1409.1556){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Szegedy et al., GoogLeNet](https://arxiv.org/abs/1409.4842){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 He et al., ResNet](https://arxiv.org/abs/1512.03385){: target="_blank" rel="noopener noreferrer"}
+
+
+
 
 

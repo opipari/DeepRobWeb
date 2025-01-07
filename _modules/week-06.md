@@ -3,37 +3,33 @@ title: Week 6
 ---
 
 
-
-Feb 13
-: [**Lec 10**]({{ site.baseurl }}/assets/slides/deeprob_lecture_10_training_neural_networks_I.pdf){: #lec-10 .label .label-purple target="_blank" rel="noopener noreferrer" } [Training Neural Networks I]({{ site.baseurl }}/assets/slides/deeprob_lecture_10_training_neural_networks_I.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/9XvJmL){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 6**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } 
-  : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
+Feb 10
+: **Lec 9**{: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} **CNN Architectures II**
 : &nbsp;
-  : [📖 Goodfellow et al., Adversarial Examples](https://arxiv.org/abs/1412.6572){: target="_blank" rel="noopener noreferrer"}
-
-
-
-
-
-Feb 14
-: **Dis 6**{: #dis-6 .label .label-blue target="_blank" rel="noopener noreferrer" } How to Present Research Papers
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/lmHy0G){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
-
-
-
-
-Feb 15
-: [**Lec 11**]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: #lec-11 .label .label-purple target="_blank" rel="noopener noreferrer" } [Training Neural Networks II]({{ site.baseurl }}/assets/slides/deeprob_lecture_11_training_neural_networks_II.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/CQJTVL){: target="_blank" rel="noopener noreferrer"}
-: [**Quiz 7**](https://www.gradescope.com/courses/704549/){: .label .label-orange target="_blank" rel="noopener noreferrer" } [**Interest Survey Due**](https://www.gradescope.com/courses/704549/){: .label .label-red target="_blank" rel="noopener noreferrer" }
-  : [📖 Redmon, Darknet](https://pjreddie.com/darknet/){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Redmon et al., YOLO](https://arxiv.org/abs/1506.02640){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Jia et al., Caffe](https://arxiv.org/abs/1408.5093){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Lin et al., FCOS](https://arxiv.org/abs/1708.02002){: target="_blank" rel="noopener noreferrer"}
+
+
+
+Feb 11
+: **Dis 5**{: #dis-5 .label .label-blue target="_blank" rel="noopener noreferrer" } **P2 Help**
 : &nbsp;
-  : [📖 Abadi et al., TensorFlow](https://arxiv.org/abs/1603.04467){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
+
+
+
+
+
+Feb 12
+: **Lec 10**{: #lec-10 .label .label-purple target="_blank" rel="noopener noreferrer"} **Object Detection**
+: **Project 2 due**{: .label .label-red } **Project 3 out**{: .label .label-yellow }
+  : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Paszke et al., PyTorch](https://arxiv.org/abs/1912.01703){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Olah et al., Equivariance in Networks](https://distill.pub/2020/circuits/equivariance/){: target="_blank" rel="noopener noreferrer"}
+
+
+
 

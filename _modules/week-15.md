@@ -2,9 +2,17 @@
 title: Week 15
 ---
 
-Apr 23
-: **Lec 28**{: #lec-28 .label .label-purple }Office Hours/Course Closure
-  : [📖 R. P. Feynman, Cargo Cult Science](https://calteches.library.caltech.edu/51/2/CargoCult.htm){: target="_blank" rel="noopener noreferrer"}
-: **Final Project Due**{: .label .label-red }
+Apr 21
+: **Lec 27**{: #lec-27 .label .label-purple } **Invited Speaker**
+: &nbsp;
 
+
+Apr 22
+: **Dis 14**{: #dis-14 .label .label-blue } **Final Project Help**
+: &nbsp;
+
+
+Apr 23
+: **Lec 28**{: #lec-28 .label .label-purple } **No Class**
+: &nbsp;
 
