@@ -4,8 +4,8 @@ title: Week 1
 
 
 Jan 8
-: **Lec 1**{: #lec-1 .label .label-purple target="_blank" rel="noopener noreferrer" } **Course Introduction**
-: **Project 0 out**{: .label .label-yellow }
+: [**Lec 1**]({{ site.baseurl }}/assets/slides/deeprob_lecture_01_introduction.pdf){: #lec-1 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Course Introduction**]({{ site.baseurl }}/assets/slides/deeprob_lecture_01_introduction.pdf){: target="_blank" rel="noopener noreferrer"}
+: [**Project 0 out**{: .label .label-yellow }]({{ site.baseurl }}/projects/project0/){: .project-link}
 
 
 
