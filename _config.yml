@@ -35,13 +35,13 @@ permalink: pretty
 aux_links_new_tab: true
 aux_links:
   Forum:
-    - 
+    - https://piazza.com/class/m4pgejar4ua2qf
   Office Hours:
-    - 
+    - https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK
   Autograder:
-    - 
-  Gradescope:
-    - 
+    - https://autograder.io/web/course/299
+  Google Drive:
+    - https://drive.google.com/drive/folders/1vOz1SA_fb1ebIe0JIaFMHA3AdwKkh7sG?usp=drive_link
   '<img src="/w25/assets/logos/UMRobotics.png" alt="Link to Michigan Robotics website" class="nav-img">':
     - 'https://robotics.umich.edu/'
   
