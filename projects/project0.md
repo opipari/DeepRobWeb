@@ -46,4 +46,4 @@ This project is due on <b>Wednesday, January 15th at 11:59pm EST</b>. We suggest
 
 ## Grading
 
-This project will be graded by the [Autograder](https://autograder.io/web/project/2896){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 85 points. You may submit to the Autograder for feedback up to 2 times per day.
+This project will be graded by the [Autograder](https://autograder.io/web/project/2896){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 85 points. You may submit to the Autograder for feedback up to 5 times per day.
