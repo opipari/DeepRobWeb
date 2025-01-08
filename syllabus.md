@@ -110,7 +110,7 @@ There will be a midterm exam that takes place in-class during the semester.
 
 Course grades will be determined according to the following criteria:
 
- - [Project 0]({{ site.baseurl }}/projects/):      5%
+ - [Project 0]({{ site.baseurl }}/projects/project0/):      5%
  - [Project 1]({{ site.baseurl }}/projects/):     10%
  - [Project 2]({{ site.baseurl }}/projects/):     17%
  - [Project 3]({{ site.baseurl }}/projects/):     10%
@@ -122,7 +122,7 @@ Course grades will be determined according to the following criteria:
 
 ## Assignment Turn-in and Late Submission Policy
 
-Projects reports are due at 11:59pm ET on their corresponding due date and should be submitted electronically to the Autograder or Canvas (including a photo of the signature page), respectively. For individual student projects, three (3) late tokens throughout the semester (1 late token corresponds to 24 hrs late, with no penalty). After all late tokens have been used, a late penalty of 10% of the total project grade per day will be applied.
+Projects reports are due at 11:59pm ET on their corresponding due date and should be submitted electronically to the Autograder or Canvas (including a photo of the signature page), respectively. For individual student projects, **three (3)** late tokens throughout the semester (1 late token corresponds to 24 hrs late, with no penalty). After all late tokens have been used, a late penalty of 10% of the total project grade per day will be applied.
 
 ## Regrades
 
@@ -131,13 +131,13 @@ Requests to regrade any graded assignment or project must be submitted in writin
 
 ## Collaboration Policy
 
-We will mark clearly whether an assignment is for an individual or a group. For individual assignments, you must submit your own assignment. For group assignments, each team must turn in work that is wholly their own: teams are encouraged to discuss problems, strategies, ideas, algorithms, etc. with other teams, but their write-ups (including software) must be done independently. Usually, students in the same group receive the same grades for a group project. However, if a certain person(s) did not contribute or participate as reflected in in-class participation, peer review checks and lab performance, etc., their grades will be reduced at the discretion of the instructional team based on their performance.
+We will mark clearly whether an assignment is for an individual or a group. For **individual** assignments, you must submit your own assignment. For **group** assignments, each team must turn in work that is wholly their own: teams are encouraged to discuss problems, strategies, ideas, algorithms, etc. with other teams, but their write-ups (including software) must be done independently. Usually, students in the same group receive the same grades for a group project. However, if a certain person(s) did not contribute or participate as reflected in in-class participation, peer review checks and lab performance, etc., their grades will be reduced at the discretion of the instructional team based on their performance.
 
 Members of a team are required to work together on the problems. Further, each team member is expected to understand all aspects of the team project, its implementation, and underlying concepts. Proper team planning will require, at a minimum, one in-person meeting. With each problem's solution being the product of the group, all members will be held accountable for violations of the honor code. 
 
 All code submitted must comply with the [College of Engineering Honor Code](https://bulletin.engin.umich.edu/rules/){: target="_blank" rel="noopener noreferrer"}.
 
-On every group-based lab assignment and project, students must include a signed statement below, including the following statements:
+On every group-based lab assignment and project, students must include a **signed** statement below, including the following statements:
 
  - "I participated and contributed to team discussions on each problem, and I attest to the integrity of each solution. Our team met as a group on [DATE(S)]. "
  - “Contribution of Authors: [Team member A] did [Task XXX]; [Team members B and C] did [Task YYY]; [Team members A, B and C] did [ZZZ]. [All authors] \[gave feedback on the software development, contributed to writing the report/making the demo presentation, and approved the final version for submission.\]” (*Modify the texts in brackets according to your specific team situation and member contribution. Ideally, each member/subset of members contributed to something unique, and all authors contributed to giving feedback and writing/making the final report/demo/presentations and approving the final version for submission.)
@@ -153,10 +153,10 @@ GenAI-use: **Permitted with certain rules (see below), and with disclosure.**
 
 Consequences for inappropriate use: Reported to school-based academic misconduct processes.
 
-Any and all use of machines that emulate human capabilities (U-M GPT, ChatGPT, Stable Diffusion, DALLE, etc. - hereinafter referred to as “GenAI” technology in general) to perform assignments or other works in the course should be disclosed (this includes all graded deliverables as well as other course works and activities). You must state which part of the assignment is from GenAI. 
+Any and all use of machines that emulate human capabilities (U-M GPT, ChatGPT, Stable Diffusion, DALLE, etc. - hereinafter referred to as “GenAI” technology in general) to perform assignments or other works in the course should be **disclosed** (this includes all graded deliverables as well as other course works and activities). You must state which part of the assignment is from GenAI. 
 
- - For programming assignments (Project 0 - Project 4) and midterm, it is not allowed to type in the project code template in GenAI and ask GenAI to fill in - you must do the assignment (fill in the codes and answers) yourself. 
- - For final projects, you may use GenAI to generating ideas, editing, translating, outlining, etc. as long as you provide proper disclosure and acknowledge your GenAI use, In your final report, you should specify (if any) which GenAI platform you used, which part is from GenAI results, what prompt you used, any tweaks/analysis to the results (e.g., you used GenAI to generate initial idea X but you modified Y and Z, etc. )
+ - For programming assignments (Project 0 - Project 4) and midterm, it is not allowed to type in the project code template in GenAI and ask GenAI to fill in - **you must do the assignment (fill in the codes and answers) yourself**. 
+ - For final projects, you may use GenAI to generating ideas, editing, translating, outlining, etc. as long as you **provide proper disclosure and acknowledge your GenAI use**, In your final report, you should specify (if any) which GenAI platform you used, which part is from GenAI results, what prompt you used, any tweaks/analysis to the results (e.g., you used GenAI to generate initial idea X but you modified Y and Z, etc. )
 
 Our goal as a community of learners is to explore and understand how these tools may be used.
 
@@ -175,11 +175,11 @@ The [Piazza](https://piazza.com/class/m4pgejar4ua2qf){: target="_blank" rel="noo
 
 **Academic Integrity:** All students in the class are presumed to be decent and honorable, and all students in the class are bound by the College of Engineering Honor Code. You may not seek to gain an unfair advantage over your fellow students; you may not consult, look at, or possess the unpublished work of another without their permission; and you must appropriately acknowledge your use of another’s work. 
 
-**Accommodations for Students with Disabilities:** If you think you need an accommodation for a disability, please let us know at your earliest convenience so that we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations (734-763-3000;  http://ssd.umich.edu ). Any information you provide is private and confidential and will be treated as such. 
+**Accommodations for Students with Disabilities:** If you think you need an accommodation for a disability, please let us know at your earliest convenience so that we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations (734-763-3000; [http://ssd.umich.edu](http://ssd.umich.edu){: target="_blank" rel="noopener noreferrer"}). Any information you provide is private and confidential and will be treated as such. 
 
 **Diversity Statement:** All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. We consider this classroom to be a place where you will be treated with respect, and we welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, ability – and other visible and nonvisible differences.
 
-**Student Well-Being:** Students may experience stressors that can impact both their academic experience and their personal well-being. These may include academic pressure and challenges associated with relationships, mental health, alcohol or other drugs, identities, finances, etc. If you are experiencing concerns, seeking help is a courageous thing to do for yourself and those who care about you. If the source of your stressors is academic, please contact me so that we can find solutions together. For personal concerns, U-M offers many resources, some of which are listed at Resources for Student Well-being on the Well-being for U-M Students website: https://wellbeing.studentlife.umich.edu/.
+**Student Well-Being:** Students may experience stressors that can impact both their academic experience and their personal well-being. These may include academic pressure and challenges associated with relationships, mental health, alcohol or other drugs, identities, finances, etc. If you are experiencing concerns, seeking help is a courageous thing to do for yourself and those who care about you. If the source of your stressors is academic, please contact me so that we can find solutions together. For personal concerns, U-M offers many resources, some of which are listed at Resources for Student Well-being on the Well-being for U-M Students website: [https://wellbeing.studentlife.umich.edu/](https://wellbeing.studentlife.umich.edu/){: target="_blank" rel="noopener noreferrer"}.
 
 **Family Educational Rights and Privacy Act (FERPA):** Any in person course lectures may be audio/video recorded and made available to other students in this course. Students may not record or distribute any class activity without written permission from the instructor, except as necessary as part of approved accommodations for students with disabilities. Any approved recordings may only be used for the student’s own private use. 
 
