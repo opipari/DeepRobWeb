@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Jan 13
-: **Lec 2**{: #lec-2 .label .label-purple target="_blank" rel="noopener noreferrer" } **Image Classification**
+: [**Lec 2**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_image_classification.pdf){: #lec-2 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Image Classification**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_image_classification.pdf){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 GBC Ch. 1](https://www.deeplearningbook.org/contents/intro.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
@@ -17,9 +17,10 @@ Jan 14
 
 Jan 15
 : **Lec 3**{: #lec-3 .label .label-purple target="_blank" rel="noopener noreferrer"} **Linear Classifiers**
-: [**Project 0 due**{: .label .label-red }]({{ site.baseurl }}/projects/project0/){: .project-link} **Project 1 out**{: .label .label-yellow }
+: **Project 1 out**{: .label .label-yellow }
   : [📖 231n Linear Classification](https://cs231n.github.io/linear-classify/){: target="_blank" rel="noopener noreferrer"}
 
 
 
-
+Jan 19
+: [**Project 0 due**{: .label .label-red }]({{ site.baseurl }}/projects/project0/){: .project-link}
