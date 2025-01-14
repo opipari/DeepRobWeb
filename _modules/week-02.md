@@ -4,6 +4,7 @@ title: Week 2
 
 Jan 13
 : [**Lec 2**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_image_classification.pdf){: #lec-2 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Image Classification**]({{ site.baseurl }}/assets/slides/deeprob_lecture_02_image_classification.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/k4WywR){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 GBC Ch. 1](https://www.deeplearningbook.org/contents/intro.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
