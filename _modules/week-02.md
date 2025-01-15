@@ -13,11 +13,13 @@ Jan 13
 
 Jan 14
 : **Dis 1**{: #dis-1 .label .label-blue target="_blank" rel="noopener noreferrer" } **Intro to Python and Pytorch**
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/1XpAsw){: target="_blank" rel="noopener noreferrer"}
+
 
 
 
 Jan 15
-: **Lec 3**{: #lec-3 .label .label-purple target="_blank" rel="noopener noreferrer"} **Linear Classifiers**
+: [**Lec 3**]({{ site.baseurl }}/assets/slides/deeprob_lecture_03_linear_classifiers.pdf){: #lec-3 .label .label-purple target="_blank" rel="noopener noreferrer"} [**Linear Classifiers**]({{ site.baseurl }}/assets/slides/deeprob_lecture_03_linear_classifiers.pdf){: target="_blank" rel="noopener noreferrer"}
 : **Project 1 out**{: .label .label-yellow }
   : [📖 231n Linear Classification](https://cs231n.github.io/linear-classify/){: target="_blank" rel="noopener noreferrer"}
 
