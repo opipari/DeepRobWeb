@@ -20,7 +20,7 @@ style="width: 1000px; height: auto;">
 </div>
 
 <div class="project-links" markdown="1">
-[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/MAE/DeepRobProjectReport-final.pdf){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/mae-gan/DeepRobProjectReport-final.pdf){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/Polarisyjr/Masked-Autoencoder){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
 
