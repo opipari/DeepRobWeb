@@ -1,7 +1,7 @@
 ---
 layout: project
 parent: Reports
-title: "DOPE-Plus: Enhancements in Feature Extraction and Data Generation for 6D Pose Estimation"
+title: "DOPE-Plus&#58; Enhancements in Feature Extraction and Data Generation for 6D Pose Estimation"
 description: Group 6 final project report for DeepRob at the University of Michigan.
 authors:
   - name: Jeffrey Chen
@@ -21,14 +21,14 @@ authors:
 
 
 <div class="project-links" markdown="1">
-[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}Project_Report.pdf){: .btn .btn-grey .mr-6 }
+[![]({{ site.baseurl }}/assets/logos/acrobat.svg){: .text-logo } Report]({{ site.baseurl }}/assets/projects/reports/DOPE-Plus/Project_Report.pdf){: .btn .btn-grey .mr-6 }
 [![]({{ site.baseurl }}/assets/logos/github-mark.svg){: .text-logo } Code](https://github.com/jypipi/DOPE-Plus){: .btn .btn-grey target="_blank" rel="noopener noreferrer" }
 </div>
 
 
 ## Abstract
 
-This study explored enhancements to the DOPE framework by improving both its network architecture and synthetic data generation pipeline for 6D object pose estimation. We proposed replacing the original VGG-19-based feature extractor with a Vision Transformer (ViT), aiming to leverage its superior representation capabilities. In parallel, we developed a refined data generation pipeline, resulting in an augmented HOPE dataset \cite{lin2021fusion} and a new fully synthetic dataset of a customized object, Block. These datasets were used to train and evaluate our modified DOPE model on two target objects: Cookies and Block. Experimental results demonstrate that incorporating ViT improves pose estimation performance over the original VGG-19 backbone, suggesting the potential for further advancements through the integration of more powerful feature extractors.
+This study explored enhancements to the DOPE framework by improving both its network architecture and synthetic data generation pipeline for 6D object pose estimation. We proposed replacing the original VGG-19-based feature extractor with a Vision Transformer (ViT), aiming to leverage its superior representation capabilities. In parallel, we developed a refined data generation pipeline, resulting in an augmented HOPE dataset and a new fully synthetic dataset of a customized object, Block. These datasets were used to train and evaluate our modified DOPE model on two target objects: Cookies and Block. Experimental results demonstrate that incorporating ViT improves pose estimation performance over the original VGG-19 backbone, suggesting the potential for further advancements through the integration of more powerful feature extractors.
 
 ## Introduction and Backgrounds
 

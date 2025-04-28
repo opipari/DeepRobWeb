@@ -11,8 +11,7 @@ has_toc: false
 # Final Project Reports
 {:.no_toc}
 
-
-### [Our Project Report]({{ site.baseurl }}/reports/DOPE-Plus/)
+### [DOPE-Plus: Enhancements in Feature Extraction and Data Generation for 6D Pose Estimation]({{ site.baseurl }}/reports/DOPE-Plus/)
 
 ### [Example Reports from Winter 2024](https://deeprob.org/w24/reports/)
 
@@ -21,5 +20,3 @@ Anthony Opipari, Xiaoxiao Du, Edmond Tong, Yifu Lu, Dalton Richardson, and Odest
 
 ### [How-To: Make a project website for DeepRob]({{ site.baseurl }}/reports/how-to/)
 Anthony Opipari
-
-### [DOPE-Plus: Enhancements in Feature Extraction and Data Generation for 6D Pose Estimation]({{ site.baseurl }}/reports/DOPE-Plus/)
