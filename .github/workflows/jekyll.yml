@@ -11,6 +11,7 @@ on:
   push:
     branches:
       - main
+      - w26
       - w25
       - w24
       - w23
@@ -78,6 +79,16 @@ jobs:
           clean: false
       - name: Build W25 with Jekyll
         # Outputs to the './_site/w25' directory by default
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Checkout W26
+        uses: actions/checkout@v4
+        with:
+          ref: w26
+          clean: false
+      - name: Build W26 with Jekyll
+        # Outputs to the './_site/w26' directory by default
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
