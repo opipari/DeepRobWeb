@@ -2,25 +2,35 @@ name: Trigger main Pages rebuild
 
 on:
   push:
-    branches:
-      - w23
-      - w24
-      - w25
-      - w26
+    branches: [w23, w24, w25, w26]
 
 permissions:
+  actions: write
   contents: read
 
 jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch rebuild event to main workflow
+      - name: Trigger main workflow_dispatch
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            await github.rest.repos.createDispatchEvent({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              event_type: "rebuild-pages",
-              client_payload: { ref: context.ref, sha: context.sha }
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            // IMPORTANT: workflow file name on main
+            const workflow_id = "jekyll.yml";
+            const ref = "main";
+
+            core.info(`Dispatching workflow_dispatch to ${owner}/${repo} -> ${workflow_id} @ ${ref}`);
+
+            await github.rest.actions.createWorkflowDispatch({
+              owner,
+              repo,
+              workflow_id,
+              ref
+            });
+
+            core.info("workflow_dispatch sent.");
