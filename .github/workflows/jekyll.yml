@@ -58,10 +58,13 @@ jobs:
           fetch-depth: 1
 
       - name: Build W23 with Jekyll
-        working-directory: repo_w23
-        run: bundle exec jekyll build --destination ../_site/w23
+        run: 
+          bundle exec jekyll build \
+            --source repo_w23 \
+            --destination ../_site/w23
         env:
           JEKYLL_ENV: production
+          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
       - name: Checkout W24
         uses: actions/checkout@v4
@@ -71,10 +74,13 @@ jobs:
           fetch-depth: 1
 
       - name: Build W24 with Jekyll
-        working-directory: repo_w24
-        run: bundle exec jekyll build --destination ../_site/w24
+        run: 
+          bundle exec jekyll build \
+            --source repo_w24 \
+            --destination ../_site/w24
         env:
           JEKYLL_ENV: production
+          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
       - name: Checkout W25
         uses: actions/checkout@v4
@@ -84,10 +90,13 @@ jobs:
           fetch-depth: 1
 
       - name: Build W25 with Jekyll
-        working-directory: repo_w25
-        run: bundle exec jekyll build --destination ../_site/w25
+        run: 
+          bundle exec jekyll build \
+            --source repo_w25 \
+            --destination ../_site/w25
         env:
           JEKYLL_ENV: production
+          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
       - name: Checkout W26
         uses: actions/checkout@v4
@@ -97,10 +106,13 @@ jobs:
           fetch-depth: 1
 
       - name: Build W26 with Jekyll
-        working-directory: repo_w26
-        run: bundle exec jekyll build --destination ../_site/w26
+        run: 
+          bundle exec jekyll build \
+            --source repo_w26 \
+            --destination ../_site/w26
         env:
           JEKYLL_ENV: production
+          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
       - name: Show output sizes
         run: |
