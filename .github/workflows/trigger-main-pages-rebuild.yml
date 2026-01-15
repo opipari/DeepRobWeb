@@ -1,0 +1,26 @@
+name: Trigger main Pages rebuild
+
+on:
+  push:
+    branches:
+      - w23
+      - w24
+      - w25
+      - w26
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch rebuild event to main workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.repos.createDispatchEvent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              event_type: "rebuild-pages",
+              client_payload: { ref: context.ref, sha: context.sha }
