@@ -9,7 +9,7 @@ on:
       - w26
 
 permissions:
-  contents: read
+  contents: write   # needed to call the dispatch API with GITHUB_TOKEN
 
 jobs:
   dispatch:
@@ -18,9 +18,20 @@ jobs:
       - name: Dispatch rebuild event to main workflow
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const ref = context.ref;
+            const sha = context.sha;
+
+            core.info(`Dispatching rebuild-pages for ${owner}/${repo} from ${ref} @ ${sha}`);
+
             await github.rest.repos.createDispatchEvent({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              owner,
+              repo,
               event_type: "rebuild-pages",
-              client_payload: { ref: context.ref, sha: context.sha }
+              client_payload: { ref, sha }
+            });
+
+            core.info("Dispatch sent.");
