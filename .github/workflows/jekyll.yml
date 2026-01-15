@@ -92,6 +92,13 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+      - name: Show output sizes
+        run: |
+          echo "Top-level workspace:"
+          du -h -d 2 . | sort -hr | head -n 40
+          echo ""
+          echo "_site breakdown:"
+          du -h -d 3 _site | sort -hr | head -n 60
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
