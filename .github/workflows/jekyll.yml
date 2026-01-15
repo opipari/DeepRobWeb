@@ -56,8 +56,9 @@ jobs:
       - name: Build W23 with Jekyll
         run: 
           bundle exec jekyll build \
-            --source repo_w23 \
-            --destination ../_site/w23
+            --source "${{ github.workspace }}/repo_w23" \
+            --destination "${{ github.workspace }}/_site/w23" \
+            --config "${{ github.workspace }}/repo_w23/_config.yml"
         env:
           JEKYLL_ENV: production
           BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
@@ -72,8 +73,9 @@ jobs:
       - name: Build W24 with Jekyll
         run: 
           bundle exec jekyll build \
-            --source repo_w24 \
-            --destination ../_site/w24
+            --source "${{ github.workspace }}/repo_w24" \
+            --destination "${{ github.workspace }}/_site/w24" \
+            --config "${{ github.workspace }}/repo_w24/_config.yml"
         env:
           JEKYLL_ENV: production
           BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
@@ -88,8 +90,9 @@ jobs:
       - name: Build W25 with Jekyll
         run: 
           bundle exec jekyll build \
-            --source repo_w25 \
-            --destination ../_site/w25
+            --source "${{ github.workspace }}/repo_w25" \
+            --destination "${{ github.workspace }}/_site/w25" \
+            --config "${{ github.workspace }}/repo_w25/_config.yml"
         env:
           JEKYLL_ENV: production
           BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
@@ -104,8 +107,9 @@ jobs:
       - name: Build W26 with Jekyll
         run: 
           bundle exec jekyll build \
-            --source repo_w26 \
-            --destination ../_site/w26
+            --source "${{ github.workspace }}/repo_w26" \
+            --destination "${{ github.workspace }}/_site/w26" \
+            --config "${{ github.workspace }}/repo_w26/_config.yml"
         env:
           JEKYLL_ENV: production
           BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
