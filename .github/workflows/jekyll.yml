@@ -46,39 +46,39 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Checkout W23
-        uses: actions/checkout@v4
-        with:
-          ref: w23
-          path: repo_w23
-          fetch-depth: 1
+      # - name: Checkout W23
+      #   uses: actions/checkout@v4
+      #   with:
+      #     ref: w23
+      #     path: repo_w23
+      #     fetch-depth: 1
 
-      - name: Build W23 with Jekyll
-        run: 
-          bundle exec jekyll build \
-            --source "${{ github.workspace }}/repo_w23" \
-            --destination "${{ github.workspace }}/_site/w23" \
-            --config "${{ github.workspace }}/repo_w23/_config.yml"
-        env:
-          JEKYLL_ENV: production
-          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
+      # - name: Build W23 with Jekyll
+      #   run: |
+      #     bundle exec jekyll build \
+      #       --source "${{ github.workspace }}/repo_w23" \
+      #       --destination "${{ github.workspace }}/_site/w23" \
+      #       --config "${{ github.workspace }}/repo_w23/_config.yml"
+      #   env:
+      #     JEKYLL_ENV: production
+      #     BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
-      - name: Checkout W24
-        uses: actions/checkout@v4
-        with:
-          ref: w24
-          path: repo_w24
-          fetch-depth: 1
+      # - name: Checkout W24
+      #   uses: actions/checkout@v4
+      #   with:
+      #     ref: w24
+      #     path: repo_w24
+      #     fetch-depth: 1
 
-      - name: Build W24 with Jekyll
-        run: 
-          bundle exec jekyll build \
-            --source "${{ github.workspace }}/repo_w24" \
-            --destination "${{ github.workspace }}/_site/w24" \
-            --config "${{ github.workspace }}/repo_w24/_config.yml"
-        env:
-          JEKYLL_ENV: production
-          BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
+      # - name: Build W24 with Jekyll
+      #   run: |
+      #     bundle exec jekyll build \
+      #       --source "${{ github.workspace }}/repo_w24" \
+      #       --destination "${{ github.workspace }}/_site/w24" \
+      #       --config "${{ github.workspace }}/repo_w24/_config.yml"
+      #   env:
+      #     JEKYLL_ENV: production
+      #     BUNDLE_GEMFILE: ${{ github.workspace }}/Gemfile
 
       - name: Checkout W25
         uses: actions/checkout@v4
@@ -88,7 +88,7 @@ jobs:
           fetch-depth: 1
 
       - name: Build W25 with Jekyll
-        run: 
+        run: |
           bundle exec jekyll build \
             --source "${{ github.workspace }}/repo_w25" \
             --destination "${{ github.workspace }}/_site/w25" \
@@ -105,7 +105,7 @@ jobs:
           fetch-depth: 1
 
       - name: Build W26 with Jekyll
-        run: 
+        run: |
           bundle exec jekyll build \
             --source "${{ github.workspace }}/repo_w26" \
             --destination "${{ github.workspace }}/_site/w26" \
