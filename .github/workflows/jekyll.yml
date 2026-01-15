@@ -1,20 +1,12 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Build & Deploy Jekyll site to Pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main
-      - w26
-      - w25
-      - w24
-      - w23
+    branches: [main]
+  repository_dispatch:
+    types: [rebuild-pages]
+  workflow_dispatch:
       
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,79 +21,97 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Build with Jekyll
+
+      - name: Build main
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Checkout W23
         uses: actions/checkout@v4
         with:
           ref: w23
-          clean: false
+          path: repo_w23
+          fetch-depth: 1
+
       - name: Build W23 with Jekyll
-        # Outputs to the './_site/w23' directory by default
-        run: bundle exec jekyll build
+        working-directory: repo_w23
+        run: bundle exec jekyll build --destination ../_site/w23
         env:
           JEKYLL_ENV: production
+
       - name: Checkout W24
         uses: actions/checkout@v4
         with:
           ref: w24
-          clean: false
+          path: repo_w24
+          fetch-depth: 1
+
       - name: Build W24 with Jekyll
-        # Outputs to the './_site/w24' directory by default
-        run: bundle exec jekyll build
+        working-directory: repo_w24
+        run: bundle exec jekyll build --destination ../_site/w24
         env:
           JEKYLL_ENV: production
+
       - name: Checkout W25
         uses: actions/checkout@v4
         with:
           ref: w25
-          clean: false
+          path: repo_w25
+          fetch-depth: 1
+
       - name: Build W25 with Jekyll
-        # Outputs to the './_site/w25' directory by default
-        run: bundle exec jekyll build
+        working-directory: repo_w25
+        run: bundle exec jekyll build --destination ../_site/w25
         env:
           JEKYLL_ENV: production
+
       - name: Checkout W26
         uses: actions/checkout@v4
         with:
           ref: w26
-          clean: false
+          path: repo_w26
+          fetch-depth: 1
+
       - name: Build W26 with Jekyll
-        # Outputs to the './_site/w26' directory by default
-        run: bundle exec jekyll build
+        working-directory: repo_w26
+        run: bundle exec jekyll build --destination ../_site/w26
         env:
           JEKYLL_ENV: production
+
       - name: Show output sizes
         run: |
-          echo "Top-level workspace:"
-          du -h -d 2 . | sort -hr | head -n 40
-          echo ""
           echo "_site breakdown:"
-          du -h -d 3 _site | sort -hr | head -n 60
+          du -h -d 3 _site | sort -hr | head -n 80
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   # Deployment job
   deploy:
