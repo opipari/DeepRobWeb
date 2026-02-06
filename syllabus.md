@@ -46,6 +46,7 @@ The second half of the course will switch to seminar style covering following ad
 
 - 3D vision in robotics
 - Pose estimation
+- Attention and Transformers
 - Object perception for robot manipulation
 - Neural radiance fields for perception
 - Robot grasp pose detection

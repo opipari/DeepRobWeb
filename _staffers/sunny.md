@@ -1,8 +1,8 @@
 ---
-name: Sydney Belt
+name: Sunny Xu
 role: Instructional Assistant
-email: sydbelt@umich.edu
+email: sunnyx@umich.edu
 website: https://www.linkedin.com/in/sydney-belt-a0690b252/
-photo: images/sydney.webp
+photo: images/sunny.webp
 order: 2
 ---

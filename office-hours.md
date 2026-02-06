@@ -21,4 +21,4 @@ nav_order: 4
 **For accessing office hours virtually, please refer to the calendar for each instructor's preferred Zoom link. If no Zoom link is listed, please join their office hours queue and share your personal Zoom link as your location.**
 </div>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FDetroit&showPrint=0&mode=WEEK&src=Y18zZDZhOGMyMTg0Y2I3ZDA4ZmIwZDg4OGM1OWNiNTU0OGViNzczMTZiOTg3ZTE3YmFlYjFkZDkwOWRhZWQyZTc2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23C0CA33" style="border:solid 1px #777" width="1100" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_0d878f9fac4a6afae0d039faeb59b0ea94ebfa0b65fbe8be4f3d7a573c97875f%40group.calendar.google.com&ctz=America%2FDetroit" style="border:solid 1px #777" width="1100" height="600" frameborder="0" scrolling="no"></iframe>
