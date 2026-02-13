@@ -1,6 +1,6 @@
 ---
 name: Liangkun Sun
-role: Grader
+role: Instructional Assistant
 email: liangkun@umich.edu
-order: 2
+order: 6
 ---
