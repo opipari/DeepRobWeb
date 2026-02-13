@@ -4,9 +4,9 @@ title: Week 6
 
 
 
-Feb 10
-: [**Lec 9**]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_training_neural_networks.pdf){: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} [**Training Neural Networks I**]({{ site.baseurl }}/assets/slides/deeprob_lecture_09_training_neural_networks.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/2PMvaA){: target="_blank" rel="noopener noreferrer"}
+Feb 9
+: [**Lec 9**]({{ site.baseurl }}/assets/slides/20260209_DeepRob_Lecture9.pdf){: #lec-9 .label .label-purple target="_blank" rel="noopener noreferrer"} [**Training Neural Networks I**]({{ site.baseurl }}/assets/slides/20260209_DeepRob_Lecture9.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/Ai0Ysg){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 cs231n Training I](https://cs231n.github.io/neural-networks-2/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
@@ -16,19 +16,20 @@ Feb 10
 
 
 
-Feb 11
-: **Dis 4**{: #dis-4 .label .label-blue target="_blank" rel="noopener noreferrer" } **P2 Help**
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/oUpfVH){: target="_blank" rel="noopener noreferrer"}
+Feb 10
+: **Dis 4**{: #dis-4 .label .label-blue target="_blank" rel="noopener noreferrer" } [**Singular Value Decomposition**](https://drive.google.com/file/d/1NhzdKeEGdrx8Tk_86WrjLIB6ksMiojJp/view?usp=drive_link)
+
 : &nbsp;
-  : [📖 Krizhevsky et al., AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){: target="_blank" rel="noopener noreferrer"}
+
+  : [📖 CMU CSTheory: SVD](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf){: target="_blank" rel="noopener noreferrer"}
 
 
 
 
 
-Feb 12
-: [**Lec 10**]({{ site.baseurl }}/assets/slides/deeprob_lecture_10_training_neural_networks.pdf){: #lec-10 .label .label-purple target="_blank" rel="noopener noreferrer"} [**Training Neural Networks II**]({{ site.baseurl }}/assets/slides/deeprob_lecture_10_training_neural_networks.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/iQwcUy){: target="_blank" rel="noopener noreferrer"}
+Feb 11
+: [**Lec 10**]({{ site.baseurl }}/assets/slides/20260211_DeepRob_Lecture10.pdf){: #lec-10 .label .label-purple target="_blank" rel="noopener noreferrer"} [**Training Neural Networks II**]({{ site.baseurl }}/assets/slides/20260211_DeepRob_Lecture10.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/oz9hjw){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
   : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
@@ -38,7 +39,7 @@ Feb 12
 
 
 
-Feb 16
+Feb 15
 : [**Project 2 due**]({{ site.baseurl }}/projects/project2/){: .label .label-red } [**Project 3 out**]({{ site.baseurl }}/projects/project3/){: .label .label-yellow }
 : &nbsp;
 

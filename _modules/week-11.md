@@ -3,29 +3,41 @@ title: Week 11
 ---
 
 
-Mar 24
-: [**Lec 19**]({{ site.baseurl }}/assets/slides/deeprob_lecture_18_vision_transformers.pdf){: #lec-19 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Vision Transformers**]({{ site.baseurl }}/assets/slides/deeprob_lecture_18_vision_transformers.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/Cxy7e5){: target="_blank" rel="noopener noreferrer"}
+
+Mar 16
+: [**Lec 17**]({{ site.baseurl }}/assets/slides/deeprob_lecture_16_sequences.pdf){: #lec-17 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Sequences**]({{ site.baseurl }}/assets/slides/deeprob_lecture_16_sequences.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/E36OWG){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Devlin, BERT](https://arxiv.org/pdf/1810.04805.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Andrej Karpathy, Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Radford, CLIP](https://arxiv.org/abs/2103.00020){: target="_blank" rel="noopener noreferrer"}
+  : [📖 Lena Voita, NLP Course For You](https://lena-voita.github.io/nlp_course.html){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
-  : [📖 Kerr, LERF](https://www.lerf.io){: target="_blank" rel="noopener noreferrer"}
-
-
-Mar 25
-: **Dis 9**{: #dis-9 .label .label-blue } **P4 Help**
-: &nbsp;
+  : [📖 Vaswani, Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf){: target="_blank" rel="noopener noreferrer"}
 
 
 
-Mar 26
-: [**Lec 20**]({{ site.baseurl }}/assets/slides/deeprob_lecture_19_transformers.pdf){: #lec-20 .label .label-purple target="_blank" rel="noopener noreferrer" } [**More Transformers**]({{ site.baseurl }}/assets/slides/deeprob_lecture_19_transformers.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/n5EkNf){: target="_blank" rel="noopener noreferrer"}
+Mar 17
+: **Dis 8**{: #dis-8 .label .label-blue target="_blank" rel="noopener noreferrer" } **Generative Models**
 : &nbsp;
 
 
-Mar 30
-: [**Project 4 due**]({{ site.baseurl }}/projects/project4/){: .label .label-red }
+
+Mar 18
+: [**Lec 18**]({{ site.baseurl }}/assets/slides/deeprob_lecture_17_attention.pdf){: #lec-18 .label .label-purple target="_blank" rel="noopener noreferrer" } [**Attention, Transformer**]({{ site.baseurl }}/assets/slides/deeprob_lecture_17_attention.pdf){: target="_blank" rel="noopener noreferrer"}
+  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/qQeP8k){: target="_blank" rel="noopener noreferrer"}
 : &nbsp;
+  : [📖 Dosovitskiy, ViT](https://arxiv.org/pdf/2010.11929.pdf){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Carion, DETR](https://arxiv.org/pdf/2005.12872.pdf){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Xie, SegFormer](https://arxiv.org/pdf/2105.15203.pdf){: target="_blank" rel="noopener noreferrer"}
+{: style="pointer-events: none; opacity: 0.6;" }
+
+<!--  {: style="pointer-events: none; opacity: 0.6;" }
+ Grays out unreleased content. Comment out to activate the link -->
+
+
+
+
+
+

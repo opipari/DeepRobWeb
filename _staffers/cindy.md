@@ -2,6 +2,7 @@
 name: Cindy Yang
 role: Instructional Assistant
 email: cwyang@umich.edu
-photo: images/cindy.webp
+website: https://cwyang.dev
+photo: images/cindy.jpg
 order: 3
 ---
