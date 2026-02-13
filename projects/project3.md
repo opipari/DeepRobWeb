@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Project 3
 parent: Projects
@@ -56,4 +56,4 @@ This project is due on <b>Sunday, March 9th at 11:59pm EST</b>. We suggest start
 
 ## Grading
 
-This project will be graded by the [Autograder](https://autograder.io/web/project/2892){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 5 times per day.
+This project will be graded by the [Autograder](https://autograder.io/web/project/2892){: target="_blank" rel="noopener noreferrer"}. The project is worth a total of 90 points. You may submit to the Autograder for feedback up to 5 times per day. -->
