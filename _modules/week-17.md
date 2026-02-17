@@ -2,8 +2,8 @@
 title: Week 17
 ---
 
-Apr 28
-: **No Class**
+Apr 27
+: **Final Project Showcase**
 : [**Final Project Due**]({{ site.baseurl }}/projects/finalproject/){: .label .label-red }
 {: style="pointer-events: none; opacity: 0.6;" }
 

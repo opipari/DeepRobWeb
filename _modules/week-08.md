@@ -15,11 +15,9 @@ Feb 23
 
 
 Feb 24
-: [**Dis 6**]({{ site.baseurl }}/assets/slides/deeprob_discussion_06.pdf){: #dis-6 .label .label-blue target="_blank" rel="noopener noreferrer" } [**How to Read Research Papers**]({{ site.baseurl }}/assets/slides/deeprob_discussion_06.pdf){: target="_blank" rel="noopener noreferrer"}
-  : [![]({{ site.baseurl }}/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://leccap.engin.umich.edu/leccap/player/r/3EE1M0){: target="_blank" rel="noopener noreferrer"}
-: &nbsp;
-  : [📖 Vannevar Bush, Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm){: target="_blank" rel="noopener noreferrer"}
+: [**Dis 6**]({{ site.baseurl }}/assets/slides/deeprob_discussion_06.pdf){: #dis-6 .label .label-blue target="_blank" rel="noopener noreferrer" } [**Pose Estimation with Objectron**]({{ site.baseurl }}/assets/slides/deeprob_discussion_06.pdf){: target="_blank" rel="noopener noreferrer"}
 
+  : [📖 Objectron](https://openaccess.thecvf.com/content/CVPR2021/papers/){: target="_blank" rel="noopener noreferrer"}  
 
 
 
