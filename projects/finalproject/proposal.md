@@ -57,7 +57,7 @@ Given a proposed approach, the presenter should lay out a course of action to ac
 ## Presentation Deadline
 {: #presentation-deadline }
 
-**Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to the scheduled paper presentation date of [April 1, 2025]({{ site.baseurl }}/calendar/#dis-10).** Students should submit a copy of their slides as a PDF file via the course canvas.
+**Students in DeepRob should submit their presentation slides formatted as a PDF at least 3 days prior to the scheduled paper presentation date of [March 31, 2026 3:30 PM]({{ site.baseurl }}/calendar/#dis-10).** Students should submit a copy of their slides as a PDF to the folder "Final_Project_LightningTalk" in the google drive.
 
 
 ## Useful Resources

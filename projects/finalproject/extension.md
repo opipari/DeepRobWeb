@@ -38,5 +38,5 @@ In this part of the deliverable, your team will propose and develop a new compon
 ## Paper Reproduction & Extension Deadline
 {: #extension-deadline }
 
-**The algorithmic extension is due Monday, April 28th by 11:59PM EST.** Students in DeepRob should submit their paper reproduction and algorithmic extension along with the other final project deliverables (paper reproduction and written report) as a ZIP file via canvas. **Your submission should be documented and organized such that the course staff can replicate your extension and reported results.**
+**The algorithmic extension is due Monday, April 27th by 11:59PM EST.** Students in DeepRob should submit their paper reproduction and algorithmic extension along with the other final project deliverables (paper reproduction and written report) as a ZIP file via canvas. **Your submission should be documented and organized such that the course staff can replicate your extension and reported results.**
 

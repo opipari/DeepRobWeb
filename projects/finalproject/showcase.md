@@ -26,4 +26,4 @@ The goal for this deliverable is to share the outcome of your project with your 
 
 ## Showcase Deadline
 {: #showcase-deadline }
-**The project showcase will take place in discussion section on [April 22nd]({{ site.baseurl }}/calendar/#dis-13).** 
+**The project showcase will take place in discussion section on April 27th.
