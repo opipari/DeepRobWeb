@@ -11,8 +11,9 @@ has_toc: false
 # Final Project Reports
 {:.no_toc}
 
+### [Adapting Temporal Ensemble to Flow Matching Policies for Robot Manipulation]({{ site.baseurl }}/reports/ensemble-flow/)
+Yuri Carnino, Nithin Reddy and Robert Roe
 
-### [ ***(W25 Example)*** (Eye) BAGS: Bundle-Adjusting Gaussian Splatting]({{ site.baseurl }}/reports/BAGS/)
-Ruben Fonseca and Sacchin Sundar
+
 
 
